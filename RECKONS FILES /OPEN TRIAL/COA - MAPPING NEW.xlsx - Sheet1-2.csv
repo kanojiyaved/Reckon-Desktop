@@ -1,0 +1,858 @@
+Old Account Name,Account Name,Type,Parent Code,Old Code,New Code
+Term Deposit 5,Term Deposit 5,Bank,1-0000,1201,1-1201
+Aussie Home Additions,Aussie Home Additions,Bank,1-0000,1202,1-1202
+Bad Debts,Bad Debts,Bank,1-0000,1203,1-1203
+Choices Flooring Noosaville,Choices Flooring Noosaville,Bank,1-0000,1204,1-1204
+Holden Card - M.Card,Holden Card - M.Card,Bank,1-0000,1205,1-1205
+Long Service Leave Account,Long Service Leave Account,Bank,1-0000,1206,1-1206
+Mr. Garages,Mr. Garages,Bank,1-0000,1207,1-1207
+NAB Qantas Business Card,NAB Qantas Business Card,Bank,1-0000,1208,1-1208
+NAB Visa Platinum,NAB Visa Platinum,Bank,1-0000,1209,1-1209
+National Visa Mastercard,National Visa Mastercard,Bank,1-0000,1210,1-1210
+Petty Cash,Petty Cash,Bank,1-0000,1211,1-1211
+Petty Cash- Noosaville,Petty Cash- Noosaville,Bank,1-0000,1212,1-1212
+Petty Cash- Universal,Petty Cash- Universal,Bank,1-0000,1213,1-1213
+Term Deposit 2,Term Deposit 2,Bank,1-0000,1214,1-1214
+Term Deposit 2019,Term Deposit 2019,Bank,1-0000,1215,1-1215
+Term Deposit 2019 #2,Term Deposit 2019 #2,Bank,1-0000,1216,1-1216
+Term Deposit 3,Term Deposit 3,Bank,1-0000,1217,1-1217
+Term Deposit 4,Term Deposit 4,Bank,1-0000,1218,1-1218
+Term Deposit Account,Term Deposit Account,Bank,1-0000,1219,1-1219
+Term Deposit Macquarie Bank,Term Deposit Macquarie Bank,Bank,1-0000,1220,1-1220
+UHI 2nd Account,UHI 2nd Account,Bank,1-0000,1221,1-1221
+Universal Home Improvements Acc,Universal Home Improvements Acc,Bank,1-0000,1222,1-1222
+Visa - National Gold Card,Visa - National Gold Card,Bank,1-0000,1223,1-1223
+Universal Patio,Universal Patio,Bank,1-0000,2,1-2
+Accounts Receivable,Accounts Receivable,Accounts Receivable,0,1224,1-5000
+Accounts Receivable other,Accounts Receivable other,Accounts Receivable,0,1225,1-5000
+Accounts Receivable,Accounts Receivable,Accounts Receivable,0,11000,1-5000
+Accounts Receivable,Accounts Receivable,Accounts Receivable,0,11001,1-5000
+Sundry Debtors,Sundry Debtors,Other Current Asset,1-0000,1226,1-1226
+Loan to Bemeko,Loan to Bemeko,Other Current Asset,1-0000,1227,1-1227
+Accounts Receivable - Other,Accounts Receivable - Other,Other Current Asset,1-0000,1228,1-1228
+CGT Rollover - Universal Patio,CGT Rollover - Universal Patio,Other Current Asset,1-0000,1229,1-1229
+Deposits Paid,Deposits Paid,Other Current Asset,1-0000,1230,1-1230
+Loan - UHI Investments,Loan - UHI Investments,Other Current Asset,1-0000,1231,1-1231
+Loan to UHI Investments,Loan to UHI Investments,Other Current Asset,1-0000,1232,1-1232
+Mr  Garages,Mr  Garages,Other Current Asset,1-0000,1233,1-1233
+Noosaville Undeposited Funds,Noosaville Undeposited Funds,Other Current Asset,1-0000,1234,1-1234
+Provision for Doubtful Debts,Provision for Doubtful Debts,Other Current Asset,1-0000,1235,1-1235
+Rental Bond - Lower Mountain Ro,Rental Bond - Lower Mountain Ro,Other Current Asset,1-0000,1236,1-1236
+Rental Bond - Noosa,Rental Bond - Noosa,Other Current Asset,1-0000,1237,1-1237
+Undeposited Funds,Undeposited Funds,Other Current Asset,1-0000,1238,1-2000
+Property Improvements at Cost,Property Improvements at Cost,Fixed Asset,1-0000,1239,1-1239
+Property Improvements at Cost:Less Accumulated Depreciation,Improvements at Cost:Less Accumulated Depreciation,Fixed Asset,1-0000,1240,1-1240
+Buildings - Cnr Main St & Old M,Buildings - Cnr Main St & Old M,Fixed Asset,1-0000,1241,1-1241
+Buildings - Cnr Old Mbro & Main,Buildings - Cnr Old Mbro & Main,Fixed Asset,1-0000,1242,1-1242
+Business- Choices Carpet Noosa,Business- Choices Carpet Noosa,Fixed Asset,1-0000,1243,1-1243
+Business- Choices Carpet Noosa:Furniture and Fittings,iness- Choices Carpet Noosa:Furniture and Fittings,Fixed Asset,1-0000,1244,1-1244
+Business- Choices Carpet Noosa:Furniture and Fittings:Less Accumulated Depreciation,rniture and Fittings:Less Accumulated Depreciation,Fixed Asset,1-0000,1245,1-1245
+Business- Choices Carpet Noosa:Plant & Equipment < $1000,ss- Choices Carpet Noosa:Plant & Equipment < $1000,Fixed Asset,1-0000,1246,1-1246
+Business- Choices Carpet Noosa:Plant and Equipment >$1000,s- Choices Carpet Noosa:Plant and Equipment >$1000,Fixed Asset,1-0000,1247,1-1247
+Business - National Tiles,Business - National Tiles,Fixed Asset,1-0000,1248,1-1248
+Business - National Tiles:Furniture and Fittings,Business - National Tiles:Furniture and Fittings,Fixed Asset,1-0000,1249,1-1249
+Business - National Tiles:Furniture and Fittings:Less Accumulated Depreciation,rniture and Fittings:Less Accumulated Depreciation,Fixed Asset,1-0000,1250,1-1250
+Industrial Land,Industrial Land,Fixed Asset,1-0000,1251,1-1251
+Land - Cnr Main Street & Old Mb,Land - Cnr Main Street & Old Mb,Fixed Asset,1-0000,1252,1-1252
+Land & Buildings - Sportsfront,Land & Buildings - Sportsfront,Fixed Asset,1-0000,1253,1-1253
+Low Value Pool,Low Value Pool,Fixed Asset,1-0000,1254,1-1254
+Motor Vehicles at Cost,Motor Vehicles at Cost,Fixed Asset,1-0000,1255,1-1255
+Motor Vehicles at Cost:Audi,Motor Vehicles at Cost:Audi,Fixed Asset,1-0000,1256,1-1256
+Motor Vehicles at Cost:Less Accumulated Depreciation,tor Vehicles at Cost:Less Accumulated Depreciation,Fixed Asset,1-0000,1257,1-1257
+Number Plates,Number Plates,Fixed Asset,1-0000,1258,1-1258
+Office Equipment,Office Equipment,Fixed Asset,1-0000,1259,1-1259
+Office Equipment:Less Accumulated Depn,Office Equipment:Less Accumulated Depn,Fixed Asset,1-0000,1260,1-1260
+Plant & Equipment > $1000,Plant & Equipment > $1000,Fixed Asset,1-0000,1261,1-1261
+Plant and Equipment < $1000,Plant and Equipment < $1000,Fixed Asset,1-0000,1262,1-1262
+Plant and Equipment at Cost,Plant and Equipment at Cost,Fixed Asset,1-0000,1263,1-1263
+Plant and Equipment at Cost:Less Accumulated Depreciation,nd Equipment at Cost:Less Accumulated Depreciation,Fixed Asset,1-0000,1264,1-1264
+Property 229 MB HB Road,Property 229 MB HB Road,Fixed Asset,1-0000,1265,1-1265
+Shares for Choices H/Bay,Shares for Choices H/Bay,Fixed Asset,1-0000,1266,1-1266
+Small Business General Pool,Small Business General Pool,Fixed Asset,1-0000,1267,1-1267
+Aussie Home Additions.,Aussie Home Additions.,Other Asset,1-0000,1268,1-1268
+Aussie Home Additions1,Aussie Home Additions1,Other Asset,1-0000,1269,1-1269
+Borrowing Costs,Borrowing Costs,Other Asset,1-0000,1270,1-1270
+Borrowing Costs:Less amortisation,Borrowing Costs:Less amortisation,Other Asset,1-0000,1271,1-1271
+Goodwill - Aussie Home Addition,Goodwill - Aussie Home Addition,Other Asset,1-0000,1272,1-1272
+Kia - Instalation Van,Kia - Instalation Van,Other Asset,1-0000,1273,1-1273
+Loan-Shane Hill,Loan-Shane Hill,Other Asset,1-0000,1274,1-1274
+Loan - Euroloc,Loan - Euroloc,Other Asset,1-0000,1275,1-1275
+Loan to Crazy Hill,Loan to Crazy Hill,Other Asset,1-0000,1276,1-1276
+Sportsfront - Hervey Bay,Sportsfront - Hervey Bay,Other Asset,1-0000,1277,1-1277
+Stock,Stock,Other Asset,1-0000,1278,1-1278
+Stock on Hand,Stock on Hand,Other Asset,1-0000,1279,1-1279
+Universal Fencing,Universal Fencing,Other Asset,1-0000,1280,1-1280
+Work in Progress,Work in Progress,Other Asset,1-0000,1281,1-1281
+Accounts Payable,Accounts Payable,Accounts Payable,0,1282,2-1000
+Credit Cards,Credit Cards,Credit Card,2-0000,1283,2-1283
+NAB Qantas M/Card,NAB Qantas M/Card,Credit Card,2-0000,1284,2-1284
+Payroll Tax Payable,Payroll Tax Payable,Other Current Liability,2-0000,1285,2-1285
+4 x 4 Repayments,4 x 4 Repayments,Other Current Liability,2-0000,1286,2-1286
+Accounts Payable - Other,Accounts Payable - Other,Other Current Liability,2-0000,1287,2-1287
+Accrued Charges Payroll Tax,Accrued Charges Payroll Tax,Other Current Liability,2-0000,1288,2-1288
+Deposits in Advance,Deposits in Advance,Other Current Liability,2-0000,1289,2-1289
+GST Adjustments,GST Adjustments,Other Current Liability,2-0000,1290,2-1290
+GST Clearing Account,GST Clearing Account,Other Current Liability,2-0000,1291,2-1291
+GST Paid,GST Paid,Other Current Liability,2-0000,1292,2-1292
+Hire Purchase - Hino,Hire Purchase - Hino,Other Current Liability,2-0000,1293,2-1293
+Hire Purchase - Hino:Less Unexpired Charges,Hire Purchase - Hino:Less Unexpired Charges,Other Current Liability,2-0000,1294,2-1294
+Hire Purchase - Truck (599KDM),Hire Purchase - Truck (599KDM),Other Current Liability,2-0000,1295,2-1295
+Hire Purchase - Truck (599KDM):Less Unexpired Term Charges,chase - Truck (599KDM):Less Unexpired Term Charges,Other Current Liability,2-0000,1296,2-1296
+Lease Vehicles,Lease Vehicles,Other Current Liability,2-0000,1297,2-1297
+Lease Vehicles:H/P- Hire Purchase- Mercedes,Lease Vehicles:H/P- Hire Purchase- Mercedes,Other Current Liability,2-0000,1298,2-1298
+Lease Vehicles:H/P- Hire Purchase- Mercedes:Less Unexpired Term Charges,ire Purchase- Mercedes:Less Unexpired Term Charges,Other Current Liability,2-0000,1299,2-1299
+Lease Vehicles:H/P - Holden Colorado - Holden1,Lease Vehicles:H/P - Holden Colorado - Holden1,Other Current Liability,2-0000,1300,2-1300
+Lease Vehicles:H/P - Holden Colorado - Holden1:Less Unexpired Term Charges,den Colorado - Holden1:Less Unexpired Term Charges,Other Current Liability,2-0000,1301,2-1301
+Lease Vehicles:H/P - Isuzu Truck,Lease Vehicles:H/P - Isuzu Truck,Other Current Liability,2-0000,1302,2-1302
+Lease Vehicles:H/P - Isuzu Truck:Less Unexpired Term Charges,cles:H/P - Isuzu Truck:Less Unexpired Term Charges,Other Current Liability,2-0000,1303,2-1303
+Lease Vehicles:H/P - Toyota Hilux 2,Lease Vehicles:H/P - Toyota Hilux 2,Other Current Liability,2-0000,1304,2-1304
+Lease Vehicles:H/P - Toyota Hilux 2:Less Unexpired Term Charges,s:H/P - Toyota Hilux 2:Less Unexpired Term Charges,Other Current Liability,2-0000,1305,2-1305
+Lease Vehicles:H/P - Toyota Hilux 3,Lease Vehicles:H/P - Toyota Hilux 3,Other Current Liability,2-0000,1306,2-1306
+Lease Vehicles:H/P - Toyota Hilux 3:Less Unexpired Term Charges,s:H/P - Toyota Hilux 3:Less Unexpired Term Charges,Other Current Liability,2-0000,1307,2-1307
+Lease Vehicles:H/P - Toyota Hilux 4,Lease Vehicles:H/P - Toyota Hilux 4,Other Current Liability,2-0000,1308,2-1308
+Lease Vehicles:H/P - Toyota Hilux 4:Less Unexpired Term Charges,s:H/P - Toyota Hilux 4:Less Unexpired Term Charges,Other Current Liability,2-0000,1309,2-1309
+Lease Vehicles:H/P - Toyota Hilux SR5 UHI01,Lease Vehicles:H/P - Toyota Hilux SR5 UHI01,Other Current Liability,2-0000,1310,2-1310
+Lease Vehicles:H/P - Toyota Hilux x 4,Lease Vehicles:H/P - Toyota Hilux x 4,Other Current Liability,2-0000,1311,2-1311
+Lease Vehicles:H/P - Toyota Hilux x 4:Less Unexpired Term Charges,H/P - Toyota Hilux x 4:Less Unexpired Term Charges,Other Current Liability,2-0000,1312,2-1312
+Lease Vehicles:H/P Holden Colorado Z71 White,Lease Vehicles:H/P Holden Colorado Z71 White,Other Current Liability,2-0000,1313,2-1313
+Lease Vehicles:H/P Holden Colorado Z71 White:Less Unexpired Term Charges,den Colorado Z71 White:Less Unexpired Term Charges,Other Current Liability,2-0000,1314,2-1314
+Lease Vehicles:H/P Holden Trailblazer Z71,Lease Vehicles:H/P Holden Trailblazer Z71,Other Current Liability,2-0000,1315,2-1315
+Lease Vehicles:H/P Holden Trailblazer Z71:Less Unexpired Term Charges,Holden Trailblazer Z71:Less Unexpired Term Charges,Other Current Liability,2-0000,1316,2-1316
+Lease Vehicles:H/P HSV Senator - TRYME,Lease Vehicles:H/P HSV Senator - TRYME,Other Current Liability,2-0000,1317,2-1317
+Lease Vehicles:H/P HSV Senator - TRYME:Less Unexpired Term Charges,/P HSV Senator - TRYME:Less Unexpired Term Charges,Other Current Liability,2-0000,1318,2-1318
+Lease Vehicles:H/P Jaguar F-Pace - Megs522,Lease Vehicles:H/P Jaguar F-Pace - Megs522,Other Current Liability,2-0000,1319,2-1319
+Lease Vehicles:H/P Jaguar F-Pace - Megs522:Less Unexpired Term Charges,aguar F-Pace - Megs522:Less Unexpired Term Charges,Other Current Liability,2-0000,1320,2-1320
+Lease Vehicles:H/P Kia Stinger SIK21,Lease Vehicles:H/P Kia Stinger SIK21,Other Current Liability,2-0000,1321,2-1321
+Lease Vehicles:H/P Kia Stinger SIK21:Less Unexpired Term Charges,:H/P Kia Stinger SIK21:Less Unexpired Term Charges,Other Current Liability,2-0000,1322,2-1322
+"Lease Vehicles:H/P Toyota Camry x 3, Hilux x 1","Lease Vehicles:H/P Toyota Camry x 3, Hilux x 1",Other Current Liability,2-0000,1323,2-1323
+"Lease Vehicles:H/P Toyota Camry x 3, Hilux x 1:Less Unexpired Loan Charges","a Camry x 3, Hilux x 1:Less Unexpired Loan Charges",Other Current Liability,2-0000,1324,2-1324
+Lease Vehicles:H/P Toyota HiAce UHI07,Lease Vehicles:H/P Toyota HiAce UHI07,Other Current Liability,2-0000,1325,2-1325
+Lease Vehicles:H/P Toyota HiAce UHI07:Less Unexpired Term Charges,H/P Toyota HiAce UHI07:Less Unexpired Term Charges,Other Current Liability,2-0000,1326,2-1326
+Lease Vehicles:H/P Toyota Hilux TRD UHI01,Lease Vehicles:H/P Toyota Hilux TRD UHI01,Other Current Liability,2-0000,1327,2-1327
+Lease Vehicles:H/P Toyota Hilux TRD UHI01:Less Unexpired Term Charges,Toyota Hilux TRD UHI01:Less Unexpired Term Charges,Other Current Liability,2-0000,1328,2-1328
+Lease Vehicles:H/P Toyota Hilux UHI08,Lease Vehicles:H/P Toyota Hilux UHI08,Other Current Liability,2-0000,1329,2-1329
+Lease Vehicles:H/P Toyota Hilux UHI08:Less Unexpired Term Charges,H/P Toyota Hilux UHI08:Less Unexpired Term Charges,Other Current Liability,2-0000,1330,2-1330
+Lease Vehicles:Hire Purchase- 2x ILoads,Lease Vehicles:Hire Purchase- 2x ILoads,Other Current Liability,2-0000,1331,2-1331
+Lease Vehicles:Hire Purchase- 2x ILoads:Less Unexpired Term Charges,re Purchase- 2x ILoads:Less Unexpired Term Charges,Other Current Liability,2-0000,1332,2-1332
+Lease Vehicles:Hire Purchase- Holden Colorados,Lease Vehicles:Hire Purchase- Holden Colorados,Other Current Liability,2-0000,1333,2-1333
+Lease Vehicles:Hire Purchase- Holden Colorados:HP Unexpired Charges,re Purchase- Holden Colorados:HP Unexpired Charges,Other Current Liability,2-0000,1334,2-1334
+Lease Vehicles:Hire Purchase- Jeep (MEG522),Lease Vehicles:Hire Purchase- Jeep (MEG522),Other Current Liability,2-0000,1335,2-1335
+Lease Vehicles:Hire Purchase- Jeep (MEG522):Less Unexpired Charges,ire Purchase- Jeep (MEG522):Less Unexpired Charges,Other Current Liability,2-0000,1336,2-1336
+Lease Vehicles:Hire Purchase-Black Clubsport,Lease Vehicles:Hire Purchase-Black Clubsport,Other Current Liability,2-0000,1337,2-1337
+Lease Vehicles:Hire Purchase-Black Clubsport:Less Unexpired Charges,re Purchase-Black Clubsport:Less Unexpired Charges,Other Current Liability,2-0000,1338,2-1338
+Lease Vehicles:Hire Purchase-Great Wall Ute,Lease Vehicles:Hire Purchase-Great Wall Ute,Other Current Liability,2-0000,1339,2-1339
+Lease Vehicles:Hire Purchase-Great Wall Ute:Less Unexpired Term Charges,urchase-Great Wall Ute:Less Unexpired Term Charges,Other Current Liability,2-0000,1340,2-1340
+Lease Vehicles:Hire Purchase-Holden SSV,Lease Vehicles:Hire Purchase-Holden SSV,Other Current Liability,2-0000,1341,2-1341
+Lease Vehicles:Hire Purchase-Holden SSV:Less unexpired int charges,ire Purchase-Holden SSV:Less unexpired int charges,Other Current Liability,2-0000,1342,2-1342
+Lease Vehicles:Hire Purchase-Jeep (UHI01),Lease Vehicles:Hire Purchase-Jeep (UHI01),Other Current Liability,2-0000,1343,2-1343
+Lease Vehicles:Hire Purchase-Jeep (UHI01):Less Unexpired Interest Charges,chase-Jeep (UHI01):Less Unexpired Interest Charges,Other Current Liability,2-0000,1344,2-1344
+Lease Vehicles:Hire Purchase - Colorado 006WPQ,Lease Vehicles:Hire Purchase - Colorado 006WPQ,Other Current Liability,2-0000,1345,2-1345
+Lease Vehicles:Hire Purchase - Colorado 006WPQ:Less Unexpired Term Charges,hase - Colorado 006WPQ:Less Unexpired Term Charges,Other Current Liability,2-0000,1346,2-1346
+Lease Vehicles:Hire Purchase Kia Cerato 564XBF,Lease Vehicles:Hire Purchase Kia Cerato 564XBF,Other Current Liability,2-0000,1347,2-1347
+Lease Vehicles:Hire Purchase Kia Cerato 564XBF:Less Unexpired Term Charges,hase Kia Cerato 564XBF:Less Unexpired Term Charges,Other Current Liability,2-0000,1348,2-1348
+Lease Vehicles:Hire Purchase ToyotaHilux UHI08,Lease Vehicles:Hire Purchase ToyotaHilux UHI08,Other Current Liability,2-0000,1349,2-1349
+Lease Vehicles:Hire Purchase ToyotaHilux UHI08:Less Unexpired Term Charges,hase ToyotaHilux UHI08:Less Unexpired Term Charges,Other Current Liability,2-0000,1350,2-1350
+Lease Vehicles:M/V- Hire Purchase- Holden GTS,Lease Vehicles:M/V- Hire Purchase- Holden GTS,Other Current Liability,2-0000,1351,2-1351
+Lease Vehicles:M/V- Hire Purchase- Holden GTS:Less Unexp Term Charges, Hire Purchase- Holden GTS:Less Unexp Term Charges,Other Current Liability,2-0000,1352,2-1352
+Loan - Universal Patios,Loan - Universal Patios,Other Current Liability,2-0000,1353,2-1353
+M/V- Ford Mustang,M/V- Ford Mustang,Other Current Liability,2-0000,1354,2-1354
+M/V- Ford Mustang:Less Unexp Term Charges,M/V- Ford Mustang:Less Unexp Term Charges,Other Current Liability,2-0000,1355,2-1355
+M/V- Hire Purchase- Ralliart,M/V- Hire Purchase- Ralliart,Other Current Liability,2-0000,1356,2-1356
+M/V- Hire Purchase- Ralliart:Less Unexpired Term Charges,ire Purchase- Ralliart:Less Unexpired Term Charges,Other Current Liability,2-0000,1357,2-1357
+M/V- Hire Purchase- SV6 - Green,M/V- Hire Purchase- SV6 - Green,Other Current Liability,2-0000,1358,2-1358
+M/V- Hire Purchase- SV6 - Green:Less Unexpired Charges, Hire Purchase- SV6 - Green:Less Unexpired Charges,Other Current Liability,2-0000,1359,2-1359
+M/V- Hire Purchase - Ford GT,M/V- Hire Purchase - Ford GT,Other Current Liability,2-0000,1360,2-1360
+M/V- Hire Purchase - Ford GT:Less Unexpired Charges,/V- Hire Purchase - Ford GT:Less Unexpired Charges,Other Current Liability,2-0000,1361,2-1361
+M/V- Hire Purchase - Ford GTP,M/V- Hire Purchase - Ford GTP,Other Current Liability,2-0000,1362,2-1362
+M/V- Hire Purchase GTP,M/V- Hire Purchase GTP,Other Current Liability,2-0000,1363,2-1363
+M/V- Hire Purchase SV6 - Purple,M/V- Hire Purchase SV6 - Purple,Other Current Liability,2-0000,1364,2-1364
+M/V-Audi-Loan Stephen Hill,M/V-Audi-Loan Stephen Hill,Other Current Liability,2-0000,1365,2-1365
+M/V - Hire Purchase - Avalanche,M/V - Hire Purchase - Avalanche,Other Current Liability,2-0000,1366,2-1366
+M/V - Hire Purchase - Avalanche:Less Unexpired Charges,- Hire Purchase - Avalanche:Less Unexpired Charges,Other Current Liability,2-0000,1367,2-1367
+M/V - Hire Purchase - Evo V111,M/V - Hire Purchase - Evo V111,Other Current Liability,2-0000,1368,2-1368
+M/V - Hire Purchase - Evo V111:Less Unexpired Term Charges,re Purchase - Evo V111:Less Unexpired Term Charges,Other Current Liability,2-0000,1369,2-1369
+M/V - Hire Purchase - Truck,M/V - Hire Purchase - Truck,Other Current Liability,2-0000,1370,2-1370
+Main St Land,Main St Land,Other Current Liability,2-0000,1371,2-1371
+Mr. Garages Property,Mr. Garages Property,Other Current Liability,2-0000,1372,2-1372
+MV Hire Purchase- Crew Cab,MV Hire Purchase- Crew Cab,Other Current Liability,2-0000,1373,2-1373
+MV Hire Purchase- Crew Cab:Less Unexpired Charges CrewCab, Purchase- Crew Cab:Less Unexpired Charges CrewCab,Other Current Liability,2-0000,1374,2-1374
+MV Hire Purchase- Rodeo M/B,MV Hire Purchase- Rodeo M/B,Other Current Liability,2-0000,1375,2-1375
+Provision- Long Service Leave,Provision- Long Service Leave,Other Current Liability,2-0000,1376,2-1376
+Provision for Annual Leave,Provision for Annual Leave,Other Current Liability,2-0000,1377,2-1377
+Provision for Income Tax,Provision for Income Tax,Other Current Liability,2-0000,1378,2-1378
+Social Club Funds Held,Social Club Funds Held,Other Current Liability,2-0000,1379,2-1379
+Sportsfront - Business,Sportsfront - Business,Other Current Liability,2-0000,1380,2-1380
+Trade Creditors,Trade Creditors,Other Current Liability,2-0000,1381,2-1381
+Payroll Liabilities,Payroll Liabilities,Other Current Liability,2-0000,2100,2-2100
+Payroll Liabilities:Pay G Tax,Payroll Liabilities:Pay G Tax,Other Current Liability,2-0000,1382,2-1382
+Payroll Liabilities:Super,Payroll Liabilities:Super,Other Current Liability,2-0000,1383,2-1383
+Payroll Liabilities:Super:Salary Sacrifice,Payroll Liabilities:Super:Salary Sacrifice,Other Current Liability,2-0000,1384,2-1384
+Tax Payable,Tax Payable,Other Current Liability,2-0000,2200,2-1212
+Industrial Land - Hire Purchase,Industrial Land - Hire Purchase,Long Term Liability,2-0000,1385,2-1385
+Land - Crnr Main Street & Old M,Land - Crnr Main Street & Old M,Long Term Liability,2-0000,1386,2-1386
+Loa - National (Cnr Main St & O,Loa - National (Cnr Main St & O,Long Term Liability,2-0000,1387,2-1387
+Loan- Sportsfront,Loan- Sportsfront,Long Term Liability,2-0000,1388,2-1388
+Loan - J Barton,Loan - J Barton,Long Term Liability,2-0000,1389,2-1389
+Loan - Lynette Hill,Loan - Lynette Hill,Long Term Liability,2-0000,1390,2-1390
+loan - National Australia Bank,loan - National Australia Bank,Long Term Liability,2-0000,1391,2-1391
+Loan - Stephen and Lyn Hill,Loan - Stephen and Lyn Hill,Long Term Liability,2-0000,1392,2-1392
+Loan - Stephen Hill,Loan - Stephen Hill,Long Term Liability,2-0000,1393,2-1393
+Loan - Universal Home Improveme,Loan - Universal Home Improveme,Long Term Liability,2-0000,1394,2-1394
+Loan - Unknown,Loan - Unknown,Long Term Liability,2-0000,1395,2-1395
+Dividends Paid,Dividends Paid,Equity,3-0000,1396,3-1396
+Income Tax,Income Tax,Equity,3-0000,1397,3-1397
+Issued Capital,Issued Capital,Equity,3-0000,1398,3-1398
+Opening Bal Equity,Opening Bal Equity,Equity,3-0000,3000,3-3000
+Retained Earnings,Retained Earnings,Equity,3-0000,32000,3-8000
+Retained Earnings1,Retained Earnings1,Equity,3-0000,3900,3-8000
+Steel Scrap Recycling,Steel Scrap Recycling,Income,4-0000,1399,4-1399
+Discounts to Customers,Discounts to Customers,Income,4-0000,1400,4-1400
+Early Payment Discounts,Early Payment Discounts,Income,4-0000,1401,4-1401
+Interest & Fee Rebates,Interest & Fee Rebates,Income,4-0000,1402,4-1402
+Miscellaneous,Miscellaneous,Income,4-0000,1403,4-1403
+Newfurn Discount- H/Bay,Newfurn Discount- H/Bay,Income,4-0000,1404,4-1404
+Newfurn Discount- Noosaville,Newfurn Discount- Noosaville,Income,4-0000,1405,4-1405
+Petty Cash from tin,Petty Cash from tin,Income,4-0000,1406,4-1406
+Rebate,Rebate,Income,4-0000,1407,4-1407
+Reimbursement Of Expenses,Reimbursement Of Expenses,Income,4-0000,1408,4-1408
+Sale - Awnings,Sale - Awnings,Income,4-0000,1409,4-1409
+Sales,Sales,Income,4-0000,1410,4-1410
+Sales- Blinds Maryborough,Sales- Blinds Maryborough,Income,4-0000,1411,4-1411
+Sales- Garage Gympie,Sales- Garage Gympie,Income,4-0000,1412,4-1412
+Sales- Garage Maryborough,Sales- Garage Maryborough,Income,4-0000,1413,4-1413
+Sales- Noosa,Sales- Noosa,Income,4-0000,1414,4-1414
+Sales- Patio Bundaberg,Sales- Patio Bundaberg,Income,4-0000,1415,4-1415
+Sales- Patio Gympie,Sales- Patio Gympie,Income,4-0000,1416,4-1416
+Sales- Patio Maryborough,Sales- Patio Maryborough,Income,4-0000,1417,4-1417
+Sales- Security Maryborough,Sales- Security Maryborough,Income,4-0000,1418,4-1418
+Sales- Solar,Sales- Solar,Income,4-0000,1419,4-1419
+Sales- Vertical Bundaberg,Sales- Vertical Bundaberg,Income,4-0000,1420,4-1420
+Sales- Vertical Gympie,Sales- Vertical Gympie,Income,4-0000,1421,4-1421
+Sales-Carpet,Sales-Carpet,Income,4-0000,1422,4-1422
+Sales - Aluminium Slats,Sales - Aluminium Slats,Income,4-0000,1423,4-1423
+Sales - Blinds,Sales - Blinds,Income,4-0000,1424,4-1424
+Sales - Garage Bundaberg,Sales - Garage Bundaberg,Income,4-0000,1425,4-1425
+Sales - Garages,Sales - Garages,Income,4-0000,1426,4-1426
+Sales - National Tiles,Sales - National Tiles,Income,4-0000,1427,4-1427
+Sales - Patios,Sales - Patios,Income,4-0000,1428,4-1428
+Sales - Security,Sales - Security,Income,4-0000,1429,4-1429
+Sales Fencing,Sales Fencing,Income,4-0000,1430,4-1430
+Social Club,Social Club,Income,4-0000,1431,4-1431
+Tafe Contributions,Tafe Contributions,Income,4-0000,1432,4-1432
+Training Subsidy,Training Subsidy,Income,4-0000,1433,4-1433
+Transfer of Money,Transfer of Money,Income,4-0000,1434,4-1434
+Ute Rental - Craig Thomas,Ute Rental - Craig Thomas,Income,4-0000,1435,4-1435
+Closing Stock,Closing Stock,Cost of Goods Sold,5-0000,1436,5-1436
+Closing Work in Progress,Closing Work in Progress,Cost of Goods Sold,5-0000,1437,5-1437
+Freight and Cartage,Freight and Cartage,Cost of Goods Sold,5-0000,1438,5-1438
+"Licences, Fees and Permits","Licences, Fees and Permits",Cost of Goods Sold,5-0000,1439,5-1439
+Noosa Cost of Goods Sold,Noosa Cost of Goods Sold,Cost of Goods Sold,5-0000,1440,5-1440
+Noosa Cost of Goods Sold:Freight & Cartige,Noosa Cost of Goods Sold:Freight & Cartige,Cost of Goods Sold,5-0000,1441,5-1441
+Noosa Cost of Goods Sold:Purchases,Noosa Cost of Goods Sold:Purchases,Cost of Goods Sold,5-0000,1442,5-1442
+Opening Stock,Opening Stock,Cost of Goods Sold,5-0000,1443,5-1443
+Opening Work In Progress,Opening Work In Progress,Cost of Goods Sold,5-0000,1444,5-1444
+Purchases,Purchases,Cost of Goods Sold,5-0000,1445,5-1445
+Leave movement,Leave movement,Expense,6-0000,1446,6-1446
+Accountancy Fees,Accountancy Fees,Expense,6-0000,1447,6-1447
+Advertising,Advertising,Expense,6-0000,1448,6-1448
+Advertising:APN Newspaper,Advertising:APN Newspaper,Expense,6-0000,1449,6-1449
+Advertising:Digital,Advertising:Digital,Expense,6-0000,1450,6-1450
+Advertising:Facebook,Advertising:Facebook,Expense,6-0000,1451,6-1451
+Advertising:Google,Advertising:Google,Expense,6-0000,1452,6-1452
+Advertising:Local Directories,Advertising:Local Directories,Expense,6-0000,1453,6-1453
+Advertising:Mix FM,Advertising:Mix FM,Expense,6-0000,1454,6-1454
+Advertising:Promotional Items & Clothing,Advertising:Promotional Items & Clothing,Expense,6-0000,1455,6-1455
+Advertising:Seven QLD,Advertising:Seven QLD,Expense,6-0000,1456,6-1456
+Advertising:Southern Cross Austereo,Advertising:Southern Cross Austereo,Expense,6-0000,1457,6-1457
+Advertising:Sponsorship,Advertising:Sponsorship,Expense,6-0000,1458,6-1458
+Advertising:Staff Advertising,Advertising:Staff Advertising,Expense,6-0000,1459,6-1459
+Advertising:TV- Channel 10,Advertising:TV- Channel 10,Expense,6-0000,1460,6-1460
+Advertising:Website,Advertising:Website,Expense,6-0000,1461,6-1461
+Advertising:Yellow Pages Advertising,Advertising:Yellow Pages Advertising,Expense,6-0000,1462,6-1462
+Air Conditioning,Air Conditioning,Expense,6-0000,1463,6-1463
+American Express,American Express,Expense,6-0000,1464,6-1464
+Aussie Home Additiond- Rent,Aussie Home Additiond- Rent,Expense,6-0000,1465,6-1465
+Bad Debt Expenses,Bad Debt Expenses,Expense,6-0000,1466,6-1466
+Bad Debts Expense,Bad Debts Expense,Expense,6-0000,1467,6-1467
+Bad Debts Written Off,Bad Debts Written Off,Expense,6-0000,1468,6-1468
+Bank Charges,Bank Charges,Expense,6-0000,1469,6-1469
+Blue Card Course,Blue Card Course,Expense,6-0000,1470,6-1470
+Bookkeeping Fees,Bookkeeping Fees,Expense,6-0000,1471,6-1471
+Borrowing Expenses,Borrowing Expenses,Expense,6-0000,1472,6-1472
+Box Trailer,Box Trailer,Expense,6-0000,1473,6-1473
+Box Trailer:Registration (OY2344),Box Trailer:Registration (OY2344),Expense,6-0000,1474,6-1474
+Builders Thank You,Builders Thank You,Expense,6-0000,1475,6-1475
+Bundaberg - Rent,Bundaberg - Rent,Expense,6-0000,1476,6-1476
+Cleaning,Cleaning,Expense,6-0000,1477,6-1477
+Computer/Internet/Came Expenses,Computer/Internet/Came Expenses,Expense,6-0000,1478,6-1478
+Computer/Internet/Came Expenses:Annual Membership,Computer/Internet/Came Expenses:Annual Membership,Expense,6-0000,1479,6-1479
+Computer/Internet/Came Expenses:Computer Repairs,Computer/Internet/Came Expenses:Computer Repairs,Expense,6-0000,1480,6-1480
+Computer/Internet/Came Expenses:Digital Camera,Computer/Internet/Came Expenses:Digital Camera,Expense,6-0000,1481,6-1481
+Computer/Internet/Came Expenses:Internet,Computer/Internet/Came Expenses:Internet,Expense,6-0000,1482,6-1482
+Computer/Internet/Came Expenses:Website Expenses,Computer/Internet/Came Expenses:Website Expenses,Expense,6-0000,1483,6-1483
+Contra - Income,Contra - Income,Expense,6-0000,1484,6-1484
+Contract Books,Contract Books,Expense,6-0000,1485,6-1485
+Credit/Refunds,Credit/Refunds,Expense,6-0000,1486,6-1486
+Debt Collector,Debt Collector,Expense,6-0000,1487,6-1487
+Depreciation,Depreciation,Expense,6-0000,1488,6-1488
+Donation,Donation,Expense,6-0000,1489,6-1489
+Electricity,Electricity,Expense,6-0000,1490,6-1490
+Electricity:1/26 BHD,Electricity:1/26 BHD,Expense,6-0000,1491,6-1491
+Electricity:2/26 HBD,Electricity:2/26 HBD,Expense,6-0000,1492,6-1492
+Electricity:3/26 BHD,Electricity:3/26 BHD,Expense,6-0000,1493,6-1493
+"Electricity:4, 90 Lower Mountain Road","Electricity:4, 90 Lower Mountain Road",Expense,6-0000,1494,6-1494
+Electricity:535 BHD,Electricity:535 BHD,Expense,6-0000,1495,6-1495
+Electricity:Maryborough,Electricity:Maryborough,Expense,6-0000,1496,6-1496
+Electricity:Testing & Tagging Course,Electricity:Testing & Tagging Course,Expense,6-0000,1497,6-1497
+Enfringement,Enfringement,Expense,6-0000,1498,6-1498
+Expence - for Industrial Land,Expence - for Industrial Land,Expense,6-0000,1499,6-1499
+Factory Fitout MB HB Road,Factory Fitout MB HB Road,Expense,6-0000,1500,6-1500
+Fines,Fines,Expense,6-0000,1501,6-1501
+Fire Hydrant,Fire Hydrant,Expense,6-0000,1502,6-1502
+Fire Hydrant:Service Fee,Fire Hydrant:Service Fee,Expense,6-0000,1503,6-1503
+Fuel & Oil,Fuel & Oil,Expense,6-0000,1504,6-1504
+Fuel Card Fees,Fuel Card Fees,Expense,6-0000,1505,6-1505
+General Expenses,General Expenses,Expense,6-0000,1506,6-1506
+General Repairs & Maintenance,General Repairs & Maintenance,Expense,6-0000,1507,6-1507
+Hire of Plant and Equipment,Hire of Plant and Equipment,Expense,6-0000,1508,6-1508
+Immediate Write-Off Assets,Immediate Write-Off Assets,Expense,6-0000,1509,6-1509
+Infringement,Infringement,Expense,6-0000,1510,6-1510
+Insurance,Insurance,Expense,6-0000,1511,6-1511
+Insurance:Commercial 231 MB HB Road,Insurance:Commercial 231 MB HB Road,Expense,6-0000,1512,6-1512
+Insurance:Commercial 535 Boat Harbour Dr,Insurance:Commercial 535 Boat Harbour Dr,Expense,6-0000,1513,6-1513
+Insurance:Insurance 229 Maryborough Herve,Insurance:Insurance 229 Maryborough Herve,Expense,6-0000,1514,6-1514
+Insurance:Business Insurance,Insurance:Business Insurance,Expense,6-0000,1515,6-1515
+Insurance:Insurance Broker Fee,Insurance:Insurance Broker Fee,Expense,6-0000,1516,6-1516
+Insurance:Management Liability Insurance,Insurance:Management Liability Insurance,Expense,6-0000,1517,6-1517
+Insurance:Vehicle Insurance,Insurance:Vehicle Insurance,Expense,6-0000,1518,6-1518
+Insurance:Work Cover,Insurance:Work Cover,Expense,6-0000,1519,6-1519
+Interest,Interest,Expense,6-0000,1520,6-1520
+Lawn Mowing,Lawn Mowing,Expense,6-0000,1521,6-1521
+Legal Costs,Legal Costs,Expense,6-0000,1522,6-1522
+Low Cost Assets,Low Cost Assets,Expense,6-0000,1523,6-1523
+M/V- 2013 Audi A5- TRY13,M/V- 2013 Audi A5- TRY13,Expense,6-0000,1524,6-1524
+M/V- 2013 Audi A5- TRY13:Fuel,M/V- 2013 Audi A5- TRY13:Fuel,Expense,6-0000,1525,6-1525
+M/V- 2013 Audi A5- TRY13:Graphix,M/V- 2013 Audi A5- TRY13:Graphix,Expense,6-0000,1526,6-1526
+M/V- 2013 Audi A5- TRY13:Registration & Insurance,M/V- 2013 Audi A5- TRY13:Registration & Insurance,Expense,6-0000,1527,6-1527
+M/V- 2013 Audi A5- TRY13:Repairs & Maintenance,M/V- 2013 Audi A5- TRY13:Repairs & Maintenance,Expense,6-0000,1528,6-1528
+M/V- Blue Holden GTS-TRY13,M/V- Blue Holden GTS-TRY13,Expense,6-0000,1529,6-1529
+M/V- Blue Holden GTS-TRY13:Fuel,M/V- Blue Holden GTS-TRY13:Fuel,Expense,6-0000,1530,6-1530
+M/V- Blue Holden GTS-TRY13:Registration &  Insurance,V- Blue Holden GTS-TRY13:Registration &  Insurance,Expense,6-0000,1531,6-1531
+M/V- Blue Holden GTS-TRY13:Repairs and Maintenance,M/V- Blue Holden GTS-TRY13:Repairs and Maintenance,Expense,6-0000,1532,6-1532
+M/V- Dodge Journey-MEG522,M/V- Dodge Journey-MEG522,Expense,6-0000,1533,6-1533
+M/V- Dodge Journey-MEG522:Fuel,M/V- Dodge Journey-MEG522:Fuel,Expense,6-0000,1534,6-1534
+M/V- Dodge Journey-MEG522:Registration & Insurance,M/V- Dodge Journey-MEG522:Registration & Insurance,Expense,6-0000,1535,6-1535
+M/V- Dodge Journey-MEG522:Repairs & Maintenance,M/V- Dodge Journey-MEG522:Repairs & Maintenance,Expense,6-0000,1536,6-1536
+M/V- Duel Cab- 531JKW,M/V- Duel Cab- 531JKW,Expense,6-0000,1537,6-1537
+M/V- Duel Cab- 531JKW:Fuel & Oil,M/V- Duel Cab- 531JKW:Fuel & Oil,Expense,6-0000,1538,6-1538
+M/V- Duel Cab- 531JKW:Rego & Insurance,M/V- Duel Cab- 531JKW:Rego & Insurance,Expense,6-0000,1539,6-1539
+M/V- Duel Cab- 531JKW:Repairs & Maintenance,M/V- Duel Cab- 531JKW:Repairs & Maintenance,Expense,6-0000,1540,6-1540
+M/V- Ford Spec Add- FORD001,M/V- Ford Spec Add- FORD001,Expense,6-0000,1541,6-1541
+M/V- Ford Spec Add- FORD001:Fuel & Oil,M/V- Ford Spec Add- FORD001:Fuel & Oil,Expense,6-0000,1542,6-1542
+M/V- Ford Spec Add- FORD001:Registration & Insurance,V- Ford Spec Add- FORD001:Registration & Insurance,Expense,6-0000,1543,6-1543
+M/V- Ford Spec Add- FORD001:Repairs & Maintenance,M/V- Ford Spec Add- FORD001:Repairs & Maintenance,Expense,6-0000,1544,6-1544
+M/V- Holden Maloo- HOLDEN1,M/V- Holden Maloo- HOLDEN1,Expense,6-0000,1545,6-1545
+M/V- Holden Maloo- HOLDEN1:Fuel,M/V- Holden Maloo- HOLDEN1:Fuel,Expense,6-0000,1546,6-1546
+M/V- Holden Maloo- HOLDEN1:Rego & Insurance,M/V- Holden Maloo- HOLDEN1:Rego & Insurance,Expense,6-0000,1547,6-1547
+M/V- Holden Maloo- HOLDEN1:repairs & maintenance,M/V- Holden Maloo- HOLDEN1:repairs & maintenance,Expense,6-0000,1548,6-1548
+M/V- Mitsubishi 380- SIK21,M/V- Mitsubishi 380- SIK21,Expense,6-0000,1549,6-1549
+M/V- Mitsubishi 380- SIK21:Fuel & Oil,M/V- Mitsubishi 380- SIK21:Fuel & Oil,Expense,6-0000,1550,6-1550
+M/V- Mitsubishi 380- SIK21:Rego & Insurance,M/V- Mitsubishi 380- SIK21:Rego & Insurance,Expense,6-0000,1551,6-1551
+M/V- Mitsubishi 380- SIK21:Repairs & Maintenance,M/V- Mitsubishi 380- SIK21:Repairs & Maintenance,Expense,6-0000,1552,6-1552
+M/V- SV6 Green- TRYME,M/V- SV6 Green- TRYME,Expense,6-0000,1553,6-1553
+M/V- SV6 Green- TRYME:Fuel & Oil,M/V- SV6 Green- TRYME:Fuel & Oil,Expense,6-0000,1554,6-1554
+M/V- SV6 Green- TRYME:Rego & Insurance,M/V- SV6 Green- TRYME:Rego & Insurance,Expense,6-0000,1555,6-1555
+M/V- SV6 Green- TRYME:Repairs & Maintenance,M/V- SV6 Green- TRYME:Repairs & Maintenance,Expense,6-0000,1556,6-1556
+M/V- SV6 Purple- MEG522,M/V- SV6 Purple- MEG522,Expense,6-0000,1557,6-1557
+M/V- SV6 Purple- MEG522:Fuel & Oil,M/V- SV6 Purple- MEG522:Fuel & Oil,Expense,6-0000,1558,6-1558
+M/V- SV6 Purple- MEG522:Rego & Insurance,M/V- SV6 Purple- MEG522:Rego & Insurance,Expense,6-0000,1559,6-1559
+M/V- SV6 Purple- MEG522:Repairs & Maintenance,M/V- SV6 Purple- MEG522:Repairs & Maintenance,Expense,6-0000,1560,6-1560
+M/V- White Kia Van- 819HTR,M/V- White Kia Van- 819HTR,Expense,6-0000,1561,6-1561
+M/V- White Kia Van- 819HTR:Fuel & Oil,M/V- White Kia Van- 819HTR:Fuel & Oil,Expense,6-0000,1562,6-1562
+M/V- White Kia Van- 819HTR:Rego & Insurance,M/V- White Kia Van- 819HTR:Rego & Insurance,Expense,6-0000,1563,6-1563
+M/V- White Kia Van- 819HTR:Repairs & Maintenance,M/V- White Kia Van- 819HTR:Repairs & Maintenance,Expense,6-0000,1564,6-1564
+M/V-380 Ralliart-SIK21,M/V-380 Ralliart-SIK21,Expense,6-0000,1565,6-1565
+M/V-380 Ralliart-SIK21:Rego & Insurance,M/V-380 Ralliart-SIK21:Rego & Insurance,Expense,6-0000,1566,6-1566
+M/V-Black Holden Club-TRYME,M/V-Black Holden Club-TRYME,Expense,6-0000,1567,6-1567
+M/V-Black Holden Club-TRYME:Registration & Insurance,V-Black Holden Club-TRYME:Registration & Insurance,Expense,6-0000,1568,6-1568
+M/V-Black Holden Club-TRYME:Repairs & Maintenance,M/V-Black Holden Club-TRYME:Repairs & Maintenance,Expense,6-0000,1569,6-1569
+M/V-Mustang-FORD001,M/V-Mustang-FORD001,Expense,6-0000,1570,6-1570
+M/V-Mustang-FORD001:Fuel & Oil,M/V-Mustang-FORD001:Fuel & Oil,Expense,6-0000,1571,6-1571
+M/V-Mustang-FORD001:M\V Private Use,M/V-Mustang-FORD001:M\V Private Use,Expense,6-0000,1572,6-1572
+M/V-Mustang-FORD001:Rego & Insurance,M/V-Mustang-FORD001:Rego & Insurance,Expense,6-0000,1573,6-1573
+M/V-Mustang-FORD001:Repairs & Maintenance,M/V-Mustang-FORD001:Repairs & Maintenance,Expense,6-0000,1574,6-1574
+M/V-Truck-491MZT,M/V-Truck-491MZT,Expense,6-0000,1575,6-1575
+M/V-Truck-491MZT:Fuel and Oil,M/V-Truck-491MZT:Fuel and Oil,Expense,6-0000,1576,6-1576
+M/V-Truck-491MZT:Rego and Insurance,M/V-Truck-491MZT:Rego and Insurance,Expense,6-0000,1577,6-1577
+M/V-Truck-491MZT:repairs and maintenance,M/V-Truck-491MZT:repairs and maintenance,Expense,6-0000,1578,6-1578
+M/V - Avalanche- HOLDEN1,M/V - Avalanche- HOLDEN1,Expense,6-0000,1579,6-1579
+M/V - Avalanche- HOLDEN1:Fuel & Oil,M/V - Avalanche- HOLDEN1:Fuel & Oil,Expense,6-0000,1580,6-1580
+M/V - Avalanche- HOLDEN1:Maintenance & Repairs,M/V - Avalanche- HOLDEN1:Maintenance & Repairs,Expense,6-0000,1581,6-1581
+M/V - Avalanche- HOLDEN1:Registration & Insurance,M/V - Avalanche- HOLDEN1:Registration & Insurance,Expense,6-0000,1582,6-1582
+M/V - Club Sport Expenses,M/V - Club Sport Expenses,Expense,6-0000,1583,6-1583
+M/V - Club Sport Expenses:Fuel & Oil,M/V - Club Sport Expenses:Fuel & Oil,Expense,6-0000,1584,6-1584
+M/V - Club Sport Expenses:Registration (Try 13),M/V - Club Sport Expenses:Registration (Try 13),Expense,6-0000,1585,6-1585
+M/V - Club Sport Expenses:Repairs & Maintenance,M/V - Club Sport Expenses:Repairs & Maintenance,Expense,6-0000,1586,6-1586
+M/V - Evo V111- TRYME,M/V - Evo V111- TRYME,Expense,6-0000,1587,6-1587
+M/V - Evo V111- TRYME:Fuel & Oil,M/V - Evo V111- TRYME:Fuel & Oil,Expense,6-0000,1588,6-1588
+M/V - Evo V111- TRYME:Registration & Insurance,M/V - Evo V111- TRYME:Registration & Insurance,Expense,6-0000,1589,6-1589
+M/V - Evo V111- TRYME:Repairs & Maintenance,M/V - Evo V111- TRYME:Repairs & Maintenance,Expense,6-0000,1590,6-1590
+M/V - Ford - GTP,M/V - Ford - GTP,Expense,6-0000,1591,6-1591
+M/V - Ford - GTP:Fuel & Oil,M/V - Ford - GTP:Fuel & Oil,Expense,6-0000,1592,6-1592
+M/V - Ford - GTP:Registration & Insurance- TRY13,M/V - Ford - GTP:Registration & Insurance- TRY13,Expense,6-0000,1593,6-1593
+M/V - Ford - GTP:Repairs & Maintanance,M/V - Ford - GTP:Repairs & Maintanance,Expense,6-0000,1594,6-1594
+M/V - Holden Rodeo- 875GSX,M/V - Holden Rodeo- 875GSX,Expense,6-0000,1595,6-1595
+M/V - Holden Rodeo- 875GSX:Fuel & Oil,M/V - Holden Rodeo- 875GSX:Fuel & Oil,Expense,6-0000,1596,6-1596
+M/V - Holden Rodeo- 875GSX:Registration & Insurance,/V - Holden Rodeo- 875GSX:Registration & Insurance,Expense,6-0000,1597,6-1597
+M/V - Holden Rodeo- 875GSX:Repairs & Maintenance,M/V - Holden Rodeo- 875GSX:Repairs & Maintenance,Expense,6-0000,1598,6-1598
+M/V - Kia - Ins Wagon-762HOV,M/V - Kia - Ins Wagon-762HOV,Expense,6-0000,1599,6-1599
+M/V - Kia - Ins Wagon-762HOV:Fuel & Oil,M/V - Kia - Ins Wagon-762HOV:Fuel & Oil,Expense,6-0000,1600,6-1600
+M/V - Kia - Ins Wagon-762HOV:Registration & Insurance, - Kia - Ins Wagon-762HOV:Registration & Insurance,Expense,6-0000,1601,6-1601
+M/V - Kia - Ins Wagon-762HOV:Repairs & Maintenance,M/V - Kia - Ins Wagon-762HOV:Repairs & Maintenance,Expense,6-0000,1602,6-1602
+M/V - Maverick 4 x 4,M/V - Maverick 4 x 4,Expense,6-0000,1603,6-1603
+M/V - Maverick 4 x 4:Fuel & Oil,M/V - Maverick 4 x 4:Fuel & Oil,Expense,6-0000,1604,6-1604
+M/V - Maverick 4 x 4:Registration & Insurance,M/V - Maverick 4 x 4:Registration & Insurance,Expense,6-0000,1605,6-1605
+M/V - Maverick 4 x 4:Repairs and Maintenance,M/V - Maverick 4 x 4:Repairs and Maintenance,Expense,6-0000,1606,6-1606
+M/V - Nisan - 4 x 4-500GJI,M/V - Nisan - 4 x 4-500GJI,Expense,6-0000,1607,6-1607
+M/V - Nisan - 4 x 4-500GJI:Fuel & Oil,M/V - Nisan - 4 x 4-500GJI:Fuel & Oil,Expense,6-0000,1608,6-1608
+M/V - Nisan - 4 x 4-500GJI:Registration & Insurance,/V - Nisan - 4 x 4-500GJI:Registration & Insurance,Expense,6-0000,1609,6-1609
+M/V - Nisan - 4 x 4-500GJI:Rental of 4x4,M/V - Nisan - 4 x 4-500GJI:Rental of 4x4,Expense,6-0000,1610,6-1610
+M/V - Nisan - 4 x 4-500GJI:Repairs & Maintenance,M/V - Nisan - 4 x 4-500GJI:Repairs & Maintenance,Expense,6-0000,1611,6-1611
+M/V - Panel Van,M/V - Panel Van,Expense,6-0000,1612,6-1612
+M/V - Panel Van:Fuel & Oil,M/V - Panel Van:Fuel & Oil,Expense,6-0000,1613,6-1613
+M/V - Panel Van:Registration (634FBQ),M/V - Panel Van:Registration (634FBQ),Expense,6-0000,1614,6-1614
+M/V - Panel Van:Repairs & Maintenance,M/V - Panel Van:Repairs & Maintenance,Expense,6-0000,1615,6-1615
+M/V - Rodeo - 554GJE,M/V - Rodeo - 554GJE,Expense,6-0000,1616,6-1616
+M/V - Rodeo - 554GJE:Fuel & Oil,M/V - Rodeo - 554GJE:Fuel & Oil,Expense,6-0000,1617,6-1617
+M/V - Rodeo - 554GJE:Registration & Insurance,M/V - Rodeo - 554GJE:Registration & Insurance,Expense,6-0000,1618,6-1618
+M/V - Rodeo - 554GJE:Repairs & Maintenance,M/V - Rodeo - 554GJE:Repairs & Maintenance,Expense,6-0000,1619,6-1619
+M/V - Truck - 775IJH,M/V - Truck - 775IJH,Expense,6-0000,1620,6-1620
+M/V - Truck - 775IJH:Fuel & Oil,M/V - Truck - 775IJH:Fuel & Oil,Expense,6-0000,1621,6-1621
+M/V - Truck - 775IJH:Queensland Motorways,M/V - Truck - 775IJH:Queensland Motorways,Expense,6-0000,1622,6-1622
+M/V - Truck - 775IJH:Registration & Insurance,M/V - Truck - 775IJH:Registration & Insurance,Expense,6-0000,1623,6-1623
+M/V - Truck - 775IJH:Repairs & Maintenance,M/V - Truck - 775IJH:Repairs & Maintenance,Expense,6-0000,1624,6-1624
+Management Fees,Management Fees,Expense,6-0000,1625,6-1625
+Maryborough Rent,Maryborough Rent,Expense,6-0000,1626,6-1626
+Membership Fees,Membership Fees,Expense,6-0000,1627,6-1627
+Mercedes - TRY13,Mercedes - TRY13,Expense,6-0000,1628,6-1628
+Merchant Fees,Merchant Fees,Expense,6-0000,1629,6-1629
+Money Transfered,Money Transfered,Expense,6-0000,1630,6-1630
+Money transfered to Long Servic,Money transfered to Long Servic,Expense,6-0000,1631,6-1631
+Motor Vehicle Expenses,Motor Vehicle Expenses,Expense,6-0000,1632,6-1632
+Motor Vehicle Expenses:Jeep Grand Cherokee SRT57,Motor Vehicle Expenses:Jeep Grand Cherokee SRT57,Expense,6-0000,1633,6-1633
+Motor Vehicle Expenses:Jeep Grand Cherokee SRT57:Repairs & Maintenance,es:Jeep Grand Cherokee SRT57:Repairs & Maintenance,Expense,6-0000,1634,6-1634
+Motor Vehicle Expenses:Jeep Grand Cherokee SRT57:Registration & Insurance,Jeep Grand Cherokee SRT57:Registration & Insurance,Expense,6-0000,1635,6-1635
+Motor Vehicle Expenses:Jeep Grand Cherokee SRT57:Fuel,or Vehicle Expenses:Jeep Grand Cherokee SRT57:Fuel,Expense,6-0000,1636,6-1636
+Motor Vehicle Expenses:Mercedes A45S TRY13,Motor Vehicle Expenses:Mercedes A45S TRY13,Expense,6-0000,1637,6-1637
+Motor Vehicle Expenses:Mercedes A45S TRY13:Repairs & Maintenance,Expenses:Mercedes A45S TRY13:Repairs & Maintenance,Expense,6-0000,1638,6-1638
+Motor Vehicle Expenses:Mercedes A45S TRY13:Rego & Insurance,icle Expenses:Mercedes A45S TRY13:Rego & Insurance,Expense,6-0000,1639,6-1639
+Motor Vehicle Expenses:Mercedes A45S TRY13:Fuel,Motor Vehicle Expenses:Mercedes A45S TRY13:Fuel,Expense,6-0000,1640,6-1640
+Motor Vehicle Expenses:GM Silverado ZR2 Dualcab UHI,otor Vehicle Expenses:GM Silverado ZR2 Dualcab UHI,Expense,6-0000,1641,6-1641
+Motor Vehicle Expenses:GM Silverado ZR2 Dualcab UHI:Fuel,Vehicle Expenses:GM Silverado ZR2 Dualcab UHI:Fuel,Expense,6-0000,1642,6-1642
+Motor Vehicle Expenses:GM Silverado ZR2 Dualcab UHI:Registration and Insurance,lverado ZR2 Dualcab UHI:Registration and Insurance,Expense,6-0000,1643,6-1643
+Motor Vehicle Expenses:GM Silverado ZR2 Dualcab UHI:Repairs and Maintenance, Silverado ZR2 Dualcab UHI:Repairs and Maintenance,Expense,6-0000,1644,6-1644
+Motor Vehicle Expenses:Chevrolet Silverado ZR2 UHI,Motor Vehicle Expenses:Chevrolet Silverado ZR2 UHI,Expense,6-0000,1645,6-1645
+Motor Vehicle Expenses:Chevrolet Silverado ZR2 UHI:Repairs & Maintenance,:Chevrolet Silverado ZR2 UHI:Repairs & Maintenance,Expense,6-0000,1646,6-1646
+Motor Vehicle Expenses:Chevrolet Silverado ZR2 UHI:Rego & Insurance,enses:Chevrolet Silverado ZR2 UHI:Rego & Insurance,Expense,6-0000,1647,6-1647
+Motor Vehicle Expenses:Chevrolet Silverado ZR2 UHI:Fuel, Vehicle Expenses:Chevrolet Silverado ZR2 UHI:Fuel,Expense,6-0000,1648,6-1648
+Motor Vehicle Expenses:GWM Cannon UHI23,Motor Vehicle Expenses:GWM Cannon UHI23,Expense,6-0000,1649,6-1649
+Motor Vehicle Expenses:GWM Cannon UHI23:Repairs & Maintenance,le Expenses:GWM Cannon UHI23:Repairs & Maintenance,Expense,6-0000,1650,6-1650
+Motor Vehicle Expenses:GWM Cannon UHI23:Rego & Insurance,Vehicle Expenses:GWM Cannon UHI23:Rego & Insurance,Expense,6-0000,1651,6-1651
+Motor Vehicle Expenses:GWM Cannon UHI23:Fuel,Motor Vehicle Expenses:GWM Cannon UHI23:Fuel,Expense,6-0000,1652,6-1652
+Motor Vehicle Expenses:Toyota HiAce UHI05,Motor Vehicle Expenses:Toyota HiAce UHI05,Expense,6-0000,1653,6-1653
+Motor Vehicle Expenses:Toyota HiAce UHI05:Repairs & Maintenance, Expenses:Toyota HiAce UHI05:Repairs & Maintenance,Expense,6-0000,1654,6-1654
+Motor Vehicle Expenses:Toyota HiAce UHI05:Rego & Insurance,hicle Expenses:Toyota HiAce UHI05:Rego & Insurance,Expense,6-0000,1655,6-1655
+Motor Vehicle Expenses:Toyota HiAce UHI05:Fuel,Motor Vehicle Expenses:Toyota HiAce UHI05:Fuel,Expense,6-0000,1656,6-1656
+Motor Vehicle Expenses:Toyota Hiace UHI22,Motor Vehicle Expenses:Toyota Hiace UHI22,Expense,6-0000,1657,6-1657
+Motor Vehicle Expenses:Toyota Hiace UHI22:Repairs & Maintenance, Expenses:Toyota Hiace UHI22:Repairs & Maintenance,Expense,6-0000,1658,6-1658
+Motor Vehicle Expenses:Toyota Hiace UHI22:Rego & Insurance,hicle Expenses:Toyota Hiace UHI22:Rego & Insurance,Expense,6-0000,1659,6-1659
+Motor Vehicle Expenses:Toyota Hiace UHI22:Fuel,Motor Vehicle Expenses:Toyota Hiace UHI22:Fuel,Expense,6-0000,1660,6-1660
+Motor Vehicle Expenses:Toyota Hilux UHI21,Motor Vehicle Expenses:Toyota Hilux UHI21,Expense,6-0000,1661,6-1661
+Motor Vehicle Expenses:Toyota Hilux UHI21:Fuel,Motor Vehicle Expenses:Toyota Hilux UHI21:Fuel,Expense,6-0000,1662,6-1662
+Motor Vehicle Expenses:Toyota Hilux UHI21:Rego & Insurance,hicle Expenses:Toyota Hilux UHI21:Rego & Insurance,Expense,6-0000,1663,6-1663
+Motor Vehicle Expenses:Toyota Hilux UHI21:Repairs & Maintenance, Expenses:Toyota Hilux UHI21:Repairs & Maintenance,Expense,6-0000,1664,6-1664
+Motor Vehicle Expenses:Audi A5 - I UHI I,Motor Vehicle Expenses:Audi A5 - I UHI I,Expense,6-0000,1665,6-1665
+Motor Vehicle Expenses:Audi A5 - I UHI I:Fuel,Motor Vehicle Expenses:Audi A5 - I UHI I:Fuel,Expense,6-0000,1666,6-1666
+Motor Vehicle Expenses:Audi A5 - I UHI I:Registration & Insurance,xpenses:Audi A5 - I UHI I:Registration & Insurance,Expense,6-0000,1667,6-1667
+Motor Vehicle Expenses:Audi A5 - I UHI I:Repairs & Maintenance,e Expenses:Audi A5 - I UHI I:Repairs & Maintenance,Expense,6-0000,1668,6-1668
+Motor Vehicle Expenses:Black Clubsport- TRYME,Motor Vehicle Expenses:Black Clubsport- TRYME,Expense,6-0000,1669,6-1669
+Motor Vehicle Expenses:Black Clubsport- TRYME:Fuel,Motor Vehicle Expenses:Black Clubsport- TRYME:Fuel,Expense,6-0000,1670,6-1670
+Motor Vehicle Expenses:Black Clubsport- TRYME:Registration & Insurance,es:Black Clubsport- TRYME:Registration & Insurance,Expense,6-0000,1671,6-1671
+Motor Vehicle Expenses:Black Clubsport- TRYME:Repairs & Maintenance,enses:Black Clubsport- TRYME:Repairs & Maintenance,Expense,6-0000,1672,6-1672
+Motor Vehicle Expenses:BMW 320I UHI18,Motor Vehicle Expenses:BMW 320I UHI18,Expense,6-0000,1673,6-1673
+Motor Vehicle Expenses:BMW 320I UHI18:Fuel,Motor Vehicle Expenses:BMW 320I UHI18:Fuel,Expense,6-0000,1674,6-1674
+Motor Vehicle Expenses:BMW 320I UHI18:Registration & Insurance,e Expenses:BMW 320I UHI18:Registration & Insurance,Expense,6-0000,1675,6-1675
+Motor Vehicle Expenses:BMW 320I UHI18:Repairs & Maintenance,icle Expenses:BMW 320I UHI18:Repairs & Maintenance,Expense,6-0000,1676,6-1676
+Motor Vehicle Expenses:Forklift Enforcer 2.5T,Motor Vehicle Expenses:Forklift Enforcer 2.5T,Expense,6-0000,1677,6-1677
+Motor Vehicle Expenses:Forklift Enforcer 2.5T:Fuel,Motor Vehicle Expenses:Forklift Enforcer 2.5T:Fuel,Expense,6-0000,1678,6-1678
+Motor Vehicle Expenses:Forklift Enforcer 2.5T:Repairs & Maintenance,enses:Forklift Enforcer 2.5T:Repairs & Maintenance,Expense,6-0000,1679,6-1679
+Motor Vehicle Expenses:Great Wall-UHI02,Motor Vehicle Expenses:Great Wall-UHI02,Expense,6-0000,1680,6-1680
+Motor Vehicle Expenses:Great Wall-UHI02:Fuel,Motor Vehicle Expenses:Great Wall-UHI02:Fuel,Expense,6-0000,1681,6-1681
+Motor Vehicle Expenses:Great Wall-UHI02:Registration & Insurance,Expenses:Great Wall-UHI02:Registration & Insurance,Expense,6-0000,1682,6-1682
+Motor Vehicle Expenses:Great Wall-UHI02:Repairs & Maintenance,le Expenses:Great Wall-UHI02:Repairs & Maintenance,Expense,6-0000,1683,6-1683
+Motor Vehicle Expenses:GWM Cannon Ute 925CQ9,Motor Vehicle Expenses:GWM Cannon Ute 925CQ9,Expense,6-0000,1684,6-1684
+Motor Vehicle Expenses:GWM Cannon Ute 925CQ9:Fuel,Motor Vehicle Expenses:GWM Cannon Ute 925CQ9:Fuel,Expense,6-0000,1685,6-1685
+Motor Vehicle Expenses:GWM Cannon Ute 925CQ9:Registration & Insurance,ses:GWM Cannon Ute 925CQ9:Registration & Insurance,Expense,6-0000,1686,6-1686
+Motor Vehicle Expenses:GWM Cannon Ute 925CQ9:Repairs & Maintenance,penses:GWM Cannon Ute 925CQ9:Repairs & Maintenance,Expense,6-0000,1687,6-1687
+Motor Vehicle Expenses:Holden Colorado 006WPQ Noosa,otor Vehicle Expenses:Holden Colorado 006WPQ Noosa,Expense,6-0000,1688,6-1688
+Motor Vehicle Expenses:Holden Colorado 006WPQ Noosa:Fuel,Vehicle Expenses:Holden Colorado 006WPQ Noosa:Fuel,Expense,6-0000,1689,6-1689
+Motor Vehicle Expenses:Holden Colorado 006WPQ Noosa:Registration & Insurance,den Colorado 006WPQ Noosa:Registration & Insurance,Expense,6-0000,1690,6-1690
+Motor Vehicle Expenses:Holden Colorado 006WPQ Noosa:Repairs & Maintenance,Holden Colorado 006WPQ Noosa:Repairs & Maintenance,Expense,6-0000,1691,6-1691
+Motor Vehicle Expenses:Holden Colorado HOLDEN1,Motor Vehicle Expenses:Holden Colorado HOLDEN1,Expense,6-0000,1692,6-1692
+Motor Vehicle Expenses:Holden Colorado HOLDEN1:Fuel,otor Vehicle Expenses:Holden Colorado HOLDEN1:Fuel,Expense,6-0000,1693,6-1693
+Motor Vehicle Expenses:Holden Colorado HOLDEN1:Registration & Insurance,s:Holden Colorado HOLDEN1:Registration & Insurance,Expense,6-0000,1694,6-1694
+Motor Vehicle Expenses:Holden Colorado HOLDEN1:Repairs & Maintenance,nses:Holden Colorado HOLDEN1:Repairs & Maintenance,Expense,6-0000,1695,6-1695
+Motor Vehicle Expenses:Holden Colorado White Holden1,tor Vehicle Expenses:Holden Colorado White Holden1,Expense,6-0000,1696,6-1696
+Motor Vehicle Expenses:Holden Colorado White Holden1:Fuel,ehicle Expenses:Holden Colorado White Holden1:Fuel,Expense,6-0000,1697,6-1697
+Motor Vehicle Expenses:Holden Colorado White Holden1:Registration & Insurance,en Colorado White Holden1:Registration & Insurance,Expense,6-0000,1698,6-1698
+Motor Vehicle Expenses:Holden Colorado White Holden1:Repairs & Maintenance,olden Colorado White Holden1:Repairs & Maintenance,Expense,6-0000,1699,6-1699
+Motor Vehicle Expenses:Holden Cruze-414VAC,Motor Vehicle Expenses:Holden Cruze-414VAC,Expense,6-0000,1700,6-1700
+Motor Vehicle Expenses:Holden Cruze-414VAC:Fuel,Motor Vehicle Expenses:Holden Cruze-414VAC:Fuel,Expense,6-0000,1701,6-1701
+Motor Vehicle Expenses:Holden Cruze-414VAC:Registration & Insurance,enses:Holden Cruze-414VAC:Registration & Insurance,Expense,6-0000,1702,6-1702
+Motor Vehicle Expenses:Holden Cruze-414VAC:Repairs & Maintenance,Expenses:Holden Cruze-414VAC:Repairs & Maintenance,Expense,6-0000,1703,6-1703
+Motor Vehicle Expenses:Holden Cruze 212 WBD,Motor Vehicle Expenses:Holden Cruze 212 WBD,Expense,6-0000,1704,6-1704
+Motor Vehicle Expenses:Holden Cruze 212 WBD:Fuel,Motor Vehicle Expenses:Holden Cruze 212 WBD:Fuel,Expense,6-0000,1705,6-1705
+Motor Vehicle Expenses:Holden Cruze 212 WBD:Rego & Insurance,cle Expenses:Holden Cruze 212 WBD:Rego & Insurance,Expense,6-0000,1706,6-1706
+Motor Vehicle Expenses:Holden Cruze 212 WBD:Repairs & Maintenance,xpenses:Holden Cruze 212 WBD:Repairs & Maintenance,Expense,6-0000,1707,6-1707
+Motor Vehicle Expenses:Holden Cruze 556VUI,Motor Vehicle Expenses:Holden Cruze 556VUI,Expense,6-0000,1708,6-1708
+Motor Vehicle Expenses:Holden Cruze 556VUI:Fuel & Oil,or Vehicle Expenses:Holden Cruze 556VUI:Fuel & Oil,Expense,6-0000,1709,6-1709
+Motor Vehicle Expenses:Holden Cruze 556VUI:Rego & Insurance,icle Expenses:Holden Cruze 556VUI:Rego & Insurance,Expense,6-0000,1710,6-1710
+Motor Vehicle Expenses:Holden Cruze 556VUI:Repairs & Maintenance,Expenses:Holden Cruze 556VUI:Repairs & Maintenance,Expense,6-0000,1711,6-1711
+Motor Vehicle Expenses:Holden Rodeo- 089KZJ,Motor Vehicle Expenses:Holden Rodeo- 089KZJ,Expense,6-0000,1712,6-1712
+Motor Vehicle Expenses:Holden Rodeo- 089KZJ:Fuel & Oil,r Vehicle Expenses:Holden Rodeo- 089KZJ:Fuel & Oil,Expense,6-0000,1713,6-1713
+Motor Vehicle Expenses:Holden Rodeo- 089KZJ:Rego & Insurance,cle Expenses:Holden Rodeo- 089KZJ:Rego & Insurance,Expense,6-0000,1714,6-1714
+Motor Vehicle Expenses:Holden Rodeo- 089KZJ:Repairs & Maintenance,xpenses:Holden Rodeo- 089KZJ:Repairs & Maintenance,Expense,6-0000,1715,6-1715
+Motor Vehicle Expenses:Holden Trailblazer KLH015,Motor Vehicle Expenses:Holden Trailblazer KLH015,Expense,6-0000,1716,6-1716
+Motor Vehicle Expenses:Holden Trailblazer KLH015:Fuel,or Vehicle Expenses:Holden Trailblazer KLH015:Fuel,Expense,6-0000,1717,6-1717
+Motor Vehicle Expenses:Holden Trailblazer KLH015:Registration & Insurance,Holden Trailblazer KLH015:Registration & Insurance,Expense,6-0000,1718,6-1718
+Motor Vehicle Expenses:Holden Trailblazer KLH015:Repairs & Maintenance,es:Holden Trailblazer KLH015:Repairs & Maintenance,Expense,6-0000,1719,6-1719
+Motor Vehicle Expenses:Holden VF SSV- SIK21,Motor Vehicle Expenses:Holden VF SSV- SIK21,Expense,6-0000,1720,6-1720
+Motor Vehicle Expenses:Holden VF SSV- SIK21:Fuel,Motor Vehicle Expenses:Holden VF SSV- SIK21:Fuel,Expense,6-0000,1721,6-1721
+Motor Vehicle Expenses:Holden VF SSV- SIK21:Rego & Insurance,cle Expenses:Holden VF SSV- SIK21:Rego & Insurance,Expense,6-0000,1722,6-1722
+Motor Vehicle Expenses:Holden VF SSV- SIK21:Repairs & Maintenance,xpenses:Holden VF SSV- SIK21:Repairs & Maintenance,Expense,6-0000,1723,6-1723
+Motor Vehicle Expenses:HSV Senator HOLDEN1,Motor Vehicle Expenses:HSV Senator HOLDEN1,Expense,6-0000,1724,6-1724
+Motor Vehicle Expenses:HSV Senator HOLDEN1:Fuel,Motor Vehicle Expenses:HSV Senator HOLDEN1:Fuel,Expense,6-0000,1725,6-1725
+Motor Vehicle Expenses:HSV Senator HOLDEN1:Registration & Insurance,enses:HSV Senator HOLDEN1:Registration & Insurance,Expense,6-0000,1726,6-1726
+Motor Vehicle Expenses:HSV Senator HOLDEN1:Repairs & Maintenance,Expenses:HSV Senator HOLDEN1:Repairs & Maintenance,Expense,6-0000,1727,6-1727
+Motor Vehicle Expenses:Hyundai ILoad- UHI05,Motor Vehicle Expenses:Hyundai ILoad- UHI05,Expense,6-0000,1728,6-1728
+Motor Vehicle Expenses:Hyundai ILoad- UHI05:Fuel,Motor Vehicle Expenses:Hyundai ILoad- UHI05:Fuel,Expense,6-0000,1729,6-1729
+Motor Vehicle Expenses:Hyundai ILoad- UHI05:Registration & Insurance,nses:Hyundai ILoad- UHI05:Registration & Insurance,Expense,6-0000,1730,6-1730
+Motor Vehicle Expenses:Hyundai ILoad- UHI05:Repairs & Maintenance,xpenses:Hyundai ILoad- UHI05:Repairs & Maintenance,Expense,6-0000,1731,6-1731
+Motor Vehicle Expenses:Hyundai iload-323MUH,Motor Vehicle Expenses:Hyundai iload-323MUH,Expense,6-0000,1732,6-1732
+Motor Vehicle Expenses:Hyundai iload-323MUH:Fuel,Motor Vehicle Expenses:Hyundai iload-323MUH:Fuel,Expense,6-0000,1733,6-1733
+Motor Vehicle Expenses:Hyundai iload-323MUH:Rego & Insurance,cle Expenses:Hyundai iload-323MUH:Rego & Insurance,Expense,6-0000,1734,6-1734
+Motor Vehicle Expenses:Hyundai iload-323MUH:Repairs & Maintenance,xpenses:Hyundai iload-323MUH:Repairs & Maintenance,Expense,6-0000,1735,6-1735
+Motor Vehicle Expenses:Hyundai Iload-UHI06,Motor Vehicle Expenses:Hyundai Iload-UHI06,Expense,6-0000,1736,6-1736
+Motor Vehicle Expenses:Hyundai Iload-UHI06:Fuel,Motor Vehicle Expenses:Hyundai Iload-UHI06:Fuel,Expense,6-0000,1737,6-1737
+Motor Vehicle Expenses:Hyundai Iload-UHI06:Registration & Insurance,enses:Hyundai Iload-UHI06:Registration & Insurance,Expense,6-0000,1738,6-1738
+Motor Vehicle Expenses:Hyundai Iload-UHI06:Repairs & Maintenance,Expenses:Hyundai Iload-UHI06:Repairs & Maintenance,Expense,6-0000,1739,6-1739
+Motor Vehicle Expenses:Isuzu Truck,Motor Vehicle Expenses:Isuzu Truck,Expense,6-0000,1740,6-1740
+Motor Vehicle Expenses:Isuzu Truck:Fuel & Oil,Motor Vehicle Expenses:Isuzu Truck:Fuel & Oil,Expense,6-0000,1741,6-1741
+Motor Vehicle Expenses:Isuzu Truck:Rego & Insurance,otor Vehicle Expenses:Isuzu Truck:Rego & Insurance,Expense,6-0000,1742,6-1742
+Motor Vehicle Expenses:Isuzu Truck:Repairs & Maintenance,Vehicle Expenses:Isuzu Truck:Repairs & Maintenance,Expense,6-0000,1743,6-1743
+Motor Vehicle Expenses:Isuzu Truck:Toll,Motor Vehicle Expenses:Isuzu Truck:Toll,Expense,6-0000,1744,6-1744
+Motor Vehicle Expenses:Jaguar F Pace - MEG522,Motor Vehicle Expenses:Jaguar F Pace - MEG522,Expense,6-0000,1745,6-1745
+Motor Vehicle Expenses:Jaguar F Pace - MEG522:Fuel,Motor Vehicle Expenses:Jaguar F Pace - MEG522:Fuel,Expense,6-0000,1746,6-1746
+Motor Vehicle Expenses:Jaguar F Pace - MEG522:Maintenance,ehicle Expenses:Jaguar F Pace - MEG522:Maintenance,Expense,6-0000,1747,6-1747
+Motor Vehicle Expenses:Jaguar F Pace - MEG522:Rego & Insurance,e Expenses:Jaguar F Pace - MEG522:Rego & Insurance,Expense,6-0000,1748,6-1748
+Motor Vehicle Expenses:Jeep Cheroke- MEG522,Motor Vehicle Expenses:Jeep Cheroke- MEG522,Expense,6-0000,1749,6-1749
+Motor Vehicle Expenses:Jeep Cheroke- MEG522:Fuel,Motor Vehicle Expenses:Jeep Cheroke- MEG522:Fuel,Expense,6-0000,1750,6-1750
+Motor Vehicle Expenses:Jeep Cheroke- MEG522:Rego & Insurance,cle Expenses:Jeep Cheroke- MEG522:Rego & Insurance,Expense,6-0000,1751,6-1751
+Motor Vehicle Expenses:Jeep Cheroke- MEG522:Repairs and Maintenance,enses:Jeep Cheroke- MEG522:Repairs and Maintenance,Expense,6-0000,1752,6-1752
+Motor Vehicle Expenses:Jeep Cherokee-UHI01,Motor Vehicle Expenses:Jeep Cherokee-UHI01,Expense,6-0000,1753,6-1753
+Motor Vehicle Expenses:Jeep Cherokee-UHI01:Fuel,Motor Vehicle Expenses:Jeep Cherokee-UHI01:Fuel,Expense,6-0000,1754,6-1754
+Motor Vehicle Expenses:Jeep Cherokee-UHI01:Registration & Insurance,enses:Jeep Cherokee-UHI01:Registration & Insurance,Expense,6-0000,1755,6-1755
+Motor Vehicle Expenses:Jeep Cherokee-UHI01:Repairs & Maintenance,Expenses:Jeep Cherokee-UHI01:Repairs & Maintenance,Expense,6-0000,1756,6-1756
+Motor Vehicle Expenses:Jeep Grand Cherokee - UHI01,Motor Vehicle Expenses:Jeep Grand Cherokee - UHI01,Expense,6-0000,1757,6-1757
+Motor Vehicle Expenses:Jeep Grand Cherokee - UHI01:Fuel, Vehicle Expenses:Jeep Grand Cherokee - UHI01:Fuel,Expense,6-0000,1758,6-1758
+Motor Vehicle Expenses:Jeep Grand Cherokee - UHI01:Registration & Insurance,ep Grand Cherokee - UHI01:Registration & Insurance,Expense,6-0000,1759,6-1759
+Motor Vehicle Expenses:Jeep Grand Cherokee - UHI01:Repairs & Maintenance,:Jeep Grand Cherokee - UHI01:Repairs & Maintenance,Expense,6-0000,1760,6-1760
+Motor Vehicle Expenses:Kia Cerato 564XBF,Motor Vehicle Expenses:Kia Cerato 564XBF,Expense,6-0000,1761,6-1761
+Motor Vehicle Expenses:Kia Cerato 564XBF:Fuel,Motor Vehicle Expenses:Kia Cerato 564XBF:Fuel,Expense,6-0000,1762,6-1762
+Motor Vehicle Expenses:Kia Cerato 564XBF:Registration & Insurance,xpenses:Kia Cerato 564XBF:Registration & Insurance,Expense,6-0000,1763,6-1763
+Motor Vehicle Expenses:Kia Cerato 564XBF:Repairs & Maintenance,e Expenses:Kia Cerato 564XBF:Repairs & Maintenance,Expense,6-0000,1764,6-1764
+Motor Vehicle Expenses:Kia Stinger - Sik21,Motor Vehicle Expenses:Kia Stinger - Sik21,Expense,6-0000,1765,6-1765
+Motor Vehicle Expenses:Kia Stinger - Sik21:Fuel,Motor Vehicle Expenses:Kia Stinger - Sik21:Fuel,Expense,6-0000,1766,6-1766
+Motor Vehicle Expenses:Kia Stinger - Sik21:Rego & Insurance,icle Expenses:Kia Stinger - Sik21:Rego & Insurance,Expense,6-0000,1767,6-1767
+Motor Vehicle Expenses:Kia Stinger - Sik21:Repairs & Maintenance,Expenses:Kia Stinger - Sik21:Repairs & Maintenance,Expense,6-0000,1768,6-1768
+Motor Vehicle Expenses:LDV Ute UHI13,Motor Vehicle Expenses:LDV Ute UHI13,Expense,6-0000,1769,6-1769
+Motor Vehicle Expenses:LDV Ute UHI13:Fuel,Motor Vehicle Expenses:LDV Ute UHI13:Fuel,Expense,6-0000,1770,6-1770
+Motor Vehicle Expenses:LDV Ute UHI13:Registration & Insurance,le Expenses:LDV Ute UHI13:Registration & Insurance,Expense,6-0000,1771,6-1771
+Motor Vehicle Expenses:LDV Ute UHI13:Repairs & Maintenance,hicle Expenses:LDV Ute UHI13:Repairs & Maintenance,Expense,6-0000,1772,6-1772
+Motor Vehicle Expenses:Mercedes- TRY13,Motor Vehicle Expenses:Mercedes- TRY13,Expense,6-0000,1773,6-1773
+Motor Vehicle Expenses:Mercedes- TRY13:Fuel,Motor Vehicle Expenses:Mercedes- TRY13:Fuel,Expense,6-0000,1774,6-1774
+Motor Vehicle Expenses:Mercedes- TRY13:Rego & Insurance, Vehicle Expenses:Mercedes- TRY13:Rego & Insurance,Expense,6-0000,1775,6-1775
+Motor Vehicle Expenses:Mercedes- TRY13:Repairs & Maintenance,cle Expenses:Mercedes- TRY13:Repairs & Maintenance,Expense,6-0000,1776,6-1776
+Motor Vehicle Expenses:Nissan Condor Truck XQ320V,Motor Vehicle Expenses:Nissan Condor Truck XQ320V,Expense,6-0000,1777,6-1777
+Motor Vehicle Expenses:Nissan Condor Truck XQ320V:Registration & Insurance,issan Condor Truck XQ320V:Registration & Insurance,Expense,6-0000,1778,6-1778
+Motor Vehicle Expenses:RACQ Expenses,Motor Vehicle Expenses:RACQ Expenses,Expense,6-0000,1779,6-1779
+Motor Vehicle Expenses:Toyota Camry SX UHI12,Motor Vehicle Expenses:Toyota Camry SX UHI12,Expense,6-0000,1780,6-1780
+Motor Vehicle Expenses:Toyota Camry SX UHI12:Fuel,Motor Vehicle Expenses:Toyota Camry SX UHI12:Fuel,Expense,6-0000,1781,6-1781
+Motor Vehicle Expenses:Toyota Camry SX UHI12:Rego & Insurance,le Expenses:Toyota Camry SX UHI12:Rego & Insurance,Expense,6-0000,1782,6-1782
+Motor Vehicle Expenses:Toyota Camry SX UHI12:Repairs & Maintenance,penses:Toyota Camry SX UHI12:Repairs & Maintenance,Expense,6-0000,1783,6-1783
+Motor Vehicle Expenses:Toyota Camry SX UHI14 2021,Motor Vehicle Expenses:Toyota Camry SX UHI14 2021,Expense,6-0000,1784,6-1784
+Motor Vehicle Expenses:Toyota Camry SX UHI14 2021:Fuel,r Vehicle Expenses:Toyota Camry SX UHI14 2021:Fuel,Expense,6-0000,1785,6-1785
+Motor Vehicle Expenses:Toyota Camry SX UHI14 2021:Rego & Insurance,penses:Toyota Camry SX UHI14 2021:Rego & Insurance,Expense,6-0000,1786,6-1786
+Motor Vehicle Expenses:Toyota Camry SX UHI14 2021:Repairs & Maintenance,s:Toyota Camry SX UHI14 2021:Repairs & Maintenance,Expense,6-0000,1787,6-1787
+Motor Vehicle Expenses:Toyota Camry UHI03,Motor Vehicle Expenses:Toyota Camry UHI03,Expense,6-0000,1788,6-1788
+Motor Vehicle Expenses:Toyota Camry UHI03:Fuel,Motor Vehicle Expenses:Toyota Camry UHI03:Fuel,Expense,6-0000,1789,6-1789
+Motor Vehicle Expenses:Toyota Camry UHI03:Rego & Insurance,hicle Expenses:Toyota Camry UHI03:Rego & Insurance,Expense,6-0000,1790,6-1790
+Motor Vehicle Expenses:Toyota Camry UHI03:Repairs & Maintenance, Expenses:Toyota Camry UHI03:Repairs & Maintenance,Expense,6-0000,1791,6-1791
+Motor Vehicle Expenses:Toyota Camry UHI09,Motor Vehicle Expenses:Toyota Camry UHI09,Expense,6-0000,1792,6-1792
+Motor Vehicle Expenses:Toyota Camry UHI09:Fuel,Motor Vehicle Expenses:Toyota Camry UHI09:Fuel,Expense,6-0000,1793,6-1793
+Motor Vehicle Expenses:Toyota Camry UHI09:Rego & Insurance,hicle Expenses:Toyota Camry UHI09:Rego & Insurance,Expense,6-0000,1794,6-1794
+Motor Vehicle Expenses:Toyota Camry UHI09:Repairs & Maintenance, Expenses:Toyota Camry UHI09:Repairs & Maintenance,Expense,6-0000,1795,6-1795
+Motor Vehicle Expenses:Toyota Camry UHI10,Motor Vehicle Expenses:Toyota Camry UHI10,Expense,6-0000,1796,6-1796
+Motor Vehicle Expenses:Toyota Camry UHI10:Fuel,Motor Vehicle Expenses:Toyota Camry UHI10:Fuel,Expense,6-0000,1797,6-1797
+Motor Vehicle Expenses:Toyota Camry UHI10:Rego & Insurance,hicle Expenses:Toyota Camry UHI10:Rego & Insurance,Expense,6-0000,1798,6-1798
+Motor Vehicle Expenses:Toyota Camry UHI10:Repairs & Maintenance, Expenses:Toyota Camry UHI10:Repairs & Maintenance,Expense,6-0000,1799,6-1799
+Motor Vehicle Expenses:Toyota Camry UHI16,Motor Vehicle Expenses:Toyota Camry UHI16,Expense,6-0000,1800,6-1800
+Motor Vehicle Expenses:Toyota Camry UHI16:Fuel,Motor Vehicle Expenses:Toyota Camry UHI16:Fuel,Expense,6-0000,1801,6-1801
+Motor Vehicle Expenses:Toyota Camry UHI16:Rego & Insurance,hicle Expenses:Toyota Camry UHI16:Rego & Insurance,Expense,6-0000,1802,6-1802
+Motor Vehicle Expenses:Toyota Camry UHI16:Repairs & Maintenance, Expenses:Toyota Camry UHI16:Repairs & Maintenance,Expense,6-0000,1803,6-1803
+Motor Vehicle Expenses:Toyota Hi-Ace UHI02,Motor Vehicle Expenses:Toyota Hi-Ace UHI02,Expense,6-0000,1804,6-1804
+Motor Vehicle Expenses:Toyota Hi-Ace UHI02:Fuel,Motor Vehicle Expenses:Toyota Hi-Ace UHI02:Fuel,Expense,6-0000,1805,6-1805
+Motor Vehicle Expenses:Toyota Hi-Ace UHI02:Rego & Insurance,icle Expenses:Toyota Hi-Ace UHI02:Rego & Insurance,Expense,6-0000,1806,6-1806
+Motor Vehicle Expenses:Toyota Hi-Ace UHI02:Repairs & Maintenance,Expenses:Toyota Hi-Ace UHI02:Repairs & Maintenance,Expense,6-0000,1807,6-1807
+Motor Vehicle Expenses:Toyota Hi-Ace UHI07,Motor Vehicle Expenses:Toyota Hi-Ace UHI07,Expense,6-0000,1808,6-1808
+Motor Vehicle Expenses:Toyota Hi-Ace UHI07:Fuel,Motor Vehicle Expenses:Toyota Hi-Ace UHI07:Fuel,Expense,6-0000,1809,6-1809
+Motor Vehicle Expenses:Toyota Hi-Ace UHI07:Rego & Insurance,icle Expenses:Toyota Hi-Ace UHI07:Rego & Insurance,Expense,6-0000,1810,6-1810
+Motor Vehicle Expenses:Toyota Hi-Ace UHI07:Repairs & Maintenance,Expenses:Toyota Hi-Ace UHI07:Repairs & Maintenance,Expense,6-0000,1811,6-1811
+Motor Vehicle Expenses:Toyota HiAce - UHI15,Motor Vehicle Expenses:Toyota HiAce - UHI15,Expense,6-0000,1812,6-1812
+Motor Vehicle Expenses:Toyota HiAce - UHI15:Fuel,Motor Vehicle Expenses:Toyota HiAce - UHI15:Fuel,Expense,6-0000,1813,6-1813
+Motor Vehicle Expenses:Toyota HiAce - UHI15:Rego & Insurance,cle Expenses:Toyota HiAce - UHI15:Rego & Insurance,Expense,6-0000,1814,6-1814
+Motor Vehicle Expenses:Toyota HiAce - UHI15:Repairs & Maintenance,xpenses:Toyota HiAce - UHI15:Repairs & Maintenance,Expense,6-0000,1815,6-1815
+Motor Vehicle Expenses:Toyota Hiace UHI17,Motor Vehicle Expenses:Toyota Hiace UHI17,Expense,6-0000,1816,6-1816
+Motor Vehicle Expenses:Toyota Hiace UHI17:Fuel,Motor Vehicle Expenses:Toyota Hiace UHI17:Fuel,Expense,6-0000,1817,6-1817
+Motor Vehicle Expenses:Toyota Hiace UHI17:Registration & Insurance,penses:Toyota Hiace UHI17:Registration & Insurance,Expense,6-0000,1818,6-1818
+Motor Vehicle Expenses:Toyota Hiace UHI17:Repairs & Maintenance, Expenses:Toyota Hiace UHI17:Repairs & Maintenance,Expense,6-0000,1819,6-1819
+Motor Vehicle Expenses:Toyota Hilux 068XYS,Motor Vehicle Expenses:Toyota Hilux 068XYS,Expense,6-0000,1820,6-1820
+Motor Vehicle Expenses:Toyota Hilux 068XYS:Fuel,Motor Vehicle Expenses:Toyota Hilux 068XYS:Fuel,Expense,6-0000,1821,6-1821
+Motor Vehicle Expenses:Toyota Hilux 068XYS:Rego & Insurance,icle Expenses:Toyota Hilux 068XYS:Rego & Insurance,Expense,6-0000,1822,6-1822
+Motor Vehicle Expenses:Toyota Hilux 068XYS:Repairs & Maintenance,Expenses:Toyota Hilux 068XYS:Repairs & Maintenance,Expense,6-0000,1823,6-1823
+Motor Vehicle Expenses:Toyota Hilux 137YAK,Motor Vehicle Expenses:Toyota Hilux 137YAK,Expense,6-0000,1824,6-1824
+Motor Vehicle Expenses:Toyota Hilux 137YAK:Fuel,Motor Vehicle Expenses:Toyota Hilux 137YAK:Fuel,Expense,6-0000,1825,6-1825
+Motor Vehicle Expenses:Toyota Hilux 137YAK:Rego & Insurance,icle Expenses:Toyota Hilux 137YAK:Rego & Insurance,Expense,6-0000,1826,6-1826
+Motor Vehicle Expenses:Toyota Hilux 137YAK:Repairs & Maintenance,Expenses:Toyota Hilux 137YAK:Repairs & Maintenance,Expense,6-0000,1827,6-1827
+Motor Vehicle Expenses:Toyota Hilux 380XJW,Motor Vehicle Expenses:Toyota Hilux 380XJW,Expense,6-0000,1828,6-1828
+Motor Vehicle Expenses:Toyota Hilux 380XJW:Fuel,Motor Vehicle Expenses:Toyota Hilux 380XJW:Fuel,Expense,6-0000,1829,6-1829
+Motor Vehicle Expenses:Toyota Hilux 380XJW:Rego & Insurance,icle Expenses:Toyota Hilux 380XJW:Rego & Insurance,Expense,6-0000,1830,6-1830
+Motor Vehicle Expenses:Toyota Hilux 380XJW:Repairs & Maintenance,Expenses:Toyota Hilux 380XJW:Repairs & Maintenance,Expense,6-0000,1831,6-1831
+Motor Vehicle Expenses:Toyota Hilux 381XJW,Motor Vehicle Expenses:Toyota Hilux 381XJW,Expense,6-0000,1832,6-1832
+Motor Vehicle Expenses:Toyota Hilux 381XJW:Fuel,Motor Vehicle Expenses:Toyota Hilux 381XJW:Fuel,Expense,6-0000,1833,6-1833
+Motor Vehicle Expenses:Toyota Hilux 381XJW:Rego & Insurance,icle Expenses:Toyota Hilux 381XJW:Rego & Insurance,Expense,6-0000,1834,6-1834
+Motor Vehicle Expenses:Toyota Hilux 381XJW:Repairs & Maintenance,Expenses:Toyota Hilux 381XJW:Repairs & Maintenance,Expense,6-0000,1835,6-1835
+Motor Vehicle Expenses:Toyota Hilux 382XJW,Motor Vehicle Expenses:Toyota Hilux 382XJW,Expense,6-0000,1836,6-1836
+Motor Vehicle Expenses:Toyota Hilux 382XJW:Fuel,Motor Vehicle Expenses:Toyota Hilux 382XJW:Fuel,Expense,6-0000,1837,6-1837
+Motor Vehicle Expenses:Toyota Hilux 382XJW:Rego & Insurance,icle Expenses:Toyota Hilux 382XJW:Rego & Insurance,Expense,6-0000,1838,6-1838
+Motor Vehicle Expenses:Toyota Hilux 382XJW:Repairs & Maintenance,Expenses:Toyota Hilux 382XJW:Repairs & Maintenance,Expense,6-0000,1839,6-1839
+Motor Vehicle Expenses:Toyota Hilux 383XJW,Motor Vehicle Expenses:Toyota Hilux 383XJW,Expense,6-0000,1840,6-1840
+Motor Vehicle Expenses:Toyota Hilux 383XJW:Fuel,Motor Vehicle Expenses:Toyota Hilux 383XJW:Fuel,Expense,6-0000,1841,6-1841
+Motor Vehicle Expenses:Toyota Hilux 383XJW:Rego & Insurance,icle Expenses:Toyota Hilux 383XJW:Rego & Insurance,Expense,6-0000,1842,6-1842
+Motor Vehicle Expenses:Toyota Hilux 383XJW:Repairs & Maintenance,Expenses:Toyota Hilux 383XJW:Repairs & Maintenance,Expense,6-0000,1843,6-1843
+Motor Vehicle Expenses:Toyota Hilux SR UHI04,Motor Vehicle Expenses:Toyota Hilux SR UHI04,Expense,6-0000,1844,6-1844
+Motor Vehicle Expenses:Toyota Hilux SR UHI04:Fuel,Motor Vehicle Expenses:Toyota Hilux SR UHI04:Fuel,Expense,6-0000,1845,6-1845
+Motor Vehicle Expenses:Toyota Hilux SR UHI04:Rego & Insurance,le Expenses:Toyota Hilux SR UHI04:Rego & Insurance,Expense,6-0000,1846,6-1846
+Motor Vehicle Expenses:Toyota Hilux SR UHI04:Repairs & Maintenance,penses:Toyota Hilux SR UHI04:Repairs & Maintenance,Expense,6-0000,1847,6-1847
+Motor Vehicle Expenses:Toyota Hilux TRD UHI01,Motor Vehicle Expenses:Toyota Hilux TRD UHI01,Expense,6-0000,1848,6-1848
+Motor Vehicle Expenses:Toyota Hilux TRD UHI01:Fuel,Motor Vehicle Expenses:Toyota Hilux TRD UHI01:Fuel,Expense,6-0000,1849,6-1849
+Motor Vehicle Expenses:Toyota Hilux TRD UHI01:Rego & Insurance,e Expenses:Toyota Hilux TRD UHI01:Rego & Insurance,Expense,6-0000,1850,6-1850
+Motor Vehicle Expenses:Toyota Hilux TRD UHI01:Repairs & Maintenance,enses:Toyota Hilux TRD UHI01:Repairs & Maintenance,Expense,6-0000,1851,6-1851
+Motor Vehicle Expenses:Toyota Hilux UHI 11,Motor Vehicle Expenses:Toyota Hilux UHI 11,Expense,6-0000,1852,6-1852
+Motor Vehicle Expenses:Toyota Hilux UHI 11:Fuel,Motor Vehicle Expenses:Toyota Hilux UHI 11:Fuel,Expense,6-0000,1853,6-1853
+Motor Vehicle Expenses:Toyota Hilux UHI 11:Rego & Insurance,icle Expenses:Toyota Hilux UHI 11:Rego & Insurance,Expense,6-0000,1854,6-1854
+Motor Vehicle Expenses:Toyota Hilux UHI 11:Repairs & Maintenance,Expenses:Toyota Hilux UHI 11:Repairs & Maintenance,Expense,6-0000,1855,6-1855
+Motor Vehicle Expenses:Toyota Hilux UHI08,Motor Vehicle Expenses:Toyota Hilux UHI08,Expense,6-0000,1856,6-1856
+Motor Vehicle Expenses:Toyota Hilux UHI08:Fuel,Motor Vehicle Expenses:Toyota Hilux UHI08:Fuel,Expense,6-0000,1857,6-1857
+Motor Vehicle Expenses:Toyota Hilux UHI08:Registration & Insurance,penses:Toyota Hilux UHI08:Registration & Insurance,Expense,6-0000,1858,6-1858
+Motor Vehicle Expenses:Toyota Hilux UHI08:Repairs & Maintenance, Expenses:Toyota Hilux UHI08:Repairs & Maintenance,Expense,6-0000,1859,6-1859
+Motor Vehicle Expenses:Toyota Hilux UHI19,Motor Vehicle Expenses:Toyota Hilux UHI19,Expense,6-0000,1860,6-1860
+Motor Vehicle Expenses:Toyota Hilux UHI19:Fuel,Motor Vehicle Expenses:Toyota Hilux UHI19:Fuel,Expense,6-0000,1861,6-1861
+Motor Vehicle Expenses:Toyota Hilux UHI19:Registration & Insurance,penses:Toyota Hilux UHI19:Registration & Insurance,Expense,6-0000,1862,6-1862
+Motor Vehicle Expenses:Toyota Hilux UHI19:Repairs & Maintenance, Expenses:Toyota Hilux UHI19:Repairs & Maintenance,Expense,6-0000,1863,6-1863
+Motor Vehicle Expenses:Toyota Hilux UHI20,Motor Vehicle Expenses:Toyota Hilux UHI20,Expense,6-0000,1864,6-1864
+Motor Vehicle Expenses:Toyota Hilux UHI20:Fuel,Motor Vehicle Expenses:Toyota Hilux UHI20:Fuel,Expense,6-0000,1865,6-1865
+Motor Vehicle Expenses:Toyota Hilux UHI20:Rego & Insurance,hicle Expenses:Toyota Hilux UHI20:Rego & Insurance,Expense,6-0000,1866,6-1866
+Motor Vehicle Expenses:Toyota Hilux UHI20:Repairs & Maintenance, Expenses:Toyota Hilux UHI20:Repairs & Maintenance,Expense,6-0000,1867,6-1867
+Motor Vehicle Expenses:Toyota Prado KLH015,Motor Vehicle Expenses:Toyota Prado KLH015,Expense,6-0000,1868,6-1868
+Motor Vehicle Expenses:Toyota Prado KLH015:Fuel,Motor Vehicle Expenses:Toyota Prado KLH015:Fuel,Expense,6-0000,1869,6-1869
+Motor Vehicle Expenses:Toyota Prado KLH015:Registration & Insurance,enses:Toyota Prado KLH015:Registration & Insurance,Expense,6-0000,1870,6-1870
+Motor Vehicle Expenses:Toyota Prado KLH015:Repairs & Maintenance,Expenses:Toyota Prado KLH015:Repairs & Maintenance,Expense,6-0000,1871,6-1871
+Motor Vehicle Expenses:Trailer,Motor Vehicle Expenses:Trailer,Expense,6-0000,1872,6-1872
+Motor Vehicle Expenses:Trailer:Rego & Insurance,Motor Vehicle Expenses:Trailer:Rego & Insurance,Expense,6-0000,1873,6-1873
+Motor Vehicle Expenses:Truck- 599KDM,Motor Vehicle Expenses:Truck- 599KDM,Expense,6-0000,1874,6-1874
+Motor Vehicle Expenses:Truck- 599KDM:Fuel & Oil,Motor Vehicle Expenses:Truck- 599KDM:Fuel & Oil,Expense,6-0000,1875,6-1875
+Motor Vehicle Expenses:Truck- 599KDM:Infringement,Motor Vehicle Expenses:Truck- 599KDM:Infringement,Expense,6-0000,1876,6-1876
+Motor Vehicle Expenses:Truck- 599KDM:RACQ,Motor Vehicle Expenses:Truck- 599KDM:RACQ,Expense,6-0000,1877,6-1877
+Motor Vehicle Expenses:Truck- 599KDM:Rego & Insurance,or Vehicle Expenses:Truck- 599KDM:Rego & Insurance,Expense,6-0000,1878,6-1878
+Motor Vehicle Expenses:Truck- 599KDM:Repairs & Maintenance,hicle Expenses:Truck- 599KDM:Repairs & Maintenance,Expense,6-0000,1879,6-1879
+Motor Vehicle Expenses:Truck- 599KDM:Toll,Motor Vehicle Expenses:Truck- 599KDM:Toll,Expense,6-0000,1880,6-1880
+Motor Vehicle Expenses:White Colarado- UHI03,Motor Vehicle Expenses:White Colarado- UHI03,Expense,6-0000,1881,6-1881
+Motor Vehicle Expenses:White Colarado- UHI03:Fuel,Motor Vehicle Expenses:White Colarado- UHI03:Fuel,Expense,6-0000,1882,6-1882
+Motor Vehicle Expenses:White Colarado- UHI03:Registration & Insurance,ses:White Colarado- UHI03:Registration & Insurance,Expense,6-0000,1883,6-1883
+Motor Vehicle Expenses:White Colarado- UHI03:Repairs & Maintenance,penses:White Colarado- UHI03:Repairs & Maintenance,Expense,6-0000,1884,6-1884
+Motor Vehicle Expenses:White Colarado- UHI04,Motor Vehicle Expenses:White Colarado- UHI04,Expense,6-0000,1885,6-1885
+Motor Vehicle Expenses:White Colarado- UHI04:Fuel,Motor Vehicle Expenses:White Colarado- UHI04:Fuel,Expense,6-0000,1886,6-1886
+Motor Vehicle Expenses:White Colarado- UHI04:Registration & Insurance,ses:White Colarado- UHI04:Registration & Insurance,Expense,6-0000,1887,6-1887
+Motor Vehicle Expenses:White Colarado- UHI04:Repairs & Maintenance,penses:White Colarado- UHI04:Repairs & Maintenance,Expense,6-0000,1888,6-1888
+Motor Vehicle Expenses:White Rodeo- 267JJF,Motor Vehicle Expenses:White Rodeo- 267JJF,Expense,6-0000,1889,6-1889
+Motor Vehicle Expenses:White Rodeo- 267JJF:Fuel & Oil,or Vehicle Expenses:White Rodeo- 267JJF:Fuel & Oil,Expense,6-0000,1890,6-1890
+Motor Vehicle Expenses:White Rodeo- 267JJF:Rego & insurance,icle Expenses:White Rodeo- 267JJF:Rego & insurance,Expense,6-0000,1891,6-1891
+Motor Vehicle Expenses:White Rodeo- 267JJF:Repaors & Maintanance,Expenses:White Rodeo- 267JJF:Repaors & Maintanance,Expense,6-0000,1892,6-1892
+Motor Vehicle Expenses:White Rodeo-154LBH,Motor Vehicle Expenses:White Rodeo-154LBH,Expense,6-0000,1893,6-1893
+Motor Vehicle Expenses:White Rodeo-154LBH:Fuel & Oil,tor Vehicle Expenses:White Rodeo-154LBH:Fuel & Oil,Expense,6-0000,1894,6-1894
+Motor Vehicle Expenses:White Rodeo-154LBH:Rego & Insurance,hicle Expenses:White Rodeo-154LBH:Rego & Insurance,Expense,6-0000,1895,6-1895
+Motor Vehicle Expenses:White Rodeo-154LBH:Repairs & Maintenance, Expenses:White Rodeo-154LBH:Repairs & Maintenance,Expense,6-0000,1896,6-1896
+Motor Vehicle Private Use,Motor Vehicle Private Use,Expense,6-0000,1897,6-1897
+New Building Fitout,New Building Fitout,Expense,6-0000,1898,6-1898
+Newfurn H/Bay,Newfurn H/Bay,Expense,6-0000,1899,6-1899
+Newfurn H/Bay:Group Support Levy,Newfurn H/Bay:Group Support Levy,Expense,6-0000,1900,6-1900
+Newfurn H/Bay:Members Advertising,Newfurn H/Bay:Members Advertising,Expense,6-0000,1901,6-1901
+Newfurn H/Bay:Point of Sale,Newfurn H/Bay:Point of Sale,Expense,6-0000,1902,6-1902
+Newfurn H/Bay:Shareholder Levy,Newfurn H/Bay:Shareholder Levy,Expense,6-0000,1903,6-1903
+Noosa Expenses,Noosa Expenses,Expense,6-0000,1904,6-1904
+Noosa Expenses:Accommodation,Noosa Expenses:Accommodation,Expense,6-0000,1905,6-1905
+Noosa Expenses:Advertising,Noosa Expenses:Advertising,Expense,6-0000,1906,6-1906
+Noosa Expenses:Bank Charges,Noosa Expenses:Bank Charges,Expense,6-0000,1907,6-1907
+Noosa Expenses:Computer Expenses,Noosa Expenses:Computer Expenses,Expense,6-0000,1908,6-1908
+Noosa Expenses:Electricity,Noosa Expenses:Electricity,Expense,6-0000,1909,6-1909
+Noosa Expenses:Merchant Fee,Noosa Expenses:Merchant Fee,Expense,6-0000,1910,6-1910
+Noosa Expenses:Merchant Fees,Noosa Expenses:Merchant Fees,Expense,6-0000,1911,6-1911
+Noosa Expenses:Newfurn Noosa,Noosa Expenses:Newfurn Noosa,Expense,6-0000,1912,6-1912
+Noosa Expenses:Newfurn Noosa:Effective Freight Solutions,Expenses:Newfurn Noosa:Effective Freight Solutions,Expense,6-0000,1913,6-1913
+Noosa Expenses:Newfurn Noosa:Group Support Levy,Noosa Expenses:Newfurn Noosa:Group Support Levy,Expense,6-0000,1914,6-1914
+Noosa Expenses:Newfurn Noosa:Inspiring Choices,Noosa Expenses:Newfurn Noosa:Inspiring Choices,Expense,6-0000,1915,6-1915
+Noosa Expenses:Newfurn Noosa:Members Advertising,Noosa Expenses:Newfurn Noosa:Members Advertising,Expense,6-0000,1916,6-1916
+Noosa Expenses:Newfurn Noosa:Point of Sale,Noosa Expenses:Newfurn Noosa:Point of Sale,Expense,6-0000,1917,6-1917
+Noosa Expenses:Newfurn Noosa:Shareholders Levy,Noosa Expenses:Newfurn Noosa:Shareholders Levy,Expense,6-0000,1918,6-1918
+Noosa Expenses:Printing & Stationary,Noosa Expenses:Printing & Stationary,Expense,6-0000,1919,6-1919
+Noosa Expenses:QLD Crane Truck Services,Noosa Expenses:QLD Crane Truck Services,Expense,6-0000,1920,6-1920
+Noosa Expenses:Rent,Noosa Expenses:Rent,Expense,6-0000,1921,6-1921
+Noosa Expenses:Repairs & Maintenance,Noosa Expenses:Repairs & Maintenance,Expense,6-0000,1922,6-1922
+Noosa Expenses:Sponsorship,Noosa Expenses:Sponsorship,Expense,6-0000,1923,6-1923
+Noosa Expenses:Telephone,Noosa Expenses:Telephone,Expense,6-0000,1924,6-1924
+Noosa Expenses:Uniforms,Noosa Expenses:Uniforms,Expense,6-0000,1925,6-1925
+Noosa Expenses:Waste Expenses,Noosa Expenses:Waste Expenses,Expense,6-0000,1926,6-1926
+Patio Trailer,Patio Trailer,Expense,6-0000,1927,6-1927
+Patio Trailer:Insurance,Patio Trailer:Insurance,Expense,6-0000,1928,6-1928
+Patio Trailer:Rego,Patio Trailer:Rego,Expense,6-0000,1929,6-1929
+Patio Trailer:Repairs & Maintenance,Patio Trailer:Repairs & Maintenance,Expense,6-0000,1930,6-1930
+Payroll Expenses,Payroll Expenses,Expense,6-0000,1931,6-1931
+Payroll Expenses:American Express,Payroll Expenses:American Express,Expense,6-0000,1932,6-1932
+Payroll Expenses:Deductions,Payroll Expenses:Deductions,Expense,6-0000,1933,6-1933
+Payroll Expenses:Deductions:Board,Payroll Expenses:Deductions:Board,Expense,6-0000,1934,6-1934
+Payroll Expenses:Deductions:Bond,Payroll Expenses:Deductions:Bond,Expense,6-0000,1935,6-1935
+Payroll Expenses:Deductions:Centrlink Payments,Payroll Expenses:Deductions:Centrlink Payments,Expense,6-0000,1936,6-1936
+Payroll Expenses:Deductions:Child Support,Payroll Expenses:Deductions:Child Support,Expense,6-0000,1937,6-1937
+Payroll Expenses:Deductions:Loan from Lyn Hill - Megan,oll Expenses:Deductions:Loan from Lyn Hill - Megan,Expense,6-0000,1938,6-1938
+Payroll Expenses:Deductions:Loan from Lyn Hill - Sam,yroll Expenses:Deductions:Loan from Lyn Hill - Sam,Expense,6-0000,1939,6-1939
+Payroll Expenses:Deductions:Loan from Stephen - Shane,roll Expenses:Deductions:Loan from Stephen - Shane,Expense,6-0000,1940,6-1940
+Payroll Expenses:Deductions:Loan Repay fom Daniel,Payroll Expenses:Deductions:Loan Repay fom Daniel,Expense,6-0000,1941,6-1941
+Payroll Expenses:Deductions:Money from Stephen Hill,ayroll Expenses:Deductions:Money from Stephen Hill,Expense,6-0000,1942,6-1942
+Payroll Expenses:Deductions:Money owed to Lyn from Shane,l Expenses:Deductions:Money owed to Lyn from Shane,Expense,6-0000,1943,6-1943
+Payroll Expenses:Deductions:Rent,Payroll Expenses:Deductions:Rent,Expense,6-0000,1944,6-1944
+Payroll Expenses:Deductions:Rent from Daniel Scholz,ayroll Expenses:Deductions:Rent from Daniel Scholz,Expense,6-0000,1945,6-1945
+Payroll Expenses:Deductions:Travel,Payroll Expenses:Deductions:Travel,Expense,6-0000,1946,6-1946
+Payroll Expenses:Directors  Wages,Payroll Expenses:Directors  Wages,Expense,6-0000,1947,6-1947
+Payroll Expenses:Directors  Wages:Directors - Holiday Expense,enses:Directors  Wages:Directors - Holiday Expense,Expense,6-0000,1948,6-1948
+Payroll Expenses:Directors  Wages:Directors Superannuation,Expenses:Directors  Wages:Directors Superannuation,Expense,6-0000,1949,6-1949
+Payroll Expenses:Holiday Expense,Payroll Expenses:Holiday Expense,Expense,6-0000,1950,6-1950
+Payroll Expenses:Long Service Leave.,Payroll Expenses:Long Service Leave.,Expense,6-0000,1951,6-1951
+Payroll Expenses:Mobile Phone,Payroll Expenses:Mobile Phone,Expense,6-0000,1952,6-1952
+Payroll Expenses:Sick Leave,Payroll Expenses:Sick Leave,Expense,6-0000,1953,6-1953
+Payroll Expenses:Staff Wages,Payroll Expenses:Staff Wages,Expense,6-0000,1954,6-1954
+Payroll Expenses:Staff Wages:Job Keeper,Payroll Expenses:Staff Wages:Job Keeper,Expense,6-0000,1955,6-1955
+Payroll Expenses:Staff Wages:Paid Parental Leave,Payroll Expenses:Staff Wages:Paid Parental Leave,Expense,6-0000,1956,6-1956
+Payroll Expenses:Staff Wages:PPL Payments Received,Payroll Expenses:Staff Wages:PPL Payments Received,Expense,6-0000,1957,6-1957
+Payroll Expenses:Staff Wages:Staff Superannuation,Payroll Expenses:Staff Wages:Staff Superannuation,Expense,6-0000,1958,6-1958
+Payroll Expenses:Tool Allowance,Payroll Expenses:Tool Allowance,Expense,6-0000,1959,6-1959
+Payroll Tax,Payroll Tax,Expense,6-0000,1960,6-1960
+Payroll Tax:Pay G,Payroll Tax:Pay G,Expense,6-0000,1961,6-1961
+Pest Control,Pest Control,Expense,6-0000,1962,6-1962
+Petty Cash Bundaberg,Petty Cash Bundaberg,Expense,6-0000,1963,6-1963
+Petty Cash Top Up,Petty Cash Top Up,Expense,6-0000,1964,6-1964
+Postage,Postage,Expense,6-0000,1965,6-1965
+Printing and Stationery,Printing and Stationery,Expense,6-0000,1966,6-1966
+Promotions,Promotions,Expense,6-0000,1967,6-1967
+RACQ,RACQ,Expense,6-0000,1968,6-1968
+Rates,Rates,Expense,6-0000,1969,6-1969
+Reimbursment of Expenses,Reimbursment of Expenses,Expense,6-0000,1970,6-1970
+Rent,Rent,Expense,6-0000,1971,6-1971
+Rent - Bundaberg,Rent - Bundaberg,Expense,6-0000,1972,6-1972
+Rent for Aussie,Rent for Aussie,Expense,6-0000,1973,6-1973
+Rent for Aussie Home Additions,Rent for Aussie Home Additions,Expense,6-0000,1974,6-1974
+Rental Payments,Rental Payments,Expense,6-0000,1975,6-1975
+Rental Payments:Rent - 229 MB HB Road,Rental Payments:Rent - 229 MB HB Road,Expense,6-0000,1976,6-1976
+Rental Payments:Land Tax,Rental Payments:Land Tax,Expense,6-0000,1977,6-1977
+Rental Payments:Rent- Carpet Store Lot 2 & 3,Rental Payments:Rent- Carpet Store Lot 2 & 3,Expense,6-0000,1978,6-1978
+Rental Payments:Rent- Carpet Store Lot 2 & 3:Water & Sewerage,ents:Rent- Carpet Store Lot 2 & 3:Water & Sewerage,Expense,6-0000,1979,6-1979
+Rental Payments:Rent- Maryborough,Rental Payments:Rent- Maryborough,Expense,6-0000,1980,6-1980
+Rental Payments:Rent -  231 M/B H/B Road,Rental Payments:Rent -  231 M/B H/B Road,Expense,6-0000,1981,6-1981
+Rental Payments:Rent -  231 M/B H/B Road:Water & Sewerage,Payments:Rent -  231 M/B H/B Road:Water & Sewerage,Expense,6-0000,1982,6-1982
+Rental Payments:Rent - 231 M/B H/B Road,Rental Payments:Rent - 231 M/B H/B Road,Expense,6-0000,1983,6-1983
+Rental Payments:Rent - 4/90 Lower Mountain Road,Rental Payments:Rent - 4/90 Lower Mountain Road,Expense,6-0000,1984,6-1984
+Rental Payments:Rent - 535 Boat Harbour Drive,Rental Payments:Rent - 535 Boat Harbour Drive,Expense,6-0000,1985,6-1985
+Rental Payments:Rent - Ellongowan,Rental Payments:Rent - Ellongowan,Expense,6-0000,1986,6-1986
+Rental Payments:Rent - National Tiles Lot 1,Rental Payments:Rent - National Tiles Lot 1,Expense,6-0000,1987,6-1987
+Rental Payments:Rent - National Tiles Lot 1:Water & Sewerage,ments:Rent - National Tiles Lot 1:Water & Sewerage,Expense,6-0000,1988,6-1988
+Rental Payments:Rent Maryborough,Rental Payments:Rent Maryborough,Expense,6-0000,1989,6-1989
+Repairs & Maintenance,Repairs & Maintenance,Expense,6-0000,1990,6-1990
+Repairs & Maintenance:Forklift,Repairs & Maintenance:Forklift,Expense,6-0000,1991,6-1991
+Repairs & Maintenance- General,Repairs & Maintenance- General,Expense,6-0000,1992,6-1992
+Ride on Mower,Ride on Mower,Expense,6-0000,1993,6-1993
+Ride on Mower:Generator,Ride on Mower:Generator,Expense,6-0000,1994,6-1994
+Ride on Mower:Repairs,Ride on Mower:Repairs,Expense,6-0000,1995,6-1995
+Safety & Fire,Safety & Fire,Expense,6-0000,1996,6-1996
+Safety Induction Course,Safety Induction Course,Expense,6-0000,1997,6-1997
+Showroom Fitout,Showroom Fitout,Expense,6-0000,1998,6-1998
+Sign Writing,Sign Writing,Expense,6-0000,1999,6-1999
+Site Evaluatuion,Site Evaluatuion,Expense,6-0000,2000,6-2000
+Staff Expenses,Staff Expenses,Expense,6-0000,2001,6-2001
+Staff Expenses:Accommodation,Staff Expenses:Accommodation,Expense,6-0000,2002,6-2002
+Staff Expenses:Flights/Taxi/Transport,Staff Expenses:Flights/Taxi/Transport,Expense,6-0000,2003,6-2003
+Staff Expenses:Parking,Staff Expenses:Parking,Expense,6-0000,2004,6-2004
+Staff Expenses:Retirement Gift,Staff Expenses:Retirement Gift,Expense,6-0000,2005,6-2005
+Staff Expenses:Staff Meals/Food,Staff Expenses:Staff Meals/Food,Expense,6-0000,2006,6-2006
+Staff Expenses:Staff Party,Staff Expenses:Staff Party,Expense,6-0000,2007,6-2007
+Staff Expenses:Training & Welfare,Staff Expenses:Training & Welfare,Expense,6-0000,2008,6-2008
+Staff Sundries,Staff Sundries,Expense,6-0000,2009,6-2009
+Staff Training,Staff Training,Expense,6-0000,2010,6-2010
+Stamp Duty,Stamp Duty,Expense,6-0000,2011,6-2011
+Superannuation Contributions,Superannuation Contributions,Expense,6-0000,2012,6-2012
+Telephone & Internet,Telephone & Internet,Expense,6-0000,2013,6-2013
+Telephone & Internet:Internet - 231 MB HB Road,Telephone & Internet:Internet - 231 MB HB Road,Expense,6-0000,2014,6-2014
+Term Charges,Term Charges,Expense,6-0000,2015,6-2015
+Tools & Machinery,Tools & Machinery,Expense,6-0000,2016,6-2016
+Transfer from Choices to UHI,Transfer from Choices to UHI,Expense,6-0000,2017,6-2017
+transfer or money,transfer or money,Expense,6-0000,2018,6-2018
+Travel,Travel,Expense,6-0000,2019,6-2019
+Uniforms,Uniforms,Expense,6-0000,2020,6-2020
+Waste Disposal Expenses,Waste Disposal Expenses,Expense,6-0000,2021,6-2021
+Waste Disposal Expenses:Commercial Rubbish Bins,Waste Disposal Expenses:Commercial Rubbish Bins,Expense,6-0000,2022,6-2022
+Waste Disposal Expenses:Recycling Expenses,Waste Disposal Expenses:Recycling Expenses,Expense,6-0000,2023,6-2023
+Waste Disposal Expenses:Tip Fees,Waste Disposal Expenses:Tip Fees,Expense,6-0000,2024,6-2024
+Water & Sewrage,Water & Sewrage,Expense,6-0000,2025,6-2025
+Workplace Registration,Workplace Registration,Expense,6-0000,2026,6-2026
+Payroll Expenses.,Payroll Expenses.,Expense,6-0000,6560,6-6560
+Payroll Expenses,Payroll Expenses,Expense,6-0000,66000,6-6601
+Payroll Expenses,Payroll Expenses,Expense,6-0000,66001,6-6602
+Reconciliation Discrepancies,Reconciliation Discrepancies,Expense,6-0000,66900,6-6691
+Pay G,Pay G,Expense,6-0000,6999,6-6999
+Insurance Recoveries,Insurance Recoveries,Other Income,8-0000,2027,8-2027
+Employee Contributions,Employee Contributions,Other Income,8-0000,2028,8-2028
+Youth Wage Subsidy,Youth Wage Subsidy,Other Income,8-0000,2029,8-2029
+Asset Realisation Account,Asset Realisation Account,Other Income,8-0000,2030,8-2030
+Capital Gain On Sale Of Asset,Capital Gain On Sale Of Asset,Other Income,8-0000,2031,8-2031
+Cash Flow Boost - Tax Fre,Cash Flow Boost - Tax Fre,Other Income,8-0000,2032,8-2032
+Distributions Received - FW,Distributions Received - FW,Other Income,8-0000,2033,8-2033
+Interest Received,Interest Received,Other Income,8-0000,2034,8-2034
+JobKeeper Payments,JobKeeper Payments,Other Income,8-0000,2035,8-2035
+Profit on Sale of NCA,Profit on Sale of NCA,Other Income,8-0000,2036,8-2036
+Rental Income,Rental Income,Other Income,8-0000,2037,8-2037
+Workcover,Workcover,Other Income,8-0000,2038,8-2038
+Income Tax YTD,Income Tax YTD,Other Expense,9-0000,2039,9-2039
+Fully Franked Dividend,Fully Franked Dividend,Other Expense,9-0000,2040,9-2040
+Income Tax Expense,Income Tax Expense,Other Expense,9-0000,2041,9-2041
+Loss on Sale of NCA,Loss on Sale of NCA,Other Expense,9-0000,2042,9-2042
+Suspense,Suspense,Other Expense,9-0000,2043,9-2043
+Estimates,Estimates,Non-Posting,2-0000,9001,2-9001

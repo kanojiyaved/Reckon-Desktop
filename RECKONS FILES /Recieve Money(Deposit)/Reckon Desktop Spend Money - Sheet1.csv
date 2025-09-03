@@ -1,0 +1,1118 @@
+Trans #,Date,Num,Name,Source Name,Description,Due Date,Item,Account,Name,Code,Class,Tax Code,Split,Qty,Debit,Credit,Amount,Account Type,Tax Amount
+"364,327",03/07/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,665.2,-665.2,Bank,
+"364,327",03/07/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,604.73,,604.73,Cost of Goods Sold,60.47
+"364,327",03/07/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,60.47,,60.47,Other Current Liability,
+"365,980",03/07/2023,RZ140942,Telstra,Telstra,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,70,-70,Bank,
+"365,980",03/07/2023,RZ140942,Telstra,Telstra,Data for simcard for Pialba,,,2013,Telephone & Internet,Jun-13,,GST,1208 · NAB Qantas Business Card,,63.64,,63.64,Expense,6.36
+"365,980",03/07/2023,RZ140942,Australian Tax Office,Telstra,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,6.36,,6.36,Other Current Liability,
+"365,981",03/07/2023,RZ140943,CanIBuild,CanIBuild,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,324.5,-324.5,Bank,
+"365,981",03/07/2023,RZ140943,CanIBuild,CanIBuild,1 x Month Site Plan Software,,,1479,Annual Membership,6-1479,,GST,1208 · NAB Qantas Business Card,,295,,295,Expense,29.5
+"365,981",03/07/2023,RZ140943,Australian Tax Office,CanIBuild,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,29.5,,29.5,Other Current Liability,
+"363,268",04/07/2023,,B Australasian Homes Pty Ltd,B Australasian Homes Pty Ltd,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,1224 · Accounts Receivable,,,"69,644.54",########,Bank,
+"363,268",04/07/2023,,B Australasian Homes Pty Ltd,B Australasian Homes Pty Ltd,Customer made payment via credit card by mistake. Outstanding amount was not confirmed by person...,,,1224,Accounts Receivable,Jan-00,Flooring Hervey Bay,N-T,1222 · Universal Home Improvements Acc,,"69,644.54",,"69,644.54",Accounts Receivable,
+"364,328",04/07/2023,OLB,De Lage Landen Home Improvement,De Lage Landen Home Improvement,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,104.50,-104.5,Bank,
+"364,328",04/07/2023,OLB,De Lage Landen Home Improvement,De Lage Landen Home Improvement,,,,1445,Purchases,5-1445,,GST,1222 · Universal Home Improvements Acc,,95,,95,Cost of Goods Sold,9.5
+"364,328",04/07/2023,OLB,Australian Tax Office,De Lage Landen Home Improvement,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,9.5,,9.5,Other Current Liability,
+"364,329",04/07/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,272,-272,Bank,
+"364,329",04/07/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,247.27,,247.27,Cost of Goods Sold,24.73
+"364,329",04/07/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,24.73,,24.73,Other Current Liability,
+"365,982",04/07/2023,RZ140944,BlinQ,BlinQ,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,535,-535,Bank,
+"365,982",04/07/2023,RZ140944,BlinQ,BlinQ,Quoting Software - Monthly Fee,,,1479,Annual Membership,6-1479,,GST,1208 · NAB Qantas Business Card,,486.36,,486.36,Expense,48.64
+"365,982",04/07/2023,RZ140944,Australian Tax Office,BlinQ,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,48.64,,48.64,Other Current Liability,
+"365,983",05/07/2023,RZ140945,Officeworks,Officeworks,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,76.95,-76.95,Bank,
+"365,983",05/07/2023,RZ140945,Officeworks,Officeworks,,,,1919,Printing & Stationary,Jun-19,,GST,1208 · NAB Qantas Business Card,,69.95,,69.95,Expense,7
+"365,983",05/07/2023,RZ140945,Australian Tax Office,Officeworks,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,7,,7,Other Current Liability,
+"365,984",05/07/2023,RZ140946,Officeworks,Officeworks,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,127,-127,Bank,
+"365,984",05/07/2023,RZ140946,Officeworks,Officeworks,,,,1966,Printing and Stationery,Jun-66,,GST,1208 · NAB Qantas Business Card,,115.45,,115.45,Expense,11.55
+"365,984",05/07/2023,RZ140946,Australian Tax Office,Officeworks,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,11.55,,11.55,Other Current Liability,
+"364,330",06/07/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,901.55,-901.55,Bank,
+"364,330",06/07/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,819.59,,819.59,Cost of Goods Sold,81.96
+"364,330",06/07/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,81.96,,81.96,Other Current Liability,
+"365,985",06/07/2023,RZ140947,National Australia Bank *,National Australia Bank *,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,1.32,-1.32,Bank,
+"365,985",06/07/2023,RZ140947,National Australia Bank *,National Australia Bank *,International Transaction Fee,,,1469,Bank Charges,6-1469,,FRE,1208 · NAB Qantas Business Card,,1.32,,1.32,Expense,0
+"365,985",06/07/2023,RZ140947,Australian Tax Office,National Australia Bank *,Non-Cap. Acq. - GST Free,,NCF,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,0,,0,Other Current Liability,
+"365,986",06/07/2023,RZ140948,Facebook,Facebook,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,44,-44,Bank,
+"365,986",06/07/2023,RZ140948,Facebook,Facebook,Facebook Advertising,,,1906,Advertising,Jun-06,,GST,1208 · NAB Qantas Business Card,,40,,40,Expense,4
+"365,986",06/07/2023,RZ140948,Australian Tax Office,Facebook,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,4,,4,Other Current Liability,
+"365,987",06/07/2023,RZ140949,FHA Wholesalers,FHA Wholesalers,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,"28,163.92",########,Bank,
+"365,987",06/07/2023,RZ140949,FHA Wholesalers,FHA Wholesalers,,,,1445,Purchases,5-1445,,GST,1208 · NAB Qantas Business Card,,"25,603.56",,"25,603.56",Cost of Goods Sold,"2,560.36"
+"365,987",06/07/2023,RZ140949,Australian Tax Office,FHA Wholesalers,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,"2,560.36",,"2,560.36",Other Current Liability,
+"364,331",07/07/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,329.05,-329.05,Bank,
+"364,331",07/07/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,299.14,,299.14,Cost of Goods Sold,29.91
+"364,331",07/07/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,29.91,,29.91,Other Current Liability,
+"365,988",07/07/2023,RZ140950,ASSA,ASSA,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,55.7,-55.7,Bank,
+"365,988",07/07/2023,RZ140950,ASSA,ASSA,,,,1627,Membership Fees,6-1627,,GST,1208 · NAB Qantas Business Card,,50.64,,50.64,Expense,5.06
+"365,988",07/07/2023,RZ140950,Australian Tax Office,ASSA,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,5.06,,5.06,Other Current Liability,
+"365,989",07/07/2023,RZ140951,Officeworks,Officeworks,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,79.12,-79.12,Bank,
+"365,989",07/07/2023,RZ140951,Officeworks,Officeworks,,,,1919,Printing & Stationary,Jun-19,,GST,1208 · NAB Qantas Business Card,,71.93,,71.93,Expense,7.19
+"365,989",07/07/2023,RZ140951,Australian Tax Office,Officeworks,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,7.19,,7.19,Other Current Liability,
+"364,072",10/07/2023,OLB,Tims Auto Detailing,Tims Auto Detailing,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,440,-440,Bank,
+"364,072",10/07/2023,OLB,Tims Auto Detailing,Tims Auto Detailing,,,,1727,Repairs & Maintenance,6-1727,,GST,1208 · NAB Qantas Business Card,,400,,400,Expense,40
+"364,072",10/07/2023,OLB,Australian Tax Office,Tims Auto Detailing,10% GST,,GST-P,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,40,,40,Other Current Liability,
+"365,990",10/07/2023,RZ140952,National Australia Bank *,National Australia Bank *,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,1.32,-1.32,Bank,
+"365,990",10/07/2023,RZ140952,National Australia Bank *,National Australia Bank *,International Transaction Fee,,,1469,Bank Charges,6-1469,,FRE,1208 · NAB Qantas Business Card,,1.32,,1.32,Expense,0
+"365,990",10/07/2023,RZ140952,Australian Tax Office,National Australia Bank *,Non-Cap. Acq. - GST Free,,NCF,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,0,,0,Other Current Liability,
+"365,991",10/07/2023,RZ140953,National Australia Bank *,National Australia Bank *,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,1.32,-1.32,Bank,
+"365,991",10/07/2023,RZ140953,National Australia Bank *,National Australia Bank *,International Transaction Fee,,,1469,Bank Charges,6-1469,,FRE,1208 · NAB Qantas Business Card,,1.32,,1.32,Expense,0
+"365,991",10/07/2023,RZ140953,Australian Tax Office,National Australia Bank *,Non-Cap. Acq. - GST Free,,NCF,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,0,,0,Other Current Liability,
+"365,992",10/07/2023,RZ140954,Microsoftstore,Microsoftstore,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,18.92,-18.92,Bank,
+"365,992",10/07/2023,RZ140954,Microsoftstore,Microsoftstore,Microsoft365 Subscriptions,,,1478,Computer/Internet/Came Expenses,6-1478,,GST,1208 · NAB Qantas Business Card,,17.2,,17.2,Expense,1.72
+"365,992",10/07/2023,RZ140954,Australian Tax Office,Microsoftstore,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,1.72,,1.72,Other Current Liability,
+"365,993",10/07/2023,RZ140955,Facebook,Facebook,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,44,-44,Bank,
+"365,993",10/07/2023,RZ140955,Facebook,Facebook,Facebook Advertising,,,1906,Advertising,Jun-06,,GST,1208 · NAB Qantas Business Card,,40,,40,Expense,4
+"365,993",10/07/2023,RZ140955,Australian Tax Office,Facebook,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,4,,4,Other Current Liability,
+"365,994",10/07/2023,RZ140956,Dominos Pizza,Dominos Pizza,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,44,-44,Bank,
+"365,994",10/07/2023,RZ140956,Dominos Pizza,Dominos Pizza,Monthly Lunch,,,2007,Staff Party,Jun-07,,GST,1208 · NAB Qantas Business Card,,40,,40,Expense,4
+"365,994",10/07/2023,RZ140956,Australian Tax Office,Dominos Pizza,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,4,,4,Other Current Liability,
+"365,995",10/07/2023,RZ140957,Dominos Pizza,Dominos Pizza,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,44,-44,Bank,
+"365,995",10/07/2023,RZ140957,Dominos Pizza,Dominos Pizza,Monthly Lunch,,,2007,Staff Party,Jun-07,,GST,1208 · NAB Qantas Business Card,,40,,40,Expense,4
+"365,995",10/07/2023,RZ140957,Australian Tax Office,Dominos Pizza,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,4,,4,Other Current Liability,
+"365,996",10/07/2023,RZ140958,Facebook,Facebook,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,44,-44,Bank,
+"365,996",10/07/2023,RZ140958,Facebook,Facebook,Facebook Advertising,,,1906,Advertising,Jun-06,,GST,1208 · NAB Qantas Business Card,,40,,40,Expense,4
+"365,996",10/07/2023,RZ140958,Australian Tax Office,Facebook,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,4,,4,Other Current Liability,
+"365,997",10/07/2023,RZ140959,Microsoftstore,Microsoftstore,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,180.4,-180.4,Bank,
+"365,997",10/07/2023,RZ140959,Microsoftstore,Microsoftstore,Microsoft365 Subscriptions,,,1478,Computer/Internet/Came Expenses,6-1478,,GST,1208 · NAB Qantas Business Card,,164,,164,Expense,16.4
+"365,997",10/07/2023,RZ140959,Australian Tax Office,Microsoftstore,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,16.4,,16.4,Other Current Liability,
+"364,135",11/07/2023,,"Anderson, Lori & Gary","Anderson, Lori & Gary",,,,1222,Universal Home Improvements Acc,1-1222,,N-T,1224 · Accounts Receivable,,,160,-160,Bank,
+"364,135",11/07/2023,,"Anderson, Lori & Gary","Anderson, Lori & Gary",,,,1224,Accounts Receivable,Jan-00,Patios,N-T,1222 · Universal Home Improvements Acc,,160,,160,Accounts Receivable,
+"364,788",11/07/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,708,-708,Bank,
+"364,788",11/07/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,643.64,,643.64,Cost of Goods Sold,64.36
+"364,788",11/07/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,64.36,,64.36,Other Current Liability,
+"364,789",11/07/2023,OLB,De Lage Landen Home Improvement,De Lage Landen Home Improvement,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,104.5,-104.5,Bank,
+"364,789",11/07/2023,OLB,De Lage Landen Home Improvement,De Lage Landen Home Improvement,,,,1445,Purchases,5-1445,,GST,1222 · Universal Home Improvements Acc,,95,,95,Cost of Goods Sold,9.5
+"364,789",11/07/2023,OLB,Australian Tax Office,De Lage Landen Home Improvement,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,9.5,,9.5,Other Current Liability,
+"364,792",13/07/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,314.75,-314.75,Bank,
+"364,792",13/07/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,286.14,,286.14,Cost of Goods Sold,28.61
+"364,792",13/07/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,28.61,,28.61,Other Current Liability,
+"365,998",13/07/2023,RZ140960,FHA Wholesalers,FHA Wholesalers,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,"45,987.53",########,Bank,
+"365,998",13/07/2023,RZ140960,FHA Wholesalers,FHA Wholesalers,,,,1445,Purchases,5-1445,,GST,1208 · NAB Qantas Business Card,,"41,806.85",,"41,806.85",Cost of Goods Sold,"4,180.68"
+"365,998",13/07/2023,RZ140960,Australian Tax Office,FHA Wholesalers,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,"4,180.68",,"4,180.68",Other Current Liability,
+"364,795",14/07/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,321.90,-321.9,Bank,
+"364,795",14/07/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,292.64,,292.64,Cost of Goods Sold,29.26
+"364,795",14/07/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,29.26,,29.26,Other Current Liability,
+"364,785",17/07/2023,RZ140940,Steelmark,Steelmark,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,510.95,-510.95,Bank,
+"364,785",17/07/2023,RZ140940,Steelmark,Steelmark,6 x Bollards,,,1998,Showroom Fitout,Jun-98,,GST,1208 · NAB Qantas Business Card,,464.5,,464.5,Expense,46.45
+"364,785",17/07/2023,RZ140940,Australian Tax Office,Steelmark,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,46.45,,46.45,Other Current Liability,
+"365,207",17/07/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,"1,316.05","-1,316.05",Bank,
+"365,207",17/07/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,"1,196.41",,"1,196.41",Cost of Goods Sold,119.64
+"365,207",17/07/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,119.64,,119.64,Other Current Liability,
+"365,999",17/07/2023,RZ140961,Geeks2U,Geeks2U,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,195.8,-195.8,Bank,
+"365,999",17/07/2023,RZ140961,Geeks2U,Geeks2U,,,,1908,Computer Expenses,Jun-08,,GST,1208 · NAB Qantas Business Card,,178,,178,Expense,17.8
+"365,999",17/07/2023,RZ140961,Australian Tax Office,Geeks2U,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,17.8,,17.8,Other Current Liability,
+"364,758",18/07/2023,,Cash Sale,Cash Sale,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,1224 · Accounts Receivable,,,432,-432,Bank,
+"364,758",18/07/2023,,Cash Sale,Cash Sale,,,,1224,Accounts Receivable,Jan-00,Tiles Hervey Bay,N-T,1222 · Universal Home Improvements Acc,,432,,432,Accounts Receivable,
+"365,006",18/07/2023,RZ140941,Noosa Auto Group,Noosa Auto Group,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,360,-360,Bank,
+"365,006",18/07/2023,RZ140941,Noosa Auto Group,Noosa Auto Group,Service 24904 KM,,,1687,Repairs & Maintenance,6-1687,,GST,1208 · NAB Qantas Business Card,,327.27,,327.27,Expense,32.73
+"365,006",18/07/2023,RZ140941,Australian Tax Office,Noosa Auto Group,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,32.73,,32.73,Other Current Liability,
+"365,208",18/07/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,636.65,-636.65,Bank,
+"365,208",18/07/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,578.77,,578.77,Cost of Goods Sold,57.88
+"365,208",18/07/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,57.88,,57.88,Other Current Liability,
+"366,000",18/07/2023,RZ140962,Steelspan,Steelspan,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,"3,263.30","-3,263.30",Bank,
+"366,000",18/07/2023,RZ140962,Steelspan,Steelspan,,,,1998,Showroom Fitout,Jun-98,,GST,1208 · NAB Qantas Business Card,,"2,966.64",,"2,966.64",Expense,296.66
+"366,000",18/07/2023,RZ140962,Australian Tax Office,Steelspan,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,296.66,,296.66,Other Current Liability,
+"365,209",19/07/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,371.9,-371.9,Bank,
+"365,209",19/07/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,338.09,,338.09,Cost of Goods Sold,33.81
+"365,209",19/07/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,33.81,,33.81,Other Current Liability,
+"366,001",20/07/2023,RZ140963,National Australia Bank *,National Australia Bank *,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,9.21,-9.21,Bank,
+"366,001",20/07/2023,RZ140963,National Australia Bank *,National Australia Bank *,International Transaction Fee,,,1469,Bank Charges,6-1469,,FRE,1208 · NAB Qantas Business Card,,9.21,,9.21,Expense,0
+"366,001",20/07/2023,RZ140963,Australian Tax Office,National Australia Bank *,Non-Cap. Acq. - GST Free,,NCF,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,0,,0,Other Current Liability,
+"366,002",20/07/2023,RZ140964,Officeworks,Officeworks,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,137.83,-137.83,Bank,
+"366,002",20/07/2023,RZ140964,Officeworks,Officeworks,,,,1919,Printing & Stationary,Jun-19,,GST,1208 · NAB Qantas Business Card,,125.3,,125.3,Expense,12.53
+"366,002",20/07/2023,RZ140964,Australian Tax Office,Officeworks,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,12.53,,12.53,Other Current Liability,
+"366,003",20/07/2023,RZ140965,DropBox,DropBox,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,306.9,-306.9,Bank,
+"366,003",20/07/2023,RZ140965,DropBox,DropBox,Yearly Subscription Fee,,,1478,Computer/Internet/Came Expenses,6-1478,,GST,1208 · NAB Qantas Business Card,,279,,279,Expense,27.9
+"366,003",20/07/2023,RZ140965,Australian Tax Office,DropBox,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,27.9,,27.9,Other Current Liability,
+"365,211",21/07/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,729.45,-729.45,Bank,
+"365,211",21/07/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,663.14,,663.14,Cost of Goods Sold,66.31
+"365,211",21/07/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,66.31,,66.31,Other Current Liability,
+"366,004",21/07/2023,RZ140966,Pc Case Gear Pty Ltd.,Pc Case Gear Pty Ltd.,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,"2,723.00","-2,723.00",Bank,
+"366,004",21/07/2023,RZ140966,Pc Case Gear Pty Ltd.,Pc Case Gear Pty Ltd.,2 x New Computers. Brent & Spare,,,1478,Computer/Internet/Came Expenses,6-1478,,GST,1208 · NAB Qantas Business Card,,"2,475.45",,"2,475.45",Expense,247.55
+"366,004",21/07/2023,RZ140966,Australian Tax Office,Pc Case Gear Pty Ltd.,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,247.55,,247.55,Other Current Liability,
+"365,875",24/07/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,858.65,-858.65,Bank,
+"365,875",24/07/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,780.59,,780.59,Cost of Goods Sold,78.06
+"365,875",24/07/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,78.06,,78.06,Other Current Liability,
+"366,005",24/07/2023,RZ140967,News Corp Australia,News Corp Australia,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,30,-30,Bank,
+"366,005",24/07/2023,RZ140967,News Corp Australia,News Corp Australia,Courier Mail Subscription,,,2007,Staff Party,Jun-07,,GST,1208 · NAB Qantas Business Card,,27.27,,27.27,Expense,2.73
+"366,005",24/07/2023,RZ140967,Australian Tax Office,News Corp Australia,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,2.73,,2.73,Other Current Liability,
+"366,006",24/07/2023,RZ140968,Big W,Big W,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,159,-159,Bank,
+"366,006",24/07/2023,RZ140968,Big W,Big W,,,,1919,Printing & Stationary,Jun-19,,GST,1208 · NAB Qantas Business Card,,144.55,,144.55,Expense,14.45
+"366,006",24/07/2023,RZ140968,Australian Tax Office,Big W,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,14.45,,14.45,Other Current Liability,
+"366,007",24/07/2023,RZ140969,Truckit,Truckit,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,"2,028.92","-2,028.92",Bank,
+"366,007",24/07/2023,RZ140969,Truckit,Truckit,Freight racks for new showroom.,,,1438,Freight and Cartage,5-1438,,GST,1208 · NAB Qantas Business Card,,"1,844.47",,"1,844.47",Cost of Goods Sold,184.45
+"366,007",24/07/2023,RZ140969,Australian Tax Office,Truckit,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,184.45,,184.45,Other Current Liability,
+"365,876",25/07/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,543.1,-543.1,Bank,
+"365,876",25/07/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,493.73,,493.73,Cost of Goods Sold,49.37
+"365,876",25/07/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,49.37,,49.37,Other Current Liability,
+"366,027",26/07/2023,RZ140970,Officeworks,Officeworks,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,9.98,-9.98,Bank,
+"366,027",26/07/2023,RZ140970,Officeworks,Officeworks,,,,1966,Printing and Stationery,Jun-66,,GST,1208 · NAB Qantas Business Card,,9.07,,9.07,Expense,0.91
+"366,027",26/07/2023,RZ140970,Australian Tax Office,Officeworks,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,0.91,,0.91,Other Current Liability,
+"366,028",26/07/2023,RZ140971,EstimateOne,EstimateOne,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,"1,320.00","-1,320.00",Bank,
+"366,028",26/07/2023,RZ140971,EstimateOne,EstimateOne,,,,1479,Annual Membership,6-1479,,GST,1208 · NAB Qantas Business Card,,"1,200.00",,"1,200.00",Expense,120
+"366,028",26/07/2023,RZ140971,Australian Tax Office,EstimateOne,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,120,,120,Other Current Liability,
+"365,877",28/07/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,"1,398.90","-1,398.90",Bank,
+"365,877",28/07/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,"1,271.73",,"1,271.73",Cost of Goods Sold,127.17
+"365,877",28/07/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,127.17,,127.17,Other Current Liability,
+"366,029",28/07/2023,RZ140972,National Australia Bank *,National Australia Bank *,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,36,-36,Bank,
+"366,029",28/07/2023,RZ140972,National Australia Bank *,National Australia Bank *,3 x Card Fees,,,1469,Bank Charges,6-1469,,FRE,1208 · NAB Qantas Business Card,,36,,36,Expense,0
+"366,029",28/07/2023,RZ140972,Australian Tax Office,National Australia Bank *,Non-Cap. Acq. - GST Free,,NCF,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,0,,0,Other Current Liability,
+"366,030",28/07/2023,RZ140973,FHA Wholesalers,FHA Wholesalers,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,"46,562.10",########,Bank,
+"366,030",28/07/2023,RZ140973,FHA Wholesalers,FHA Wholesalers,,,,1445,Purchases,5-1445,,GST,1208 · NAB Qantas Business Card,,"42,329.18",,"42,329.18",Cost of Goods Sold,"4,232.92"
+"366,030",28/07/2023,RZ140973,Australian Tax Office,FHA Wholesalers,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,"4,232.92",,"4,232.92",Other Current Liability,
+"365,898",31/07/2023,Fee,National Australia Bank,National Australia Bank,,,,1204,Choices Flooring Noosaville,1-1204,,N-T,-SPLIT-,,,287.11,-287.11,Bank,
+"365,898",31/07/2023,Fee,National Australia Bank,National Australia Bank,,,,1629,Merchant Fees,6-1629,,GST,1204 · Choices Flooring Noosaville,,261.01,,261.01,Expense,26.1
+"365,898",31/07/2023,Fee,Australian Tax Office,National Australia Bank,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1204 · Choices Flooring Noosaville,,26.1,,26.1,Other Current Liability,
+"366,031",31/07/2023,RZ140974,National Australia Bank *,National Australia Bank *,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,4.49,-4.49,Bank,
+"366,031",31/07/2023,RZ140974,National Australia Bank *,National Australia Bank *,International Transaction Fee,,,1469,Bank Charges,6-1469,,FRE,1208 · NAB Qantas Business Card,,4.49,,4.49,Expense,0
+"366,031",31/07/2023,RZ140974,Australian Tax Office,National Australia Bank *,Non-Cap. Acq. - GST Free,,NCF,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,0,,0,Other Current Liability,
+"366,032",31/07/2023,RZ140975,National Australia Bank *,National Australia Bank *,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,4.5,-4.5,Bank,
+"366,032",31/07/2023,RZ140975,National Australia Bank *,National Australia Bank *,International Transaction Fee,,,1469,Bank Charges,6-1469,,FRE,1208 · NAB Qantas Business Card,,4.5,,4.5,Expense,0
+"366,032",31/07/2023,RZ140975,Australian Tax Office,National Australia Bank *,Non-Cap. Acq. - GST Free,,NCF,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,0,,0,Other Current Liability,
+"366,033",31/07/2023,RZ140976,NORDVPN,NORDVPN,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,149.55,-149.55,Bank,
+"366,033",31/07/2023,RZ140976,NORDVPN,NORDVPN,,,,1479,Annual Membership,6-1479,,GST,1208 · NAB Qantas Business Card,,135.95,,135.95,Expense,13.6
+"366,033",31/07/2023,RZ140976,Australian Tax Office,NORDVPN,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,13.6,,13.6,Other Current Liability,
+"366,034",31/07/2023,RZ140977,Ring,Ring,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,150,-150,Bank,
+"366,034",31/07/2023,RZ140977,Ring,Ring,,,,1507,General Repairs & Maintenance,6-1507,,GST,1208 · NAB Qantas Business Card,,136.36,,136.36,Expense,13.64
+"366,034",31/07/2023,RZ140977,Australian Tax Office,Ring,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,13.64,,13.64,Other Current Liability,
+"366,035",31/07/2023,RZ140978,Local Search,Local Search,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,"3,569.46","-3,569.46",Bank,
+"366,035",31/07/2023,RZ140978,Local Search,Local Search,,,,1453,Local Directories,6-1453,,GST,1208 · NAB Qantas Business Card,,"3,244.96",,"3,244.96",Expense,324.5
+"366,035",31/07/2023,RZ140978,Australian Tax Office,Local Search,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,324.5,,324.5,Other Current Liability,
+"366,382",31/07/2023,164,National Australia Bank,National Australia Bank,,,,1204,Choices Flooring Noosaville,1-1204,,N-T,-SPLIT-,,,10,-10,Bank,
+"366,382",31/07/2023,164,National Australia Bank,National Australia Bank,,,,1469,Bank Charges,6-1469,,FRE,1204 · Choices Flooring Noosaville,,10,,10,Expense,0
+"366,382",31/07/2023,164,Australian Tax Office,National Australia Bank,Non-Cap. Acq. - GST Free,,NCF,2200,Tax Payable,Feb-00,,N-T,1204 · Choices Flooring Noosaville,,0,,0,Other Current Liability,
+"366,589",31/07/2023,OLB,National Australia Bank *,National Australia Bank *,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,10,-10,Bank,
+"366,589",31/07/2023,OLB,National Australia Bank *,National Australia Bank *,Account Fee,,,1469,Bank Charges,6-1469,,FRE,1222 · Universal Home Improvements Acc,,10,,10,Expense,0
+"366,589",31/07/2023,OLB,Australian Tax Office,National Australia Bank *,Non-Cap. Acq. - GST Free,,NCF,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,0,,0,Other Current Liability,
+"366,590",31/07/2023,OLB,National Australia Bank *,National Australia Bank *,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,615.69,-615.69,Bank,
+"366,590",31/07/2023,OLB,National Australia Bank *,National Australia Bank *,Merchant Fee,,,1629,Merchant Fees,6-1629,,GST,1222 · Universal Home Improvements Acc,,559.72,,559.72,Expense,55.97
+"366,590",31/07/2023,OLB,Australian Tax Office,National Australia Bank *,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,55.97,,55.97,Other Current Liability,
+"366,591",31/07/2023,OLB,National Australia Bank *,National Australia Bank *,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,"1,184.57","-1,184.57",Bank,
+"366,591",31/07/2023,OLB,National Australia Bank *,National Australia Bank *,Merchant Fee,,,1629,Merchant Fees,6-1629,,GST,1222 · Universal Home Improvements Acc,,"1,076.88",,"1,076.88",Expense,107.69
+"366,591",31/07/2023,OLB,Australian Tax Office,National Australia Bank *,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,107.69,,107.69,Other Current Liability,
+"366,592",31/07/2023,OLB,BOQ Finance - Photocopier,BOQ Finance - Photocopier,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,346.5,-346.5,Bank,
+"366,592",31/07/2023,OLB,BOQ Finance - Photocopier,BOQ Finance - Photocopier,,,,1966,Printing and Stationery,Jun-66,,GST,1222 · Universal Home Improvements Acc,,315,,315,Expense,31.5
+"366,592",31/07/2023,OLB,Australian Tax Office,BOQ Finance - Photocopier,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,31.5,,31.5,Other Current Liability,
+"366,036",01/08/2023,RZ140979,National Australia Bank *,National Australia Bank *,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,0.48,-0.48,Bank,
+"366,036",01/08/2023,RZ140979,National Australia Bank *,National Australia Bank *,International Transaction Fee,,,1469,Bank Charges,6-1469,,FRE,1208 · NAB Qantas Business Card,,0.48,,0.48,Expense,0
+"366,036",01/08/2023,RZ140979,Australian Tax Office,National Australia Bank *,Non-Cap. Acq. - GST Free,,NCF,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,0,,0,Other Current Liability,
+"366,037",01/08/2023,RZ140980,Facebook,Facebook,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,15.84,-15.84,Bank,
+"366,037",01/08/2023,RZ140980,Facebook,Facebook,Facebook Advertising,,,1906,Advertising,Jun-06,,GST,1208 · NAB Qantas Business Card,,14.4,,14.4,Expense,1.44
+"366,037",01/08/2023,RZ140980,Australian Tax Office,Facebook,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,1.44,,1.44,Other Current Liability,
+"366,038",01/08/2023,RZ140981,Officeworks,Officeworks,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,161.5,-161.5,Bank,
+"366,038",01/08/2023,RZ140981,Officeworks,Officeworks,,,,1966,Printing and Stationery,Jun-66,,GST,1208 · NAB Qantas Business Card,,146.82,,146.82,Expense,14.68
+"366,038",01/08/2023,RZ140981,Australian Tax Office,Officeworks,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,14.68,,14.68,Other Current Liability,
+"366,039",01/08/2023,RZ140982,Tims Auto Detailing,Tims Auto Detailing,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,330,-330,Bank,
+"366,039",01/08/2023,RZ140982,Tims Auto Detailing,Tims Auto Detailing,,,,1668,Repairs & Maintenance,6-1668,,GST,1208 · NAB Qantas Business Card,,300,,300,Expense,30
+"366,039",01/08/2023,RZ140982,Australian Tax Office,Tims Auto Detailing,10% GST,,GST-P,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,30,,30,Other Current Liability,
+"367,133",02/08/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,"2,031.20","-2,031.20",Bank,
+"367,133",02/08/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,"1,846.55",,"1,846.55",Cost of Goods Sold,184.65
+"367,133",02/08/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,184.65,,184.65,Other Current Liability,
+"369,347",02/08/2023,RZ140983,National Australia Bank *,National Australia Bank *,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,15,-15,Bank,
+"369,347",02/08/2023,RZ140983,National Australia Bank *,National Australia Bank *,International Transaction Fee,,,1469,Bank Charges,6-1469,,FRE,1208 · NAB Qantas Business Card,,15,,15,Expense,0
+"369,347",02/08/2023,RZ140983,Australian Tax Office,National Australia Bank *,Non-Cap. Acq. - GST Free,,NCF,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,0,,0,Other Current Liability,
+"369,348",02/08/2023,RZ140984,CanIBuild,CanIBuild,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,324.5,-324.5,Bank,
+"369,348",02/08/2023,RZ140984,CanIBuild,CanIBuild,1 x Month Site Plan Software,,,1479,Annual Membership,6-1479,,GST,1208 · NAB Qantas Business Card,,295,,295,Expense,29.5
+"369,348",02/08/2023,RZ140984,Australian Tax Office,CanIBuild,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,29.5,,29.5,Other Current Liability,
+"367,137",03/08/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,"1,393.70","-1,393.70",Bank,
+"367,137",03/08/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,"1,267.00",,"1,267.00",Cost of Goods Sold,126.7
+"367,137",03/08/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,126.7,,126.7,Other Current Liability,
+"369,349",03/08/2023,RZ140985,FHA Wholesalers,FHA Wholesalers,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,"17,222.15",########,Bank,
+"369,349",03/08/2023,RZ140985,FHA Wholesalers,FHA Wholesalers,,,,1445,Purchases,5-1445,,GST,1208 · NAB Qantas Business Card,,"15,656.50",,"15,656.50",Cost of Goods Sold,"1,565.65"
+"369,349",03/08/2023,RZ140985,Australian Tax Office,FHA Wholesalers,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,"1,565.65",,"1,565.65",Other Current Liability,
+"367,138",04/08/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,700.90,-700.9,Bank,
+"367,138",04/08/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,637.18,,637.18,Cost of Goods Sold,63.72
+"367,138",04/08/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,63.72,,63.72,Other Current Liability,
+"367,139",04/08/2023,OLB,De Lage Landen Home Improvement,De Lage Landen Home Improvement,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,104.5,-104.5,Bank,
+"367,139",04/08/2023,OLB,De Lage Landen Home Improvement,De Lage Landen Home Improvement,,,,1445,Purchases,5-1445,,GST,1222 · Universal Home Improvements Acc,,95,,95,Cost of Goods Sold,9.5
+"367,139",04/08/2023,OLB,Australian Tax Office,De Lage Landen Home Improvement,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,9.5,,9.5,Other Current Liability,
+"369,350",04/08/2023,RZ140986,BlinQ,BlinQ,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,535,-535,Bank,
+"369,350",04/08/2023,RZ140986,BlinQ,BlinQ,Quoting Software - Monthly Fee,,,1479,Annual Membership,6-1479,,GST,1208 · NAB Qantas Business Card,,486.36,,486.36,Expense,48.64
+"369,350",04/08/2023,RZ140986,Australian Tax Office,BlinQ,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,48.64,,48.64,Other Current Liability,
+"367,364",07/08/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,279.05,-279.05,Bank,
+"367,364",07/08/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,253.68,,253.68,Cost of Goods Sold,25.37
+"367,364",07/08/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,25.37,,25.37,Other Current Liability,
+"369,351",07/08/2023,RZ140987,Dominos Pizza,Dominos Pizza,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,44,-44,Bank,
+"369,351",07/08/2023,RZ140987,Dominos Pizza,Dominos Pizza,Monthly Lunch,,,2007,Staff Party,Jun-07,,GST,1208 · NAB Qantas Business Card,,40,,40,Expense,4
+"369,351",07/08/2023,RZ140987,Australian Tax Office,Dominos Pizza,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,4,,4,Other Current Liability,
+"369,352",07/08/2023,RZ140988,Dominos Pizza,Dominos Pizza,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,44,-44,Bank,
+"369,352",07/08/2023,RZ140988,Dominos Pizza,Dominos Pizza,Monthly Lunch,,,2007,Staff Party,Jun-07,,GST,1208 · NAB Qantas Business Card,,40,,40,Expense,4
+"369,352",07/08/2023,RZ140988,Australian Tax Office,Dominos Pizza,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,4,,4,Other Current Liability,
+"369,353",07/08/2023,RZ140989,Microsoftstore,Microsoftstore,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,139,-139,Bank,
+"369,353",07/08/2023,RZ140989,Microsoftstore,Microsoftstore,Microsoft365 Subscriptions,,,1478,Computer/Internet/Came Expenses,6-1478,,GST,1208 · NAB Qantas Business Card,,126.36,,126.36,Expense,12.64
+"369,353",07/08/2023,RZ140989,Australian Tax Office,Microsoftstore,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,12.64,,12.64,Other Current Liability,
+"366,450",08/08/2023,,"Rosman, Nick","Rosman, Nick",,,,1222,Universal Home Improvements Acc,1-1222,,N-T,1224 · Accounts Receivable,,,832,-832,Bank,
+"366,450",08/08/2023,,"Rosman, Nick","Rosman, Nick",,,,1224,Accounts Receivable,Jan-00,Tiles Hervey Bay,N-T,1222 · Universal Home Improvements Acc,,832,,832,Accounts Receivable,
+"369,354",08/08/2023,RZ140990,Microsoftstore,Microsoftstore,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,18.92,-18.92,Bank,
+"369,354",08/08/2023,RZ140990,Microsoftstore,Microsoftstore,Microsoft365 Subscriptions,,,1478,Computer/Internet/Came Expenses,6-1478,,GST,1208 · NAB Qantas Business Card,,17.2,,17.2,Expense,1.72
+"369,354",08/08/2023,RZ140990,Australian Tax Office,Microsoftstore,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,1.72,,1.72,Other Current Liability,
+"369,355",08/08/2023,RZ140991,Possum Paradise Nursery,Possum Paradise Nursery,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,48,-48,Bank,
+"369,355",08/08/2023,RZ140991,Possum Paradise Nursery,Possum Paradise Nursery,Fill for Torquay Office,,,1507,General Repairs & Maintenance,6-1507,,GST,1208 · NAB Qantas Business Card,,43.64,,43.64,Expense,4.36
+"369,355",08/08/2023,RZ140991,Australian Tax Office,Possum Paradise Nursery,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,4.36,,4.36,Other Current Liability,
+"369,356",08/08/2023,RZ140992,ASSA,ASSA,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,55.7,-55.7,Bank,
+"369,356",08/08/2023,RZ140992,ASSA,ASSA,,,,1627,Membership Fees,6-1627,,GST,1208 · NAB Qantas Business Card,,50.64,,50.64,Expense,5.06
+"369,356",08/08/2023,RZ140992,Australian Tax Office,ASSA,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,5.06,,5.06,Other Current Liability,
+"369,357",08/08/2023,RZ140993,Microsoftstore,Microsoftstore,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,180.4,-180.4,Bank,
+"369,357",08/08/2023,RZ140993,Microsoftstore,Microsoftstore,Microsoft365 Subscriptions,,,1478,Computer/Internet/Came Expenses,6-1478,,GST,1208 · NAB Qantas Business Card,,164,,164,Expense,16.4
+"369,357",08/08/2023,RZ140993,Australian Tax Office,Microsoftstore,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,16.4,,16.4,Other Current Liability,
+"367,366",09/08/2023,OLB,NAB,NAB,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,83.5,-83.5,Bank,
+"367,366",09/08/2023,OLB,NAB,NAB,Merc fee,,,1629,Merchant Fees,6-1629,,GST,1222 · Universal Home Improvements Acc,,75.91,,75.91,Expense,7.59
+"367,366",09/08/2023,OLB,Australian Tax Office,NAB,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,7.59,,7.59,Other Current Liability,
+"367,367",09/08/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,214.85,-214.85,Bank,
+"367,367",09/08/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,195.32,,195.32,Cost of Goods Sold,19.53
+"367,367",09/08/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,19.53,,19.53,Other Current Liability,
+"367,369",10/08/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,986.3,-986.3,Bank,
+"367,369",10/08/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,896.64,,896.64,Cost of Goods Sold,89.66
+"367,369",10/08/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,89.66,,89.66,Other Current Liability,
+"369,358",10/08/2023,RZ140994,Geeks2U,Geeks2U,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,195.8,-195.8,Bank,
+"369,358",10/08/2023,RZ140994,Geeks2U,Geeks2U,,,,1908,Computer Expenses,Jun-08,,GST,1208 · NAB Qantas Business Card,,178,,178,Expense,17.8
+"369,358",10/08/2023,RZ140994,Australian Tax Office,Geeks2U,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,17.8,,17.8,Other Current Liability,
+"369,359",10/08/2023,RZ140995,FHA Wholesalers,FHA Wholesalers,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,"23,481.01",########,Bank,
+"369,359",10/08/2023,RZ140995,FHA Wholesalers,FHA Wholesalers,,,,1445,Purchases,5-1445,,GST,1208 · NAB Qantas Business Card,,"21,346.37",,"21,346.37",Cost of Goods Sold,"2,134.64"
+"369,359",10/08/2023,RZ140995,Australian Tax Office,FHA Wholesalers,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,"2,134.64",,"2,134.64",Other Current Liability,
+"369,360",11/08/2023,RZ140996,GofundMe,GofundMe,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,200.00,-200,Bank,
+"369,360",11/08/2023,RZ140996,GofundMe,GofundMe,,,,1489,Donation,6-1489,,FRE,1208 · NAB Qantas Business Card,,200,,200,Expense,0
+"369,360",11/08/2023,RZ140996,Australian Tax Office,GofundMe,Non-Cap. Acq. - GST Free,,NCF,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,0,,0,Other Current Liability,
+"366,862",14/08/2023,,"Sanderson, Erica","Sanderson, Erica",,,,1222,Universal Home Improvements Acc,1-1222,,N-T,1224 · Accounts Receivable,,,"1,237.00","-1,237.00",Bank,
+"366,862",14/08/2023,,"Sanderson, Erica","Sanderson, Erica",,,,1224,Accounts Receivable,Jan-00,Flooring Hervey Bay,N-T,1222 · Universal Home Improvements Acc,,"1,237.00",,"1,237.00",Accounts Receivable,
+"367,774",14/08/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,272.00,-272,Bank,
+"367,774",14/08/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,247.27,,247.27,Cost of Goods Sold,24.73
+"367,774",14/08/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,24.73,,24.73,Other Current Liability,
+"369,361",14/08/2023,RZ140997,Dominos Pizza,Dominos Pizza,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,141.44,-141.44,Bank,
+"369,361",14/08/2023,RZ140997,Dominos Pizza,Dominos Pizza,Monthly Lunch,,,2007,Staff Party,Jun-07,,GST,1208 · NAB Qantas Business Card,,128.58,,128.58,Expense,12.86
+"369,361",14/08/2023,RZ140997,Australian Tax Office,Dominos Pizza,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,12.86,,12.86,Other Current Liability,
+"369,362",14/08/2023,RZ140998,Geeks2U,Geeks2U,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,293.7,-293.7,Bank,
+"369,362",14/08/2023,RZ140998,Geeks2U,Geeks2U,,,,1908,Computer Expenses,Jun-08,,GST,1208 · NAB Qantas Business Card,,267,,267,Expense,26.7
+"369,362",14/08/2023,RZ140998,Australian Tax Office,Geeks2U,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,26.7,,26.7,Other Current Liability,
+"367,131",16/08/2023,,"Furphy, Wayne","Furphy, Wayne",,,,1222,Universal Home Improvements Acc,1-1222,,N-T,1224 · Accounts Receivable,,,"2,250.00","-2,250.00",Bank,
+"367,131",16/08/2023,,"Furphy, Wayne","Furphy, Wayne",,,,1224,Accounts Receivable,Jan-00,"Blinds, Awnings & Shutters",N-T,1222 · Universal Home Improvements Acc,,"2,250.00",,"2,250.00",Accounts Receivable,
+"367,339",18/08/2023,,Argent Building Services QLD,Argent Building Services QLD,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,1224 · Accounts Receivable,,,234.30,-234.3,Bank,
+"367,339",18/08/2023,,Argent Building Services QLD,Argent Building Services QLD,,,,1224,Accounts Receivable,Jan-00,Tiles Hervey Bay,N-T,1222 · Universal Home Improvements Acc,,234.3,,234.3,Accounts Receivable,
+"367,775",18/08/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,236.3,-236.3,Bank,
+"367,775",18/08/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,214.82,,214.82,Cost of Goods Sold,21.48
+"367,775",18/08/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,21.48,,21.48,Other Current Liability,
+"369,363",18/08/2023,RZ140999,FHA Wholesalers,FHA Wholesalers,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,"64,786.74",########,Bank,
+"369,363",18/08/2023,RZ140999,FHA Wholesalers,FHA Wholesalers,,,,1445,Purchases,5-1445,,GST,1208 · NAB Qantas Business Card,,"58,897.04",,"58,897.04",Cost of Goods Sold,"5,889.70"
+"369,363",18/08/2023,RZ140999,Australian Tax Office,FHA Wholesalers,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,"5,889.70",,"5,889.70",Other Current Liability,
+"368,519",21/08/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,615.20,-615.2,Bank,
+"368,519",21/08/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,559.27,,559.27,Cost of Goods Sold,55.93
+"368,519",21/08/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,55.93,,55.93,Other Current Liability,
+"369,364",21/08/2023,RZ141000,Blitz Car Spa,Blitz Car Spa,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,21,-21,Bank,
+"369,364",21/08/2023,RZ141000,Blitz Car Spa,Blitz Car Spa,,,,1727,Repairs & Maintenance,6-1727,,GST,1208 · NAB Qantas Business Card,,19.09,,19.09,Expense,1.91
+"369,364",21/08/2023,RZ141000,Australian Tax Office,Blitz Car Spa,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,1.91,,1.91,Other Current Liability,
+"369,365",21/08/2023,RZ141001,Paypal,Paypal,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,478,-478,Bank,
+"369,365",21/08/2023,RZ141001,Paypal,Paypal,Tools for BHD,,,1507,General Repairs & Maintenance,6-1507,,GST,1208 · NAB Qantas Business Card,,434.55,,434.55,Expense,43.45
+"369,365",21/08/2023,RZ141001,Australian Tax Office,Paypal,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,43.45,,43.45,Other Current Liability,
+"367,640",22/08/2023,,"Wilson, Braydon","Wilson, Braydon",,,,1222,Universal Home Improvements Acc,1-1222,,N-T,1224 · Accounts Receivable,,,"2,560.00","-2,560.00",Bank,
+"367,640",22/08/2023,,"Wilson, Braydon","Wilson, Braydon",,,,1224,Accounts Receivable,Jan-00,Flooring Hervey Bay,N-T,1222 · Universal Home Improvements Acc,,"2,560.00",,"2,560.00",Accounts Receivable,
+"368,520",22/08/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,450.25,-450.25,Bank,
+"368,520",22/08/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,409.32,,409.32,Cost of Goods Sold,40.93
+"368,520",22/08/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,40.93,,40.93,Other Current Liability,
+"369,366",22/08/2023,RZ141002,National Australia Bank *,National Australia Bank *,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,1.23,-1.23,Bank,
+"369,366",22/08/2023,RZ141002,National Australia Bank *,National Australia Bank *,International Transaction Fee,,,1469,Bank Charges,6-1469,,FRE,1208 · NAB Qantas Business Card,,1.23,,1.23,Expense,0
+"369,366",22/08/2023,RZ141002,Australian Tax Office,National Australia Bank *,Non-Cap. Acq. - GST Free,,NCF,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,0,,0,Other Current Liability,
+"369,367",22/08/2023,RZ141003,cccleaner,cccleaner,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,40.91,-40.91,Bank,
+"369,367",22/08/2023,RZ141003,cccleaner,cccleaner,,,,1478,Computer/Internet/Came Expenses,6-1478,,GST,1208 · NAB Qantas Business Card,,37.19,,37.19,Expense,3.72
+"369,367",22/08/2023,RZ141003,Australian Tax Office,cccleaner,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,3.72,,3.72,Other Current Liability,
+"369,368",22/08/2023,RZ141004,Airtasker,Airtasker,,,,1208,NAB Qantas Business Card,1-1208,,N-T,1904 · Noosa Expenses,,,254.25,-254.25,Bank,
+"369,368",22/08/2023,RZ141004,Airtasker,Airtasker,,,,1904,Noosa Expenses,Jun-04,,N-T,1208 · NAB Qantas Business Card,,254.25,,254.25,Expense,0
+"368,521",23/08/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,250.5,-250.5,Bank,
+"368,521",23/08/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,227.73,,227.73,Cost of Goods Sold,22.77
+"368,521",23/08/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,22.77,,22.77,Other Current Liability,
+"369,369",23/08/2023,RZ141005,Checked.com.au,Checked.com.au,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,49,-49,Bank,
+"369,369",23/08/2023,RZ141005,Checked.com.au,Checked.com.au,Police Check,,,1439,"Licences, Fees and Permits",5-1439,,GST,1208 · NAB Qantas Business Card,,44.55,,44.55,Cost of Goods Sold,4.45
+"369,369",23/08/2023,RZ141005,Australian Tax Office,Checked.com.au,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,4.45,,4.45,Other Current Liability,
+"369,370",23/08/2023,RZ141006,Officeworks,Officeworks,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,90.32,-90.32,Bank,
+"369,370",23/08/2023,RZ141006,Officeworks,Officeworks,,,,1919,Printing & Stationary,Jun-19,,GST,1208 · NAB Qantas Business Card,,82.11,,82.11,Expense,8.21
+"369,370",23/08/2023,RZ141006,Australian Tax Office,Officeworks,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,8.21,,8.21,Other Current Liability,
+"368,522",24/08/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,593.05,-593.05,Bank,
+"368,522",24/08/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,539.14,,539.14,Cost of Goods Sold,53.91
+"368,522",24/08/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,53.91,,53.91,Other Current Liability,
+"368,523",24/08/2023,OLB,NAB,NAB,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,108.5,-108.5,Bank,
+"368,523",24/08/2023,OLB,NAB,NAB,Merc fee,,,1629,Merchant Fees,6-1629,,GST,1222 · Universal Home Improvements Acc,,98.64,,98.64,Expense,9.86
+"368,523",24/08/2023,OLB,Australian Tax Office,NAB,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,9.86,,9.86,Other Current Liability,
+"369,371",24/08/2023,RZ141007,News Corp Australia,News Corp Australia,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,30,-30,Bank,
+"369,371",24/08/2023,RZ141007,News Corp Australia,News Corp Australia,Courier Mail Subscription,,,2007,Staff Party,Jun-07,,GST,1208 · NAB Qantas Business Card,,27.27,,27.27,Expense,2.73
+"369,371",24/08/2023,RZ141007,Australian Tax Office,News Corp Australia,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,2.73,,2.73,Other Current Liability,
+"369,372",24/08/2023,RZ141008,FHA Wholesalers,FHA Wholesalers,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,"11,905.98",########,Bank,
+"369,372",24/08/2023,RZ141008,FHA Wholesalers,FHA Wholesalers,,,,1445,Purchases,5-1445,,GST,1208 · NAB Qantas Business Card,,"10,823.62",,"10,823.62",Cost of Goods Sold,"1,082.36"
+"369,372",24/08/2023,RZ141008,Australian Tax Office,FHA Wholesalers,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,"1,082.36",,"1,082.36",Other Current Liability,
+"368,525",25/08/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,872.15,-872.15,Bank,
+"368,525",25/08/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,792.86,,792.86,Cost of Goods Sold,79.29
+"368,525",25/08/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,79.29,,79.29,Other Current Liability,
+"369,373",25/08/2023,RZ141009,BWS,BWS,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,130,-130,Bank,
+"369,373",25/08/2023,RZ141009,BWS,BWS,Gerard Devereaux Retirement Party,,,2007,Staff Party,Jun-07,,GST,1208 · NAB Qantas Business Card,,118.18,,118.18,Expense,11.82
+"369,373",25/08/2023,RZ141009,Australian Tax Office,BWS,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,11.82,,11.82,Other Current Liability,
+"369,374",25/08/2023,RZ141010,Kmart,Kmart,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,833.8,-833.8,Bank,
+"369,374",25/08/2023,RZ141010,Kmart,Kmart,Gerard Devereaux Retirement Gift,,,2005,Retirement Gift,Jun-05,,GST,1208 · NAB Qantas Business Card,,758,,758,Expense,75.8
+"369,374",25/08/2023,RZ141010,Australian Tax Office,Kmart,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,75.8,,75.8,Other Current Liability,
+"369,142",28/08/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,586.75,-586.75,Bank,
+"369,142",28/08/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,533.41,,533.41,Cost of Goods Sold,53.34
+"369,142",28/08/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,53.34,,53.34,Other Current Liability,
+"369,375",28/08/2023,RZ141011,Blitz Car Spa,Blitz Car Spa,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,30,-30,Bank,
+"369,375",28/08/2023,RZ141011,Blitz Car Spa,Blitz Car Spa,,,,1727,Repairs & Maintenance,6-1727,,GST,1208 · NAB Qantas Business Card,,27.27,,27.27,Expense,2.73
+"369,375",28/08/2023,RZ141011,Australian Tax Office,Blitz Car Spa,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,2.73,,2.73,Other Current Liability,
+"369,143",29/08/2023,OLB,BOQ Finance - Photocopier,BOQ Finance - Photocopier,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,346.5,-346.5,Bank,
+"369,143",29/08/2023,OLB,BOQ Finance - Photocopier,BOQ Finance - Photocopier,,,,1966,Printing and Stationery,Jun-66,,GST,1222 · Universal Home Improvements Acc,,315,,315,Expense,31.5
+"369,143",29/08/2023,OLB,Australian Tax Office,BOQ Finance - Photocopier,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,31.5,,31.5,Other Current Liability,
+"369,144",29/08/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,551.05,-551.05,Bank,
+"369,144",29/08/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,500.95,,500.95,Cost of Goods Sold,50.1
+"369,144",29/08/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,50.1,,50.1,Other Current Liability,
+"369,378",29/08/2023,RZ141012,National Australia Bank *,National Australia Bank *,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,36,-36,Bank,
+"369,378",29/08/2023,RZ141012,National Australia Bank *,National Australia Bank *,3 x Card Fees,,,1469,Bank Charges,6-1469,,FRE,1208 · NAB Qantas Business Card,,36,,36,Expense,0
+"369,378",29/08/2023,RZ141012,Australian Tax Office,National Australia Bank *,Non-Cap. Acq. - GST Free,,NCF,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,0,,0,Other Current Liability,
+"369,145",30/08/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,715.2,-715.2,Bank,
+"369,145",30/08/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,650.18,,650.18,Cost of Goods Sold,65.02
+"369,145",30/08/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,65.02,,65.02,Other Current Liability,
+"369,379",30/08/2023,RZ141013,Caltex Urangan,Caltex Urangan,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,86.19,-86.19,Bank,
+"369,379",30/08/2023,RZ141013,Caltex Urangan,Caltex Urangan,,,,1725,Fuel,6-1725,,GST,1208 · NAB Qantas Business Card,,78.35,,78.35,Expense,7.84
+"369,379",30/08/2023,RZ141013,Australian Tax Office,Caltex Urangan,10% GST,,GST-P,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,7.84,,7.84,Other Current Liability,
+"369,380",30/08/2023,RZ141014,Local Search,Local Search,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,"3,569.46","-3,569.46",Bank,
+"369,380",30/08/2023,RZ141014,Local Search,Local Search,,,,1453,Local Directories,6-1453,,GST,1208 · NAB Qantas Business Card,,"3,244.96",,"3,244.96",Expense,324.5
+"369,380",30/08/2023,RZ141014,Australian Tax Office,Local Search,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,324.5,,324.5,Other Current Liability,
+"369,146",31/08/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,250.5,-250.5,Bank,
+"369,146",31/08/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,227.73,,227.73,Cost of Goods Sold,22.77
+"369,146",31/08/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,22.77,,22.77,Other Current Liability,
+"369,147",31/08/2023,OLB,NAB,NAB,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,438.42,-438.42,Bank,
+"369,147",31/08/2023,OLB,NAB,NAB,Merc fee,,,1629,Merchant Fees,6-1629,,GST,1222 · Universal Home Improvements Acc,,398.56,,398.56,Expense,39.86
+"369,147",31/08/2023,OLB,Australian Tax Office,NAB,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,39.86,,39.86,Other Current Liability,
+"369,148",31/08/2023,OLB,NAB,NAB,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,"1,317.87","-1,317.87",Bank,
+"369,148",31/08/2023,OLB,NAB,NAB,Merc fee,,,1629,Merchant Fees,6-1629,,GST,1222 · Universal Home Improvements Acc,,"1,198.06",,"1,198.06",Expense,119.81
+"369,148",31/08/2023,OLB,Australian Tax Office,NAB,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,119.81,,119.81,Other Current Liability,
+"369,149",31/08/2023,OLB,NAB,NAB,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,10,-10,Bank,
+"369,149",31/08/2023,OLB,NAB,NAB,Merc fee,,,1629,Merchant Fees,6-1629,,GST,1222 · Universal Home Improvements Acc,,9.09,,9.09,Expense,0.91
+"369,149",31/08/2023,OLB,Australian Tax Office,NAB,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,0.91,,0.91,Other Current Liability,
+"369,391",31/08/2023,RZ141025,Invoice2go Enterprise,Invoice2go Enterprise,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,499.99,-499.99,Bank,
+"369,391",31/08/2023,RZ141025,Invoice2go Enterprise,Invoice2go Enterprise,Quotation Program License Renewal.,,,1479,Annual Membership,6-1479,,GST,1208 · NAB Qantas Business Card,,454.54,,454.54,Expense,45.45
+"369,391",31/08/2023,RZ141025,Australian Tax Office,Invoice2go Enterprise,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,45.45,,45.45,Other Current Liability,
+"369,481",31/08/2023,Fee,National Australia Bank,National Australia Bank,,,,1204,Choices Flooring Noosaville,1-1204,,N-T,-SPLIT-,,,196.87,-196.87,Bank,
+"369,481",31/08/2023,Fee,National Australia Bank,National Australia Bank,,,,1629,Merchant Fees,6-1629,,GST,1204 · Choices Flooring Noosaville,,178.97,,178.97,Expense,17.9
+"369,481",31/08/2023,Fee,Australian Tax Office,National Australia Bank,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1204 · Choices Flooring Noosaville,,17.9,,17.9,Other Current Liability,
+"369,482",31/08/2023,Fee,National Australia Bank,National Australia Bank,,,,1204,Choices Flooring Noosaville,1-1204,,N-T,-SPLIT-,,,10,-10,Bank,
+"369,482",31/08/2023,Fee,National Australia Bank,National Australia Bank,,,,1907,Bank Charges,Jun-07,,FRE,1204 · Choices Flooring Noosaville,,10,,10,Expense,0
+"369,482",31/08/2023,Fee,Australian Tax Office,National Australia Bank,Non-Cap. Acq. - GST Free,,NCF,2200,Tax Payable,Feb-00,,N-T,1204 · Choices Flooring Noosaville,,0,,0,Other Current Liability,
+"369,381",01/09/2023,RZ141015,Creditor Watch,Creditor Watch,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,52,-52,Bank,
+"369,381",01/09/2023,RZ141015,Creditor Watch,Creditor Watch,Credit Check Monthly Subscription,,,1469,Bank Charges,6-1469,,GST,1208 · NAB Qantas Business Card,,47.27,,47.27,Expense,4.73
+"369,381",01/09/2023,RZ141015,Australian Tax Office,Creditor Watch,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,4.73,,4.73,Other Current Liability,
+"369,382",01/09/2023,RZ141016,Allstrong Locksmiths *,Allstrong Locksmiths *,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,65.6,-65.6,Bank,
+"369,382",01/09/2023,RZ141016,Allstrong Locksmiths *,Allstrong Locksmiths *,Showroom key cuts,,,1445,Purchases,5-1445,,GST,1208 · NAB Qantas Business Card,,59.64,,59.64,Cost of Goods Sold,5.96
+"369,382",01/09/2023,RZ141016,Australian Tax Office,Allstrong Locksmiths *,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,5.96,,5.96,Other Current Liability,
+"369,383",01/09/2023,RZ141017,Airtasker,Airtasker,,,,1208,NAB Qantas Business Card,1-1208,,N-T,1904 · Noosa Expenses,,,169.5,-169.5,Bank,
+"369,383",01/09/2023,RZ141017,Airtasker,Airtasker,,,,1904,Noosa Expenses,Jun-04,,N-T,1208 · NAB Qantas Business Card,,169.5,,169.5,Expense,0
+"369,384",01/09/2023,RZ141018,FHA Wholesalers,FHA Wholesalers,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,"54,809.99",########,Bank,
+"369,384",01/09/2023,RZ141018,FHA Wholesalers,FHA Wholesalers,,,,1445,Purchases,5-1445,,GST,1208 · NAB Qantas Business Card,,"49,827.26",,"49,827.26",Cost of Goods Sold,"4,982.73"
+"369,384",01/09/2023,RZ141018,Australian Tax Office,FHA Wholesalers,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,"4,982.73",,"4,982.73",Other Current Liability,
+"369,385",04/09/2023,RZ141019,Dominos Pizza,Dominos Pizza,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,44.00,-44,Bank,
+"369,385",04/09/2023,RZ141019,Dominos Pizza,Dominos Pizza,Monthly Lunch,,,2007,Staff Party,Jun-07,,GST,1208 · NAB Qantas Business Card,,40,,40,Expense,4
+"369,385",04/09/2023,RZ141019,Australian Tax Office,Dominos Pizza,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,4,,4,Other Current Liability,
+"369,386",04/09/2023,RZ141020,Dominos Pizza,Dominos Pizza,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,44,-44,Bank,
+"369,386",04/09/2023,RZ141020,Dominos Pizza,Dominos Pizza,Monthly Lunch,,,2007,Staff Party,Jun-07,,GST,1208 · NAB Qantas Business Card,,40,,40,Expense,4
+"369,386",04/09/2023,RZ141020,Australian Tax Office,Dominos Pizza,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,4,,4,Other Current Liability,
+"369,387",04/09/2023,RZ141021,CanIBuild,CanIBuild,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,324.5,-324.5,Bank,
+"369,387",04/09/2023,RZ141021,CanIBuild,CanIBuild,1 x Month Site Plan Software,,,1479,Annual Membership,6-1479,,GST,1208 · NAB Qantas Business Card,,295,,295,Expense,29.5
+"369,387",04/09/2023,RZ141021,Australian Tax Office,CanIBuild,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,29.5,,29.5,Other Current Liability,
+"369,388",04/09/2023,RZ141022,BlinQ,BlinQ,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,535,-535,Bank,
+"369,388",04/09/2023,RZ141022,BlinQ,BlinQ,Quoting Software - Monthly Fee,,,1479,Annual Membership,6-1479,,GST,1208 · NAB Qantas Business Card,,486.36,,486.36,Expense,48.64
+"369,388",04/09/2023,RZ141022,Australian Tax Office,BlinQ,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,48.64,,48.64,Other Current Liability,
+"369,838",04/09/2023,OLB,De Lage Landen Home Improvement,De Lage Landen Home Improvement,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,104.5,-104.5,Bank,
+"369,838",04/09/2023,OLB,De Lage Landen Home Improvement,De Lage Landen Home Improvement,,,,1445,Purchases,5-1445,,GST,1222 · Universal Home Improvements Acc,,95,,95,Cost of Goods Sold,9.5
+"369,838",04/09/2023,OLB,Australian Tax Office,De Lage Landen Home Improvement,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,9.5,,9.5,Other Current Liability,
+"369,839",04/09/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,"2,016.30","-2,016.30",Bank,
+"369,839",04/09/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,"1,833.00",,"1,833.00",Cost of Goods Sold,183.3
+"369,839",04/09/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,183.3,,183.3,Other Current Liability,
+"368,899",05/09/2023,,R Vision Property Management,R Vision Property Management,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,1224 · Accounts Receivable,,,"2,150.00","-2,150.00",Bank,
+"368,899",05/09/2023,,R Vision Property Management,R Vision Property Management,,,,1224,Accounts Receivable,Jan-00,,N-T,1222 · Universal Home Improvements Acc,,"2,150.00",,"2,150.00",Accounts Receivable,
+"369,840",05/09/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,321.90,-321.9,Bank,
+"369,840",05/09/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,292.64,,292.64,Cost of Goods Sold,29.26
+"369,840",05/09/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,29.26,,29.26,Other Current Liability,
+"369,389",07/09/2023,RZ141023,ASSA,ASSA,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,55.7,-55.7,Bank,
+"369,389",07/09/2023,RZ141023,ASSA,ASSA,,,,1627,Membership Fees,6-1627,,GST,1208 · NAB Qantas Business Card,,50.64,,50.64,Expense,5.06
+"369,389",07/09/2023,RZ141023,Australian Tax Office,ASSA,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,5.06,,5.06,Other Current Liability,
+"369,390",07/09/2023,RZ141024,Burke & Wills Motor Inn,Burke & Wills Motor Inn,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,354.29,-354.29,Bank,
+"369,390",07/09/2023,RZ141024,Burke & Wills Motor Inn,Burke & Wills Motor Inn,Kingaroy Accomodation - Blinds,,,2002,Accommodation,Jun-02,,GST,1208 · NAB Qantas Business Card,,322.08,,322.08,Expense,32.21
+"369,390",07/09/2023,RZ141024,Australian Tax Office,Burke & Wills Motor Inn,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,32.21,,32.21,Other Current Liability,
+"371,482",07/09/2023,RZ141027,Temple & Webster,Temple & Webster,,,,1208,NAB Qantas Business Card,1-1208,,N-T,1904 · Noosa Expenses,,,"1,226.30","-1,226.30",Bank,
+"371,482",07/09/2023,RZ141027,Temple & Webster,Temple & Webster,3 x Office Chairs,,,1904,Noosa Expenses,Jun-04,,N-T,1208 · NAB Qantas Business Card,,"1,226.30",,"1,226.30",Expense,0
+"369,214",08/09/2023,,Total Fitouts,Total Fitouts,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,1224 · Accounts Receivable,,,27.50,-27.5,Bank,
+"369,214",08/09/2023,,Total Fitouts,Total Fitouts,,,,1224,Accounts Receivable,Jan-00,Tiles Hervey Bay,N-T,1222 · Universal Home Improvements Acc,,27.5,,27.5,Accounts Receivable,
+"369,281",08/09/2023,OLB,CQ Building Supplies,CQ Building Supplies,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,323.83,-323.83,Bank,
+"369,281",08/09/2023,OLB,CQ Building Supplies,CQ Building Supplies,2 x 3m Merbau 100x100 Posts,,,1445,Purchases,5-1445,,GST,1208 · NAB Qantas Business Card,,294.39,,294.39,Cost of Goods Sold,29.44
+"369,281",08/09/2023,OLB,Australian Tax Office,CQ Building Supplies,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,29.44,,29.44,Other Current Liability,
+"369,841",08/09/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,264.8,-264.8,Bank,
+"369,841",08/09/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,240.73,,240.73,Cost of Goods Sold,24.07
+"369,841",08/09/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,24.07,,24.07,Other Current Liability,
+"371,483",08/09/2023,RZ141028,Microsoftstore,Microsoftstore,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,18.92,-18.92,Bank,
+"371,483",08/09/2023,RZ141028,Microsoftstore,Microsoftstore,Microsoft365 Subscriptions,,,1478,Computer/Internet/Came Expenses,6-1478,,GST,1208 · NAB Qantas Business Card,,17.2,,17.2,Expense,1.72
+"371,483",08/09/2023,RZ141028,Australian Tax Office,Microsoftstore,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,1.72,,1.72,Other Current Liability,
+"371,486",08/09/2023,RZ141029,Microsoftstore,Microsoftstore,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,180.4,-180.4,Bank,
+"371,486",08/09/2023,RZ141029,Microsoftstore,Microsoftstore,Microsoft365 Subscriptions,,,1478,Computer/Internet/Came Expenses,6-1478,,GST,1208 · NAB Qantas Business Card,,164,,164,Expense,16.4
+"371,486",08/09/2023,RZ141029,Australian Tax Office,Microsoftstore,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,16.4,,16.4,Other Current Liability,
+"371,487",08/09/2023,RZ141030,FHA Wholesalers,FHA Wholesalers,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,"6,454.34","-6,454.34",Bank,
+"371,487",08/09/2023,RZ141030,FHA Wholesalers,FHA Wholesalers,,,,1445,Purchases,5-1445,,GST,1208 · NAB Qantas Business Card,,"5,867.58",,"5,867.58",Cost of Goods Sold,586.76
+"371,487",08/09/2023,RZ141030,Australian Tax Office,FHA Wholesalers,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,586.76,,586.76,Other Current Liability,
+"370,313",11/09/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,"1,774.40","-1,774.40",Bank,
+"370,313",11/09/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,"1,613.09",,"1,613.09",Cost of Goods Sold,161.31
+"370,313",11/09/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,161.31,,161.31,Other Current Liability,
+"370,314",12/09/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,922.9,-922.9,Bank,
+"370,314",12/09/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,839,,839,Cost of Goods Sold,83.9
+"370,314",12/09/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,83.9,,83.9,Other Current Liability,
+"369,727",13/09/2023,,Pora Constructions,Pora Constructions,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,1224 · Accounts Receivable,,,18,-18,Bank,
+"369,727",13/09/2023,,Pora Constructions,Pora Constructions,,,,1224,Accounts Receivable,Jan-00,Tiles Hervey Bay,N-T,1222 · Universal Home Improvements Acc,,18,,18,Accounts Receivable,
+"371,488",13/09/2023,RZ141031,Top Print,Top Print,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,269.5,-269.5,Bank,
+"371,488",13/09/2023,RZ141031,Top Print,Top Print,Fair Dinkum Builds Brochures,,,1966,Printing and Stationery,Jun-66,,GST,1208 · NAB Qantas Business Card,,245,,245,Expense,24.5
+"371,488",13/09/2023,RZ141031,Australian Tax Office,Top Print,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,24.5,,24.5,Other Current Liability,
+"370,316",14/09/2023,OLB,NAB,NAB,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,112.75,-112.75,Bank,
+"370,316",14/09/2023,OLB,NAB,NAB,Merc fee,,,1629,Merchant Fees,6-1629,,GST,1222 · Universal Home Improvements Acc,,102.5,,102.5,Expense,10.25
+"370,316",14/09/2023,OLB,Australian Tax Office,NAB,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,10.25,,10.25,Other Current Liability,
+"370,317",14/09/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,"1,008.40","-1,008.40",Bank,
+"370,317",14/09/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,916.73,,916.73,Cost of Goods Sold,91.67
+"370,317",14/09/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,91.67,,91.67,Other Current Liability,
+"370,318",15/09/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,407.55,-407.55,Bank,
+"370,318",15/09/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,370.5,,370.5,Cost of Goods Sold,37.05
+"370,318",15/09/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,37.05,,37.05,Other Current Liability,
+"370,664",15/09/2023,RZ141026,Mystique Jewellers,Mystique Jewellers,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,895,-895,Bank,
+"370,664",15/09/2023,RZ141026,Mystique Jewellers,Mystique Jewellers,Watch - Neil Worth,,,2005,Retirement Gift,Jun-05,,GST,1208 · NAB Qantas Business Card,,813.64,,813.64,Expense,81.36
+"370,664",15/09/2023,RZ141026,Australian Tax Office,Mystique Jewellers,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,81.36,,81.36,Other Current Liability,
+"371,489",15/09/2023,RZ141032,FHA Wholesalers,FHA Wholesalers,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,"56,655.87",########,Bank,
+"371,489",15/09/2023,RZ141032,FHA Wholesalers,FHA Wholesalers,,,,1445,Purchases,5-1445,,GST,1208 · NAB Qantas Business Card,,"51,505.34",,"51,505.34",Cost of Goods Sold,"5,150.53"
+"371,489",15/09/2023,RZ141032,Australian Tax Office,FHA Wholesalers,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,"5,150.53",,"5,150.53",Other Current Liability,
+"371,195",18/09/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,279.05,-279.05,Bank,
+"371,195",18/09/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,253.68,,253.68,Cost of Goods Sold,25.37
+"371,195",18/09/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,25.37,,25.37,Other Current Liability,
+"371,491",18/09/2023,RZ141033,Cheesecake Shop,Cheesecake Shop,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,50.95,-50.95,Bank,
+"371,491",18/09/2023,RZ141033,Cheesecake Shop,Cheesecake Shop,Retirement Cake - Neil Worth,,,2007,Staff Party,Jun-07,,GST,1208 · NAB Qantas Business Card,,46.32,,46.32,Expense,4.63
+"371,491",18/09/2023,RZ141033,Australian Tax Office,Cheesecake Shop,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,4.63,,4.63,Other Current Liability,
+"371,492",18/09/2023,RZ141034,Coles Express,Coles Express,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,51.8,-51.8,Bank,
+"371,492",18/09/2023,RZ141034,Coles Express,Coles Express,Neils Retirement Party,,,2007,Staff Party,Jun-07,,GST,1208 · NAB Qantas Business Card,,47.09,,47.09,Expense,4.71
+"371,492",18/09/2023,RZ141034,Australian Tax Office,Coles Express,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,4.71,,4.71,Other Current Liability,
+"371,500",18/09/2023,RZ141035,BWS,BWS,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,100,-100,Bank,
+"371,500",18/09/2023,RZ141035,BWS,BWS,Neil Worth Retirement Party,,,2007,Staff Party,Jun-07,,GST,1208 · NAB Qantas Business Card,,90.91,,90.91,Expense,9.09
+"371,500",18/09/2023,RZ141035,Australian Tax Office,BWS,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,9.09,,9.09,Other Current Liability,
+"370,101",19/09/2023,,T Bat White,T Bat White,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,1224 · Accounts Receivable,,,400,-400,Bank,
+"370,101",19/09/2023,,T Bat White,T Bat White,,,,1224,Accounts Receivable,Jan-00,,N-T,1222 · Universal Home Improvements Acc,,400,,400,Accounts Receivable,
+"371,198",20/09/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,972.8,-972.8,Bank,
+"371,198",20/09/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,884.36,,884.36,Cost of Goods Sold,88.44
+"371,198",20/09/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,88.44,,88.44,Other Current Liability,
+"371,199",20/09/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,"1,007.65","-1,007.65",Bank,
+"371,199",20/09/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,916.05,,916.05,Cost of Goods Sold,91.6
+"371,199",20/09/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,91.6,,91.6,Other Current Liability,
+"371,502",21/09/2023,RZ141036,Netregistry,Netregistry,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,9.95,-9.95,Bank,
+"371,502",21/09/2023,RZ141036,Netregistry,Netregistry,,,,1483,Website Expenses,6-1483,,GST,1208 · NAB Qantas Business Card,,9.05,,9.05,Expense,0.9
+"371,502",21/09/2023,RZ141036,Australian Tax Office,Netregistry,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,0.9,,0.9,Other Current Liability,
+"371,516",21/09/2023,RZ141048,FHA Wholesalers,FHA Wholesalers,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,"34,288.72",########,Bank,
+"371,516",21/09/2023,RZ141048,FHA Wholesalers,FHA Wholesalers,,,,1445,Purchases,5-1445,,GST,1208 · NAB Qantas Business Card,,"31,171.56",,"31,171.56",Cost of Goods Sold,"3,117.16"
+"371,516",21/09/2023,RZ141048,Australian Tax Office,FHA Wholesalers,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,"3,117.16",,"3,117.16",Other Current Liability,
+"371,200",22/09/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,"1,007.70","-1,007.70",Bank,
+"371,200",22/09/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,916.09,,916.09,Cost of Goods Sold,91.61
+"371,200",22/09/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,91.61,,91.61,Other Current Liability,
+"371,503",25/09/2023,RZ141037,News Corp Australia,News Corp Australia,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,30,-30,Bank,
+"371,503",25/09/2023,RZ141037,News Corp Australia,News Corp Australia,Courier Mail Subscription,,,2007,Staff Party,Jun-07,,GST,1208 · NAB Qantas Business Card,,27.27,,27.27,Expense,2.73
+"371,503",25/09/2023,RZ141037,Australian Tax Office,News Corp Australia,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,2.73,,2.73,Other Current Liability,
+"371,590",25/09/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,286.25,-286.25,Bank,
+"371,590",25/09/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,260.23,,260.23,Cost of Goods Sold,26.02
+"371,590",25/09/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,26.02,,26.02,Other Current Liability,
+"371,591",26/09/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,250.5,-250.5,Bank,
+"371,591",26/09/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,227.73,,227.73,Cost of Goods Sold,22.77
+"371,591",26/09/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,22.77,,22.77,Other Current Liability,
+"371,504",27/09/2023,RZ141038,Signet,Signet,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,"1,294.34","-1,294.34",Bank,
+"371,504",27/09/2023,RZ141038,Signet,Signet,Pallet Wrapping,,,1445,Purchases,5-1445,,GST,1208 · NAB Qantas Business Card,,"1,176.67",,"1,176.67",Cost of Goods Sold,117.67
+"371,504",27/09/2023,RZ141038,Australian Tax Office,Signet,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,117.67,,117.67,Other Current Liability,
+"371,592",27/09/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,844.45,-844.45,Bank,
+"371,592",27/09/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,767.68,,767.68,Cost of Goods Sold,76.77
+"371,592",27/09/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,76.77,,76.77,Other Current Liability,
+"371,505",28/09/2023,RZ141039,National Australia Bank *,National Australia Bank *,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,36,-36,Bank,
+"371,505",28/09/2023,RZ141039,National Australia Bank *,National Australia Bank *,3 x Card Fees,,,1469,Bank Charges,6-1469,,FRE,1208 · NAB Qantas Business Card,,36,,36,Expense,0
+"371,505",28/09/2023,RZ141039,Australian Tax Office,National Australia Bank *,Non-Cap. Acq. - GST Free,,NCF,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,0,,0,Other Current Liability,
+"371,507",28/09/2023,RZ141041,Coles Express,Coles Express,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,163.97,-163.97,Bank,
+"371,507",28/09/2023,RZ141041,Coles Express,Coles Express,?,,,1904,Noosa Expenses,Jun-04,,GST,1208 · NAB Qantas Business Card,,149.06,,149.06,Expense,14.91
+"371,507",28/09/2023,RZ141041,Australian Tax Office,Coles Express,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,14.91,,14.91,Other Current Liability,
+"371,518",28/09/2023,RZ141049,Coles Express,Coles Express,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,16.5,-16.5,Bank,
+"371,518",28/09/2023,RZ141049,Coles Express,Coles Express,?,,,1904,Noosa Expenses,Jun-04,,GST,1208 · NAB Qantas Business Card,,15,,15,Expense,1.5
+"371,518",28/09/2023,RZ141049,Australian Tax Office,Coles Express,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,1.5,,1.5,Other Current Liability,
+"371,593",28/09/2023,OLB,NAB,NAB,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,103.75,-103.75,Bank,
+"371,593",28/09/2023,OLB,NAB,NAB,Merc fee,,,1629,Merchant Fees,6-1629,,GST,1222 · Universal Home Improvements Acc,,94.32,,94.32,Expense,9.43
+"371,593",28/09/2023,OLB,Australian Tax Office,NAB,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,9.43,,9.43,Other Current Liability,
+"371,594",28/09/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,450.25,-450.25,Bank,
+"371,594",28/09/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,409.32,,409.32,Cost of Goods Sold,40.93
+"371,594",28/09/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,40.93,,40.93,Other Current Liability,
+"371,240",29/09/2023,MERCH FEE,National Australia Bank,National Australia Bank,,,,1204,Choices Flooring Noosaville,1-1204,,N-T,-SPLIT-,,,332.55,-332.55,Bank,
+"371,240",29/09/2023,MERCH FEE,National Australia Bank,National Australia Bank,,,,1629,Merchant Fees,6-1629,,GST,1204 · Choices Flooring Noosaville,,302.32,,302.32,Expense,30.23
+"371,240",29/09/2023,MERCH FEE,Australian Tax Office,National Australia Bank,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1204 · Choices Flooring Noosaville,,30.23,,30.23,Other Current Liability,
+"371,242",29/09/2023,Fee,National Australia Bank,National Australia Bank,,,,1204,Choices Flooring Noosaville,1-1204,,N-T,-SPLIT-,,,10,-10,Bank,
+"371,242",29/09/2023,Fee,National Australia Bank,National Australia Bank,,,,1907,Bank Charges,Jun-07,,FRE,1204 · Choices Flooring Noosaville,,10,,10,Expense,0
+"371,242",29/09/2023,Fee,Australian Tax Office,National Australia Bank,Non-Cap. Acq. - GST Free,,NCF,2200,Tax Payable,Feb-00,,N-T,1204 · Choices Flooring Noosaville,,0,,0,Other Current Liability,
+"371,506",29/09/2023,RZ141040,Sixt,Sixt,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,300.58,-300.58,Bank,
+"371,506",29/09/2023,RZ141040,Sixt,Sixt,Truck Rental,,,1441,Freight & Cartige,5-1441,,GST,1208 · NAB Qantas Business Card,,273.25,,273.25,Cost of Goods Sold,27.33
+"371,506",29/09/2023,RZ141040,Australian Tax Office,Sixt,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,27.33,,27.33,Other Current Liability,
+"371,508",29/09/2023,RZ141042,Tims Auto Detailing,Tims Auto Detailing,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,330,-330,Bank,
+"371,508",29/09/2023,RZ141042,Tims Auto Detailing,Tims Auto Detailing,,,,1727,Repairs & Maintenance,6-1727,,GST,1208 · NAB Qantas Business Card,,300,,300,Expense,30
+"371,508",29/09/2023,RZ141042,Australian Tax Office,Tims Auto Detailing,10% GST,,GST-P,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,30,,30,Other Current Liability,
+"371,595",29/09/2023,OLB,BOQ Finance - Photocopier,BOQ Finance - Photocopier,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,346.5,-346.5,Bank,
+"371,595",29/09/2023,OLB,BOQ Finance - Photocopier,BOQ Finance - Photocopier,,,,1966,Printing and Stationery,Jun-66,,GST,1222 · Universal Home Improvements Acc,,315,,315,Expense,31.5
+"371,595",29/09/2023,OLB,Australian Tax Office,BOQ Finance - Photocopier,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,31.5,,31.5,Other Current Liability,
+"371,596",29/09/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,436.05,-436.05,Bank,
+"371,596",29/09/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,396.41,,396.41,Cost of Goods Sold,39.64
+"371,596",29/09/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,39.64,,39.64,Other Current Liability,
+"371,597",29/09/2023,OLB,NAB,NAB,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,634.66,-634.66,Bank,
+"371,597",29/09/2023,OLB,NAB,NAB,Merc fee,,,1629,Merchant Fees,6-1629,,GST,1222 · Universal Home Improvements Acc,,576.96,,576.96,Expense,57.7
+"371,597",29/09/2023,OLB,Australian Tax Office,NAB,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,57.7,,57.7,Other Current Liability,
+"371,598",29/09/2023,OLB,NAB,NAB,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,"3,176.92","-3,176.92",Bank,
+"371,598",29/09/2023,OLB,NAB,NAB,Merc fee,,,1629,Merchant Fees,6-1629,,GST,1222 · Universal Home Improvements Acc,,"2,888.11",,"2,888.11",Expense,288.81
+"371,598",29/09/2023,OLB,Australian Tax Office,NAB,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,288.81,,288.81,Other Current Liability,
+"371,599",29/09/2023,OLB,NAB,NAB,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,10,-10,Bank,
+"371,599",29/09/2023,OLB,NAB,NAB,Merc fee,,,1629,Merchant Fees,6-1629,,GST,1222 · Universal Home Improvements Acc,,9.09,,9.09,Expense,0.91
+"371,599",29/09/2023,OLB,Australian Tax Office,NAB,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,0.91,,0.91,Other Current Liability,
+"371,509",02/10/2023,RZ141043,Linkt,Linkt,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,15.35,-15.35,Bank,
+"371,509",02/10/2023,RZ141043,Linkt,Linkt,,,,1441,Freight & Cartige,5-1441,,GST,1208 · NAB Qantas Business Card,,13.95,,13.95,Cost of Goods Sold,1.4
+"371,509",02/10/2023,RZ141043,Australian Tax Office,Linkt,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,1.4,,1.4,Other Current Liability,
+"371,510",02/10/2023,RZ141044,CanIBuild,CanIBuild,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,324.5,-324.5,Bank,
+"371,510",02/10/2023,RZ141044,CanIBuild,CanIBuild,1 x Month Site Plan Software,,,1479,Annual Membership,6-1479,,GST,1208 · NAB Qantas Business Card,,295,,295,Expense,29.5
+"371,510",02/10/2023,RZ141044,Australian Tax Office,CanIBuild,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,29.5,,29.5,Other Current Liability,
+"371,511",02/10/2023,RZ141045,Local Search,Local Search,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,"3,569.46","-3,569.46",Bank,
+"371,511",02/10/2023,RZ141045,Local Search,Local Search,,,,1453,Local Directories,6-1453,,GST,1208 · NAB Qantas Business Card,,"3,244.96",,"3,244.96",Expense,324.5
+"371,511",02/10/2023,RZ141045,Australian Tax Office,Local Search,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,324.5,,324.5,Other Current Liability,
+"371,512",02/10/2023,RZ141046,Google Ads,Google Ads,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,100,-100,Bank,
+"371,512",02/10/2023,RZ141046,Google Ads,Google Ads,,,,1452,Google,6-1452,,GST,1208 · NAB Qantas Business Card,,90.91,,90.91,Expense,9.09
+"371,512",02/10/2023,RZ141046,Australian Tax Office,Google Ads,10% GST,,GST-P,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,9.09,,9.09,Other Current Liability,
+"371,520",02/10/2023,RZ141050,Creditor Watch,Creditor Watch,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,52,-52,Bank,
+"371,520",02/10/2023,RZ141050,Creditor Watch,Creditor Watch,Credit Check Monthly Subscription,,,1447,Accountancy Fees,6-1447,,GST,1208 · NAB Qantas Business Card,,47.27,,47.27,Expense,4.73
+"371,520",02/10/2023,RZ141050,Australian Tax Office,Creditor Watch,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,4.73,,4.73,Other Current Liability,
+"371,513",03/10/2023,RZ141047,Google Ads,Google Ads,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,31.98,-31.98,Bank,
+"371,513",03/10/2023,RZ141047,Google Ads,Google Ads,,,,1452,Google,6-1452,,GST,1208 · NAB Qantas Business Card,,29.07,,29.07,Expense,2.91
+"371,513",03/10/2023,RZ141047,Australian Tax Office,Google Ads,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,2.91,,2.91,Other Current Liability,
+"371,986",03/10/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,650.95,-650.95,Bank,
+"371,986",03/10/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,591.77,,591.77,Cost of Goods Sold,59.18
+"371,986",03/10/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,59.18,,59.18,Other Current Liability,
+"371,987",04/10/2023,OLB,De Lage Landen Home Improvement,De Lage Landen Home Improvement,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,104.5,-104.5,Bank,
+"371,987",04/10/2023,OLB,De Lage Landen Home Improvement,De Lage Landen Home Improvement,,,,1445,Purchases,5-1445,,GST,1222 · Universal Home Improvements Acc,,95,,95,Cost of Goods Sold,9.5
+"371,987",04/10/2023,OLB,Australian Tax Office,De Lage Landen Home Improvement,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,9.5,,9.5,Other Current Liability,
+"371,988",04/10/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,586.7,-586.7,Bank,
+"371,988",04/10/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,533.36,,533.36,Cost of Goods Sold,53.34
+"371,988",04/10/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,53.34,,53.34,Other Current Liability,
+"373,546",04/10/2023,RZ141053,Linkt,Linkt,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,9.78,-9.78,Bank,
+"373,546",04/10/2023,RZ141053,Linkt,Linkt,,,,1441,Freight & Cartige,5-1441,,GST,1208 · NAB Qantas Business Card,,8.89,,8.89,Cost of Goods Sold,0.89
+"373,546",04/10/2023,RZ141053,Australian Tax Office,Linkt,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,0.89,,0.89,Other Current Liability,
+"373,549",04/10/2023,RZ141054,Officeworks,Officeworks,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,67.91,-67.91,Bank,
+"373,549",04/10/2023,RZ141054,Officeworks,Officeworks,,,,1966,Printing and Stationery,Jun-66,,GST,1208 · NAB Qantas Business Card,,61.74,,61.74,Expense,6.17
+"373,549",04/10/2023,RZ141054,Australian Tax Office,Officeworks,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,6.17,,6.17,Other Current Liability,
+"373,550",04/10/2023,RZ141055,BlinQ,BlinQ,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,535,-535,Bank,
+"373,550",04/10/2023,RZ141055,BlinQ,BlinQ,Quoting Software - Monthly Fee,,,1479,Annual Membership,6-1479,,GST,1208 · NAB Qantas Business Card,,486.36,,486.36,Expense,48.64
+"373,550",04/10/2023,RZ141055,Australian Tax Office,BlinQ,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,48.64,,48.64,Other Current Liability,
+"373,552",04/10/2023,RZ141056,Queensland Transport,Queensland Transport,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,995.74,-995.74,Bank,
+"373,552",04/10/2023,RZ141056,Queensland Transport,Queensland Transport,"2 x Personalised Plates UHI21, UHI22",,,1632,Motor Vehicle Expenses,6-1632,,FRE,1208 · NAB Qantas Business Card,,995.74,,995.74,Expense,0
+"373,552",04/10/2023,RZ141056,Queensland Transport,Queensland Transport,,,,1873,Rego & Insurance,6-1873,,FRE,1208 · NAB Qantas Business Card,,,,,Expense,
+"373,552",04/10/2023,RZ141056,Australian Tax Office,Queensland Transport,Non-Cap. Acq. - GST Free,,NCF,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,0,,0,Other Current Liability,
+"371,713",05/10/2023,,MGA Building,MGA Building,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,1224 · Accounts Receivable,,,312,-312,Bank,
+"371,713",05/10/2023,,MGA Building,MGA Building,,,,1224,Accounts Receivable,Jan-00,Tiles Hervey Bay,N-T,1222 · Universal Home Improvements Acc,,312,,312,Accounts Receivable,
+"371,715",05/10/2023,,"Maria, Ana","Maria, Ana",,,,1222,Universal Home Improvements Acc,1-1222,,N-T,1224 · Accounts Receivable,,,959,-959,Bank,
+"371,715",05/10/2023,,"Maria, Ana","Maria, Ana",,,,1224,Accounts Receivable,Jan-00,Tiles Hervey Bay,N-T,1222 · Universal Home Improvements Acc,,959,,959,Accounts Receivable,
+"371,716",05/10/2023,,"Bong, Elvin*","Bong, Elvin*",,,,1222,Universal Home Improvements Acc,1-1222,,N-T,1224 · Accounts Receivable,,,432,-432,Bank,
+"371,716",05/10/2023,,"Bong, Elvin*","Bong, Elvin*",,,,1224,Accounts Receivable,Jan-00,,N-T,1222 · Universal Home Improvements Acc,,432,,432,Accounts Receivable,
+"371,989",05/10/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,"1,021.95","-1,021.95",Bank,
+"371,989",05/10/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,929.05,,929.05,Cost of Goods Sold,92.9
+"371,989",05/10/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,92.9,,92.9,Other Current Liability,
+"373,553",05/10/2023,RZ141057,FHA Wholesalers,FHA Wholesalers,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,"33,263.83",########,Bank,
+"373,553",05/10/2023,RZ141057,FHA Wholesalers,FHA Wholesalers,,,,1445,Purchases,5-1445,,GST,1208 · NAB Qantas Business Card,,"30,239.85",,"30,239.85",Cost of Goods Sold,"3,023.98"
+"373,553",05/10/2023,RZ141057,Australian Tax Office,FHA Wholesalers,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,"3,023.98",,"3,023.98",Other Current Liability,
+"372,115",06/10/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,844.30,-844.3,Bank,
+"372,115",06/10/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,767.55,,767.55,Cost of Goods Sold,76.75
+"372,115",06/10/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,76.75,,76.75,Other Current Liability,
+"373,554",09/10/2023,RZ141058,Microsoftstore,Microsoftstore,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,18.92,-18.92,Bank,
+"373,554",09/10/2023,RZ141058,Microsoftstore,Microsoftstore,Microsoft365 Subscriptions,,,1478,Computer/Internet/Came Expenses,6-1478,,GST,1208 · NAB Qantas Business Card,,17.2,,17.2,Expense,1.72
+"373,554",09/10/2023,RZ141058,Australian Tax Office,Microsoftstore,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,1.72,,1.72,Other Current Liability,
+"373,555",09/10/2023,RZ141059,Blitz Car Spa,Blitz Car Spa,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,30,-30,Bank,
+"373,555",09/10/2023,RZ141059,Blitz Car Spa,Blitz Car Spa,,,,1727,Repairs & Maintenance,6-1727,,GST,1208 · NAB Qantas Business Card,,27.27,,27.27,Expense,2.73
+"373,555",09/10/2023,RZ141059,Australian Tax Office,Blitz Car Spa,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,2.73,,2.73,Other Current Liability,
+"373,556",09/10/2023,RZ141060,Dominos Pizza,Dominos Pizza,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,88,-88,Bank,
+"373,556",09/10/2023,RZ141060,Dominos Pizza,Dominos Pizza,Monthly Lunch - Office and Installers,,,2007,Staff Party,Jun-07,,GST,1208 · NAB Qantas Business Card,,80,,80,Expense,8
+"373,556",09/10/2023,RZ141060,Australian Tax Office,Dominos Pizza,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,8,,8,Other Current Liability,
+"373,557",09/10/2023,RZ141061,ASSA,ASSA,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,55.7,-55.7,Bank,
+"373,557",09/10/2023,RZ141061,ASSA,ASSA,,,,1627,Membership Fees,6-1627,,GST,1208 · NAB Qantas Business Card,,50.64,,50.64,Expense,5.06
+"373,557",09/10/2023,RZ141061,Australian Tax Office,ASSA,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,5.06,,5.06,Other Current Liability,
+"373,558",09/10/2023,RZ141062,Microsoftstore,Microsoftstore,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,163.23,-163.23,Bank,
+"373,558",09/10/2023,RZ141062,Microsoftstore,Microsoftstore,Microsoft365 Subscriptions,,,1478,Computer/Internet/Came Expenses,6-1478,,GST,1208 · NAB Qantas Business Card,,148.39,,148.39,Expense,14.84
+"373,558",09/10/2023,RZ141062,Australian Tax Office,Microsoftstore,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,14.84,,14.84,Other Current Liability,
+"373,559",09/10/2023,RZ141063,Google Ads,Google Ads,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,250,-250,Bank,
+"373,559",09/10/2023,RZ141063,Google Ads,Google Ads,,,,1452,Google,6-1452,,GST,1208 · NAB Qantas Business Card,,227.27,,227.27,Expense,22.73
+"373,559",09/10/2023,RZ141063,Australian Tax Office,Google Ads,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,22.73,,22.73,Other Current Liability,
+"372,106",10/10/2023,,"Keller, Kelly","Keller, Kelly",,,,1222,Universal Home Improvements Acc,1-1222,,N-T,1224 · Accounts Receivable,,,43,-43,Bank,
+"372,106",10/10/2023,,"Keller, Kelly","Keller, Kelly",,,,1224,Accounts Receivable,Jan-00,Tiles Hervey Bay,N-T,1222 · Universal Home Improvements Acc,,43,,43,Accounts Receivable,
+"372,262",10/10/2023,RZ141051,Officeworks,Officeworks,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,69.1,-69.1,Bank,
+"372,262",10/10/2023,RZ141051,Officeworks,Officeworks,,,,1919,Printing & Stationary,Jun-19,,GST,1208 · NAB Qantas Business Card,,62.82,,62.82,Expense,6.28
+"372,262",10/10/2023,RZ141051,Australian Tax Office,Officeworks,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,6.28,,6.28,Other Current Liability,
+"372,714",10/10/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,"1,042.55","-1,042.55",Bank,
+"372,714",10/10/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,947.77,,947.77,Cost of Goods Sold,94.78
+"372,714",10/10/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,94.78,,94.78,Other Current Liability,
+"372,263",11/10/2023,RZ141052,Noosa Waterfront Restaurant,Noosa Waterfront Restaurant,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,250,-250,Bank,
+"372,263",11/10/2023,RZ141052,Noosa Waterfront Restaurant,Noosa Waterfront Restaurant,Google Review Draw,,,1906,Advertising,Jun-06,,FRE,1208 · NAB Qantas Business Card,,250,,250,Expense,0
+"372,263",11/10/2023,RZ141052,Australian Tax Office,Noosa Waterfront Restaurant,Non-Cap. Acq. - GST Free,,NCF,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,0,,0,Other Current Liability,
+"372,715",11/10/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,608.15,-608.15,Bank,
+"372,715",11/10/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,552.86,,552.86,Cost of Goods Sold,55.29
+"372,715",11/10/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,55.29,,55.29,Other Current Liability,
+"372,467",13/10/2023,,"Toohey, Catherine","Toohey, Catherine",,,,1222,Universal Home Improvements Acc,1-1222,,N-T,1224 · Accounts Receivable,,,200,-200,Bank,
+"372,467",13/10/2023,,"Toohey, Catherine","Toohey, Catherine",,,,1224,Accounts Receivable,Jan-00,,N-T,1222 · Universal Home Improvements Acc,,200,,200,Accounts Receivable,
+"372,716",13/10/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,314.75,-314.75,Bank,
+"372,716",13/10/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,286.14,,286.14,Cost of Goods Sold,28.61
+"372,716",13/10/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,28.61,,28.61,Other Current Liability,
+"373,560",16/10/2023,RZ141064,FHA Wholesalers,FHA Wholesalers,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,"21,561.27",########,Bank,
+"373,560",16/10/2023,RZ141064,FHA Wholesalers,FHA Wholesalers,,,,1445,Purchases,5-1445,,GST,1208 · NAB Qantas Business Card,,"19,601.15",,"19,601.15",Cost of Goods Sold,"1,960.12"
+"373,560",16/10/2023,RZ141064,Australian Tax Office,FHA Wholesalers,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,"1,960.12",,"1,960.12",Other Current Liability,
+"373,562",16/10/2023,RZ141065,Officeworks,Officeworks,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,28.96,-28.96,Bank,
+"373,562",16/10/2023,RZ141065,Officeworks,Officeworks,,,,1919,Printing & Stationary,Jun-19,,GST,1208 · NAB Qantas Business Card,,26.33,,26.33,Expense,2.63
+"373,562",16/10/2023,RZ141065,Australian Tax Office,Officeworks,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,2.63,,2.63,Other Current Liability,
+"373,568",16/10/2023,RZ141069,FHA Wholesalers,FHA Wholesalers,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,"21,561.27",########,Bank,
+"373,568",16/10/2023,RZ141069,FHA Wholesalers,FHA Wholesalers,,,,1445,Purchases,5-1445,,GST,1208 · NAB Qantas Business Card,,"19,601.15",,"19,601.15",Cost of Goods Sold,"1,960.12"
+"373,568",16/10/2023,RZ141069,Australian Tax Office,FHA Wholesalers,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,"1,960.12",,"1,960.12",Other Current Liability,
+"373,691",16/10/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,229.15,-229.15,Bank,
+"373,691",16/10/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,208.32,,208.32,Cost of Goods Sold,20.83
+"373,691",16/10/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,20.83,,20.83,Other Current Liability,
+"372,850",17/10/2023,,"Breedon, Ross & Janice","Breedon, Ross & Janice",,,,1222,Universal Home Improvements Acc,1-1222,,N-T,1224 · Accounts Receivable,,,835,-835,Bank,
+"372,850",17/10/2023,,"Breedon, Ross & Janice","Breedon, Ross & Janice",,,,1224,Accounts Receivable,Jan-00,Flooring Hervey Bay,N-T,1222 · Universal Home Improvements Acc,,835,,835,Accounts Receivable,
+"373,692",17/10/2023,OLB,NAB,NAB,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,104,-104,Bank,
+"373,692",17/10/2023,OLB,NAB,NAB,Merc fee,,,1629,Merchant Fees,6-1629,,GST,1222 · Universal Home Improvements Acc,,94.55,,94.55,Expense,9.45
+"373,692",17/10/2023,OLB,Australian Tax Office,NAB,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,9.45,,9.45,Other Current Liability,
+"373,694",18/10/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,"1,064.80","-1,064.80",Bank,
+"373,694",18/10/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,968,,968.00,Cost of Goods Sold,96.8
+"373,694",18/10/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,96.8,,96.8,Other Current Liability,
+"374,954",18/10/2023,Fee,National Australia Bank,National Australia Bank,,,,1204,Choices Flooring Noosaville,1-1204,,N-T,-SPLIT-,,,284.97,-284.97,Bank,
+"374,954",18/10/2023,Fee,National Australia Bank,National Australia Bank,,,,1629,Merchant Fees,6-1629,,GST,1204 · Choices Flooring Noosaville,,259.06,,259.06,Expense,25.91
+"374,954",18/10/2023,Fee,Australian Tax Office,National Australia Bank,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1204 · Choices Flooring Noosaville,,25.91,,25.91,Other Current Liability,
+"373,095",19/10/2023,OLB,BP Aust,BP Aust,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,109.4,-109.4,Bank,
+"373,095",19/10/2023,OLB,BP Aust,BP Aust,Reimbursement Shane Chapman. Put ultimate in instead of normal unleaded.,,,1861,Fuel,6-1861,,GST,1222 · Universal Home Improvements Acc,,99.45,,99.45,Expense,9.95
+"373,095",19/10/2023,OLB,Australian Tax Office,BP Aust,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,9.95,,9.95,Other Current Liability,
+"373,563",19/10/2023,RZ141066,FHA Wholesalers,FHA Wholesalers,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,"29,055.30",########,Bank,
+"373,563",19/10/2023,RZ141066,FHA Wholesalers,FHA Wholesalers,,,,1445,Purchases,5-1445,,GST,1208 · NAB Qantas Business Card,,"26,413.91",,"26,413.91",Cost of Goods Sold,"2,641.39"
+"373,563",19/10/2023,RZ141066,Australian Tax Office,FHA Wholesalers,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,"2,641.39",,"2,641.39",Other Current Liability,
+"373,695",19/10/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,"1,638.00","-1,638.00",Bank,
+"373,695",19/10/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,"1,489.09",,"1,489.09",Cost of Goods Sold,148.91
+"373,695",19/10/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,148.91,,148.91,Other Current Liability,
+"374,052",23/10/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,"1,315.30","-1,315.30",Bank,
+"374,052",23/10/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,"1,195.73",,"1,195.73",Cost of Goods Sold,119.57
+"374,052",23/10/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,119.57,,119.57,Other Current Liability,
+"373,564",24/10/2023,RZ141067,News Corp Australia,News Corp Australia,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,30,-30,Bank,
+"373,564",24/10/2023,RZ141067,News Corp Australia,News Corp Australia,Courier Mail Subscription,,,2007,Staff Party,Jun-07,,GST,1208 · NAB Qantas Business Card,,27.27,,27.27,Expense,2.73
+"373,564",24/10/2023,RZ141067,Australian Tax Office,News Corp Australia,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,2.73,,2.73,Other Current Liability,
+"373,565",24/10/2023,RZ141068,Kawana Floor Warehouse,Kawana Floor Warehouse,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,147.23,-147.23,Bank,
+"373,565",24/10/2023,RZ141068,Kawana Floor Warehouse,Kawana Floor Warehouse,,,,1442,Purchases,5-1442,,GST,1208 · NAB Qantas Business Card,,133.85,,133.85,Cost of Goods Sold,13.38
+"373,565",24/10/2023,RZ141068,Australian Tax Office,Kawana Floor Warehouse,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,13.38,,13.38,Other Current Liability,
+"374,055",24/10/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,636.7,-636.7,Bank,
+"374,055",24/10/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,578.82,,578.82,Cost of Goods Sold,57.88
+"374,055",24/10/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,57.88,,57.88,Other Current Liability,
+"374,056",25/10/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,279.05,-279.05,Bank,
+"374,056",25/10/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,253.68,,253.68,Cost of Goods Sold,25.37
+"374,056",25/10/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,25.37,,25.37,Other Current Liability,
+"374,368",25/10/2023,RZ141070,Google Ads,Google Ads,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,500,-500,Bank,
+"374,368",25/10/2023,RZ141070,Google Ads,Google Ads,,,,1452,Google,6-1452,,GST,1208 · NAB Qantas Business Card,,454.55,,454.55,Expense,45.45
+"374,368",25/10/2023,RZ141070,Australian Tax Office,Google Ads,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,45.45,,45.45,Other Current Liability,
+"374,057",26/10/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,"1,008.40","-1,008.40",Bank,
+"374,057",26/10/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,916.73,,916.73,Cost of Goods Sold,91.67
+"374,057",26/10/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,91.67,,91.67,Other Current Liability,
+"374,369",26/10/2023,RZ141071,FHA Wholesalers,FHA Wholesalers,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,"45,689.94",########,Bank,
+"374,369",26/10/2023,RZ141071,FHA Wholesalers,FHA Wholesalers,,,,1445,Purchases,5-1445,,GST,1208 · NAB Qantas Business Card,,"41,536.31",,"41,536.31",Cost of Goods Sold,"4,153.63"
+"374,369",26/10/2023,RZ141071,Australian Tax Office,FHA Wholesalers,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,"4,153.63",,"4,153.63",Other Current Liability,
+"374,058",27/10/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,450.25,-450.25,Bank,
+"374,058",27/10/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,409.32,,409.32,Cost of Goods Sold,40.93
+"374,058",27/10/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,40.93,,40.93,Other Current Liability,
+"374,370",27/10/2023,RZ141072,National Australia Bank *,National Australia Bank *,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,36,-36,Bank,
+"374,370",27/10/2023,RZ141072,National Australia Bank *,National Australia Bank *,3 x Card Fees,,,1469,Bank Charges,6-1469,,FRE,1208 · NAB Qantas Business Card,,36,,36,Expense,0
+"374,370",27/10/2023,RZ141072,Australian Tax Office,National Australia Bank *,Non-Cap. Acq. - GST Free,,NCF,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,0,,0,Other Current Liability,
+"374,371",30/10/2023,RZ141073,Local Search,Local Search,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,"3,569.46","-3,569.46",Bank,
+"374,371",30/10/2023,RZ141073,Local Search,Local Search,,,,1453,Local Directories,6-1453,,GST,1208 · NAB Qantas Business Card,,"3,244.96",,"3,244.96",Expense,324.5
+"374,371",30/10/2023,RZ141073,Australian Tax Office,Local Search,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,324.5,,324.5,Other Current Liability,
+"374,712",30/10/2023,OLB,BOQ Finance - Photocopier,BOQ Finance - Photocopier,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,346.5,-346.5,Bank,
+"374,712",30/10/2023,OLB,BOQ Finance - Photocopier,BOQ Finance - Photocopier,,,,1966,Printing and Stationery,Jun-66,,GST,1222 · Universal Home Improvements Acc,,315,,315,Expense,31.5
+"374,712",30/10/2023,OLB,Australian Tax Office,BOQ Finance - Photocopier,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,31.5,,31.5,Other Current Liability,
+"374,713",30/10/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,"2,015.30","-2,015.30",Bank,
+"374,713",30/10/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,"1,832.09",,"1,832.09",Cost of Goods Sold,183.21
+"374,713",30/10/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,183.21,,183.21,Other Current Liability,
+"374,372",31/10/2023,RZ141074,Creditor Watch,Creditor Watch,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,52,-52,Bank,
+"374,372",31/10/2023,RZ141074,Creditor Watch,Creditor Watch,Credit Check Monthly Subscription,,,1447,Accountancy Fees,6-1447,,GST,1208 · NAB Qantas Business Card,,47.27,,47.27,Expense,4.73
+"374,372",31/10/2023,RZ141074,Australian Tax Office,Creditor Watch,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,4.73,,4.73,Other Current Liability,
+"374,373",31/10/2023,RZ141075,Seek Limited,Seek Limited,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,451,-451,Bank,
+"374,373",31/10/2023,RZ141075,Seek Limited,Seek Limited,Job advertisement,,,1459,Staff Advertising,6-1459,,GST,1208 · NAB Qantas Business Card,,410,,410,Expense,41
+"374,373",31/10/2023,RZ141075,Australian Tax Office,Seek Limited,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,41,,41,Other Current Liability,
+"374,374",31/10/2023,RZ141076,Reckon Accounts,Reckon Accounts,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,850,-850,Bank,
+"374,374",31/10/2023,RZ141076,Reckon Accounts,Reckon Accounts,1 x Annual User Subscription,,,1479,Annual Membership,6-1479,,GST,1208 · NAB Qantas Business Card,,772.73,,772.73,Expense,77.27
+"374,374",31/10/2023,RZ141076,Australian Tax Office,Reckon Accounts,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,77.27,,77.27,Other Current Liability,
+"374,714",31/10/2023,OLB,NAB,NAB,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,"1,472.62","-1,472.62",Bank,
+"374,714",31/10/2023,OLB,NAB,NAB,Merc fee,,,1629,Merchant Fees,6-1629,,GST,1222 · Universal Home Improvements Acc,,"1,338.75",,"1,338.75",Expense,133.87
+"374,714",31/10/2023,OLB,Australian Tax Office,NAB,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,133.87,,133.87,Other Current Liability,
+"374,715",31/10/2023,OLB,NAB,NAB,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,10,-10,Bank,
+"374,715",31/10/2023,OLB,NAB,NAB,Merc fee,,,1629,Merchant Fees,6-1629,,GST,1222 · Universal Home Improvements Acc,,9.09,,9.09,Expense,0.91
+"374,715",31/10/2023,OLB,Australian Tax Office,NAB,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,0.91,,0.91,Other Current Liability,
+"374,716",31/10/2023,OLB,NAB,NAB,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,534.36,-534.36,Bank,
+"374,716",31/10/2023,OLB,NAB,NAB,Merc fee,,,1629,Merchant Fees,6-1629,,GST,1222 · Universal Home Improvements Acc,,485.78,,485.78,Expense,48.58
+"374,716",31/10/2023,OLB,Australian Tax Office,NAB,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,48.58,,48.58,Other Current Liability,
+"374,955",31/10/2023,Fee,National Australia Bank,National Australia Bank,,,,1204,Choices Flooring Noosaville,1-1204,,N-T,-SPLIT-,,,10,-10,Bank,
+"374,955",31/10/2023,Fee,National Australia Bank,National Australia Bank,,,,1907,Bank Charges,Jun-07,,FRE,1204 · Choices Flooring Noosaville,,10,,10,Expense,0
+"374,955",31/10/2023,Fee,Australian Tax Office,National Australia Bank,Non-Cap. Acq. - GST Free,,NCF,2200,Tax Payable,Feb-00,,N-T,1204 · Choices Flooring Noosaville,,0,,0,Other Current Liability,
+"374,375",01/11/2023,RZ141077,National Australia Bank *,National Australia Bank *,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,3.81,-3.81,Bank,
+"374,375",01/11/2023,RZ141077,National Australia Bank *,National Australia Bank *,3 x Card Fees,,,1469,Bank Charges,6-1469,,FRE,1208 · NAB Qantas Business Card,,3.81,,3.81,Expense,0
+"374,375",01/11/2023,RZ141077,Australian Tax Office,National Australia Bank *,Non-Cap. Acq. - GST Free,,NCF,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,0,,0,Other Current Liability,
+"374,376",01/11/2023,RZ141078,Facebook,Facebook,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,126.96,-126.96,Bank,
+"374,376",01/11/2023,RZ141078,Facebook,Facebook,Facebook Advertising,,,1906,Advertising,Jun-06,,GST,1208 · NAB Qantas Business Card,,115.42,,115.42,Expense,11.54
+"374,376",01/11/2023,RZ141078,Australian Tax Office,Facebook,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,11.54,,11.54,Other Current Liability,
+"374,717",01/11/2023,OLB,NAB,NAB,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,107.75,-107.75,Bank,
+"374,717",01/11/2023,OLB,NAB,NAB,Merc fee,,,1629,Merchant Fees,6-1629,,GST,1222 · Universal Home Improvements Acc,,97.95,,97.95,Expense,9.8
+"374,717",01/11/2023,OLB,Australian Tax Office,NAB,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,9.8,,9.8,Other Current Liability,
+"374,377",02/11/2023,RZ141079,Seek Limited,Seek Limited,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,390.5,-390.5,Bank,
+"374,377",02/11/2023,RZ141079,Seek Limited,Seek Limited,Job advertisement,,,1906,Advertising,Jun-06,,GST,1208 · NAB Qantas Business Card,,355,,355,Expense,35.5
+"374,377",02/11/2023,RZ141079,Australian Tax Office,Seek Limited,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,35.5,,35.5,Other Current Liability,
+"376,998",02/11/2023,RZ141084,CanIBuild,CanIBuild,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,324.5,-324.5,Bank,
+"376,998",02/11/2023,RZ141084,CanIBuild,CanIBuild,1 x Month Site Plan Software,,,1479,Annual Membership,6-1479,,GST,1208 · NAB Qantas Business Card,,295,,295,Expense,29.5
+"376,998",02/11/2023,RZ141084,Australian Tax Office,CanIBuild,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,29.5,,29.5,Other Current Liability,
+"374,662",03/11/2023,RZ141080,FCRC,FCRC,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,"1,868.95","-1,868.95",Bank,
+"374,662",03/11/2023,RZ141080,FCRC,FCRC,Relocation of sewer connection.,,,1439,"Licences, Fees and Permits",5-1439,,GST,1208 · NAB Qantas Business Card,,"1,699.05",,"1,699.05",Cost of Goods Sold,169.9
+"374,662",03/11/2023,RZ141080,Australian Tax Office,FCRC,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,169.9,,169.9,Other Current Liability,
+"374,874",03/11/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,"1,398.90","-1,398.90",Bank,
+"374,874",03/11/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,"1,271.73",,"1,271.73",Cost of Goods Sold,127.17
+"374,874",03/11/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,127.17,,127.17,Other Current Liability,
+"374,875",03/11/2023,OLB,De Lage Landen Home Improvement,De Lage Landen Home Improvement,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,104.5,-104.5,Bank,
+"374,875",03/11/2023,OLB,De Lage Landen Home Improvement,De Lage Landen Home Improvement,,,,1445,Purchases,5-1445,,GST,1222 · Universal Home Improvements Acc,,95,,95,Cost of Goods Sold,9.5
+"374,875",03/11/2023,OLB,Australian Tax Office,De Lage Landen Home Improvement,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,9.5,,9.5,Other Current Liability,
+"376,999",03/11/2023,RZ141085,Google Ads,Google Ads,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,252.07,-252.07,Bank,
+"376,999",03/11/2023,RZ141085,Google Ads,Google Ads,,,,1452,Google,6-1452,,GST,1208 · NAB Qantas Business Card,,229.15,,229.15,Expense,22.92
+"376,999",03/11/2023,RZ141085,Australian Tax Office,Google Ads,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,22.92,,22.92,Other Current Liability,
+"377,000",03/11/2023,RZ141086,FHA Wholesalers,FHA Wholesalers,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,"42,347.01",########,Bank,
+"377,000",03/11/2023,RZ141086,FHA Wholesalers,FHA Wholesalers,,,,1445,Purchases,5-1445,,GST,1208 · NAB Qantas Business Card,,"38,497.28",,"38,497.28",Cost of Goods Sold,"3,849.73"
+"377,000",03/11/2023,RZ141086,Australian Tax Office,FHA Wholesalers,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,"3,849.73",,"3,849.73",Other Current Liability,
+"374,667",06/11/2023,RZ141081,Officeworks,Officeworks,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,"1,697.00","-1,697.00",Bank,
+"374,667",06/11/2023,RZ141081,Officeworks,Officeworks,,,,1924,Telephone,Jun-24,,GST,1208 · NAB Qantas Business Card,,"1,542.73",,"1,542.73",Expense,154.27
+"374,667",06/11/2023,RZ141081,Australian Tax Office,Officeworks,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,154.27,,154.27,Other Current Liability,
+"374,707",06/11/2023,,"Pantan, Eamonn","Pantan, Eamonn",,,,1222,Universal Home Improvements Acc,1-1222,,N-T,1224 · Accounts Receivable,,,385,-385,Bank,
+"374,707",06/11/2023,,"Pantan, Eamonn","Pantan, Eamonn",,,,1224,Accounts Receivable,Jan-00,Tiles Hervey Bay,N-T,1222 · Universal Home Improvements Acc,,385,,385,Accounts Receivable,
+"375,640",06/11/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,"1,717.45","-1,717.45",Bank,
+"375,640",06/11/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,"1,561.32",,"1,561.32",Cost of Goods Sold,156.13
+"375,640",06/11/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,156.13,,156.13,Other Current Liability,
+"377,001",06/11/2023,RZ141087,Dominos Pizza,Dominos Pizza,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,88,-88,Bank,
+"377,001",06/11/2023,RZ141087,Dominos Pizza,Dominos Pizza,Monthly Lunch - Office and Installers,,,2007,Staff Party,Jun-07,,GST,1208 · NAB Qantas Business Card,,80,,80,Expense,8
+"377,001",06/11/2023,RZ141087,Australian Tax Office,Dominos Pizza,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,8,,8,Other Current Liability,
+"377,002",06/11/2023,RZ141088,BlinQ,BlinQ,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,535,-535,Bank,
+"377,002",06/11/2023,RZ141088,BlinQ,BlinQ,Quoting Software - Monthly Fee,,,1479,Annual Membership,6-1479,,GST,1208 · NAB Qantas Business Card,,486.36,,486.36,Expense,48.64
+"377,002",06/11/2023,RZ141088,Australian Tax Office,BlinQ,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,48.64,,48.64,Other Current Liability,
+"375,641",07/11/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,336.2,-336.2,Bank,
+"375,641",07/11/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,305.64,,305.64,Cost of Goods Sold,30.56
+"375,641",07/11/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,30.56,,30.56,Other Current Liability,
+"377,003",07/11/2023,RZ141089,ASSA,ASSA,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,55.7,-55.7,Bank,
+"377,003",07/11/2023,RZ141089,ASSA,ASSA,,,,1627,Membership Fees,6-1627,,GST,1208 · NAB Qantas Business Card,,50.64,,50.64,Expense,5.06
+"377,003",07/11/2023,RZ141089,Australian Tax Office,ASSA,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,5.06,,5.06,Other Current Liability,
+"374,999",08/11/2023,,"Kassulke, Abbey","Kassulke, Abbey",,,,1222,Universal Home Improvements Acc,1-1222,,N-T,1224 · Accounts Receivable,,,525,-525,Bank,
+"374,999",08/11/2023,,"Kassulke, Abbey","Kassulke, Abbey",,,,1224,Accounts Receivable,Jan-00,Flooring Hervey Bay,N-T,1222 · Universal Home Improvements Acc,,525,,525,Accounts Receivable,
+"377,004",08/11/2023,RZ141090,Microsoftstore,Microsoftstore,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,18.92,-18.92,Bank,
+"377,004",08/11/2023,RZ141090,Microsoftstore,Microsoftstore,Microsoft365 Subscriptions,,,1478,Computer/Internet/Came Expenses,6-1478,,GST,1208 · NAB Qantas Business Card,,17.2,,17.2,Expense,1.72
+"377,004",08/11/2023,RZ141090,Australian Tax Office,Microsoftstore,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,1.72,,1.72,Other Current Liability,
+"377,005",08/11/2023,RZ141091,Blitz Car Spa,Blitz Car Spa,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,30,-30,Bank,
+"377,005",08/11/2023,RZ141091,Blitz Car Spa,Blitz Car Spa,,,,1727,Repairs & Maintenance,6-1727,,GST,1208 · NAB Qantas Business Card,,27.27,,27.27,Expense,2.73
+"377,005",08/11/2023,RZ141091,Australian Tax Office,Blitz Car Spa,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,2.73,,2.73,Other Current Liability,
+"377,006",08/11/2023,RZ141092,Microsoftstore,Microsoftstore,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,171.38,-171.38,Bank,
+"377,006",08/11/2023,RZ141092,Microsoftstore,Microsoftstore,Microsoft365 Subscriptions,,,1478,Computer/Internet/Came Expenses,6-1478,,GST,1208 · NAB Qantas Business Card,,155.8,,155.8,Expense,15.58
+"377,006",08/11/2023,RZ141092,Australian Tax Office,Microsoftstore,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,15.58,,15.58,Other Current Liability,
+"375,644",09/11/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,"1,179.00","-1,179.00",Bank,
+"375,644",09/11/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,"1,071.82",,"1,071.82",Cost of Goods Sold,107.18
+"375,644",09/11/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,107.18,,107.18,Other Current Liability,
+"377,007",09/11/2023,RZ141093,Allstrong Locksmiths *,Allstrong Locksmiths *,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,81.4,-81.4,Bank,
+"377,007",09/11/2023,RZ141093,Allstrong Locksmiths *,Allstrong Locksmiths *,Showroom key cuts,,,1445,Purchases,5-1445,,GST,1208 · NAB Qantas Business Card,,74,,74,Cost of Goods Sold,7.4
+"377,007",09/11/2023,RZ141093,Australian Tax Office,Allstrong Locksmiths *,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,7.4,,7.4,Other Current Liability,
+"377,008",09/11/2023,RZ141094,FHA Wholesalers,FHA Wholesalers,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,"41,498.43",########,Bank,
+"377,008",09/11/2023,RZ141094,FHA Wholesalers,FHA Wholesalers,,,,1445,Purchases,5-1445,,GST,1208 · NAB Qantas Business Card,,"37,725.85",,"37,725.85",Cost of Goods Sold,"3,772.58"
+"377,008",09/11/2023,RZ141094,Australian Tax Office,FHA Wholesalers,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,"3,772.58",,"3,772.58",Other Current Liability,
+"375,144",10/11/2023,,"Nicholson, Peter","Nicholson, Peter",,,,1222,Universal Home Improvements Acc,1-1222,,N-T,1224 · Accounts Receivable,,,"3,240.00","-3,240.00",Bank,
+"375,144",10/11/2023,,"Nicholson, Peter","Nicholson, Peter",,,,1224,Accounts Receivable,Jan-00,Sheds,N-T,1222 · Universal Home Improvements Acc,,"3,240.00",,"3,240.00",Accounts Receivable,
+"375,645",10/11/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,264.80,-264.8,Bank,
+"375,645",10/11/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,240.73,,240.73,Cost of Goods Sold,24.07
+"375,645",10/11/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,24.07,,24.07,Other Current Liability,
+"376,020",13/11/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,722.25,-722.25,Bank,
+"376,020",13/11/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,656.59,,656.59,Cost of Goods Sold,65.66
+"376,020",13/11/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,65.66,,65.66,Other Current Liability,
+"375,581",15/11/2023,,"Goncalves, Antonio","Goncalves, Antonio",,,,1222,Universal Home Improvements Acc,1-1222,,N-T,1224 · Accounts Receivable,,,149.5,-149.5,Bank,
+"375,581",15/11/2023,,"Goncalves, Antonio","Goncalves, Antonio",,,,1224,Accounts Receivable,Jan-00,Tiles Hervey Bay,N-T,1222 · Universal Home Improvements Acc,,149.5,,149.5,Accounts Receivable,
+"375,589",15/11/2023,,"Farthing, Megan","Farthing, Megan",,,,1222,Universal Home Improvements Acc,1-1222,,N-T,1224 · Accounts Receivable,,,"1,050.00","-1,050.00",Bank,
+"375,589",15/11/2023,,"Farthing, Megan","Farthing, Megan",,,,1224,Accounts Receivable,Jan-00,"Blinds, Awnings & Shutters",N-T,1222 · Universal Home Improvements Acc,,"1,050.00",,"1,050.00",Accounts Receivable,
+"377,009",15/11/2023,RZ141095,Caltex,Caltex,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,299.14,-299.14,Bank,
+"377,009",15/11/2023,RZ141095,Caltex,Caltex,,,,1758,Fuel,6-1758,,GST,1208 · NAB Qantas Business Card,,271.95,,271.95,Expense,27.19
+"377,009",15/11/2023,RZ141095,Australian Tax Office,Caltex,10% GST,,GST-P,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,27.19,,27.19,Other Current Liability,
+"376,152",16/11/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,357.6,-357.6,Bank,
+"376,152",16/11/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,325.09,,325.09,Cost of Goods Sold,32.51
+"376,152",16/11/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,32.51,,32.51,Other Current Liability,
+"377,010",16/11/2023,RZ141096,FHA Wholesalers,FHA Wholesalers,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,"21,525.22",########,Bank,
+"377,010",16/11/2023,RZ141096,FHA Wholesalers,FHA Wholesalers,,,,1445,Purchases,5-1445,,GST,1208 · NAB Qantas Business Card,,"19,568.38",,"19,568.38",Cost of Goods Sold,"1,956.84"
+"377,010",16/11/2023,RZ141096,Australian Tax Office,FHA Wholesalers,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,"1,956.84",,"1,956.84",Other Current Liability,
+"376,153",17/11/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,"1,223.35","-1,223.35",Bank,
+"376,153",17/11/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,"1,112.14",,"1,112.14",Cost of Goods Sold,111.21
+"376,153",17/11/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,111.21,,111.21,Other Current Liability,
+"377,011",17/11/2023,RZ141097,Microsoftstore,Microsoftstore,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,139,-139,Bank,
+"377,011",17/11/2023,RZ141097,Microsoftstore,Microsoftstore,Microsoft365 Subscriptions,,,1478,Computer/Internet/Came Expenses,6-1478,,GST,1208 · NAB Qantas Business Card,,126.36,,126.36,Expense,12.64
+"377,011",17/11/2023,RZ141097,Australian Tax Office,Microsoftstore,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,12.64,,12.64,Other Current Liability,
+"376,958",20/11/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,972.8,-972.8,Bank,
+"376,958",20/11/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,884.36,,884.36,Cost of Goods Sold,88.44
+"376,958",20/11/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,88.44,,88.44,Other Current Liability,
+"376,959",21/11/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,729.35,-729.35,Bank,
+"376,959",21/11/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,663.05,,663.05,Cost of Goods Sold,66.3
+"376,959",21/11/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,66.3,,66.3,Other Current Liability,
+"376,960",21/11/2023,OLB,Newfurn Floor Coverings LTD,Newfurn Floor Coverings LTD,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,"1,060.00","-1,060.00",Bank,
+"376,960",21/11/2023,OLB,Newfurn Floor Coverings LTD,Newfurn Floor Coverings LTD,Newfurn Bank Guarantee Service Fee,,,1469,Bank Charges,6-1469,,FRE,1222 · Universal Home Improvements Acc,,"1,060.00",,"1,060.00",Expense,0
+"376,960",21/11/2023,OLB,Australian Tax Office,Newfurn Floor Coverings LTD,Non-Cap. Acq. - GST Free,,NCF,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,0,,0,Other Current Liability,
+"376,295",22/11/2023,RZ141082,ASIC,ASIC,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,310,-310,Bank,
+"376,295",22/11/2023,RZ141082,ASIC,ASIC,2 x Business Name Registration Renewals,,,1439,"Licences, Fees and Permits",5-1439,,GST,1208 · NAB Qantas Business Card,,281.82,,281.82,Cost of Goods Sold,28.18
+"376,295",22/11/2023,RZ141082,Australian Tax Office,ASIC,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,28.18,,28.18,Other Current Liability,
+"376,296",22/11/2023,OLB,FCRC,FCRC,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,"2,919.15","-2,919.15",Bank,
+"376,296",22/11/2023,OLB,FCRC,FCRC,"Rates 231 Maryborough Hervey Bay Road, Urraween",,,1969,Rates,Jun-69,,FRE,1222 · Universal Home Improvements Acc,,"2,919.15",,"2,919.15",Expense,0
+"376,296",22/11/2023,OLB,Australian Tax Office,FCRC,Non-Cap. Acq. - GST Free,,NCF,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,0,,0,Other Current Liability,
+"376,297",22/11/2023,OLB,FCRC,FCRC,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,"2,206.23","-2,206.23",Bank,
+"376,297",22/11/2023,OLB,FCRC,FCRC,"Rates 535 Boat Harbour Drive, Torquay",,,1969,Rates,Jun-69,,FRE,1222 · Universal Home Improvements Acc,,"2,206.23",,"2,206.23",Expense,0
+"376,297",22/11/2023,OLB,Australian Tax Office,FCRC,Non-Cap. Acq. - GST Free,,NCF,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,0,,0,Other Current Liability,
+"376,961",22/11/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,343.3,-343.3,Bank,
+"376,961",22/11/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,312.09,,312.09,Cost of Goods Sold,31.21
+"376,961",22/11/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,31.21,,31.21,Other Current Liability,
+"376,962",23/11/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,"1,451.70","-1,451.70",Bank,
+"376,962",23/11/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,"1,319.73",,"1,319.73",Cost of Goods Sold,131.97
+"376,962",23/11/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,131.97,,131.97,Other Current Liability,
+"377,012",23/11/2023,RZ141098,News Corp Australia,News Corp Australia,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,30,-30,Bank,
+"377,012",23/11/2023,RZ141098,News Corp Australia,News Corp Australia,Courier Mail Subscription,,,2007,Staff Party,Jun-07,,GST,1208 · NAB Qantas Business Card,,27.27,,27.27,Expense,2.73
+"377,012",23/11/2023,RZ141098,Australian Tax Office,News Corp Australia,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,2.73,,2.73,Other Current Liability,
+"377,013",23/11/2023,RZ141099,FHA Wholesalers,FHA Wholesalers,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,"29,357.34",########,Bank,
+"377,013",23/11/2023,RZ141099,FHA Wholesalers,FHA Wholesalers,,,,1445,Purchases,5-1445,,GST,1208 · NAB Qantas Business Card,,"26,688.49",,"26,688.49",Cost of Goods Sold,"2,668.85"
+"377,013",23/11/2023,RZ141099,Australian Tax Office,FHA Wholesalers,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,"2,668.85",,"2,668.85",Other Current Liability,
+"377,752",23/11/2023,RZ141106,Charlesworth Nuts,Charlesworth Nuts,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,489.40,-489.4,Bank,
+"377,752",23/11/2023,RZ141106,Charlesworth Nuts,Charlesworth Nuts,,,,1442,Purchases,5-1442,,GST,1208 · NAB Qantas Business Card,,444.91,,444.91,Cost of Goods Sold,44.49
+"377,752",23/11/2023,RZ141106,Australian Tax Office,Charlesworth Nuts,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,44.49,,44.49,Other Current Liability,
+"376,504",24/11/2023,,"Fishley, Brenda","Fishley, Brenda",,,,1222,Universal Home Improvements Acc,1-1222,,N-T,1224 · Accounts Receivable,,,400,-400,Bank,
+"376,504",24/11/2023,,"Fishley, Brenda","Fishley, Brenda",,,,1224,Accounts Receivable,Jan-00,"Blinds, Awnings & Shutters",N-T,1222 · Universal Home Improvements Acc,,400,,400,Accounts Receivable,
+"376,513",24/11/2023,RZ141083,Official Mem,Official Mem,,,,1208,NAB Qantas Business Card,1-1208,,N-T,1999 · Sign Writing,,,844,-844,Bank,
+"376,513",24/11/2023,RZ141083,Official Mem,Official Mem,,,,1999,Sign Writing,Jun-99,,N-T,1208 · NAB Qantas Business Card,,844,,844,Expense,0
+"376,963",24/11/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,357.6,-357.6,Bank,
+"376,963",24/11/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,325.09,,325.09,Cost of Goods Sold,32.51
+"376,963",24/11/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,32.51,,32.51,Other Current Liability,
+"377,014",27/11/2023,RZ141100,Officeworks,Officeworks,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,148.32,-148.32,Bank,
+"377,014",27/11/2023,RZ141100,Officeworks,Officeworks,,,,1919,Printing & Stationary,Jun-19,,GST,1208 · NAB Qantas Business Card,,134.84,,134.84,Expense,13.48
+"377,014",27/11/2023,RZ141100,Australian Tax Office,Officeworks,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,13.48,,13.48,Other Current Liability,
+"377,015",27/11/2023,RZ141101,Pc Case Gear Pty Ltd.,Pc Case Gear Pty Ltd.,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,"5,065.00","-5,065.00",Bank,
+"377,015",27/11/2023,RZ141101,Pc Case Gear Pty Ltd.,Pc Case Gear Pty Ltd.,2 x New Computers. Torquay Office,,,1478,Computer/Internet/Came Expenses,6-1478,,GST,1208 · NAB Qantas Business Card,,"4,604.55",,"4,604.55",Expense,460.45
+"377,015",27/11/2023,RZ141101,Australian Tax Office,Pc Case Gear Pty Ltd.,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,460.45,,460.45,Other Current Liability,
+"377,017",27/11/2023,RZ141103,Kingfisher Bay Resort,Kingfisher Bay Resort,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,100,-100,Bank,
+"377,017",27/11/2023,RZ141103,Kingfisher Bay Resort,Kingfisher Bay Resort,Dunga Derby Long Lunch,,,2007,Staff Party,Jun-07,,GST,1208 · NAB Qantas Business Card,,90.91,,90.91,Expense,9.09
+"377,017",27/11/2023,RZ141103,Australian Tax Office,Kingfisher Bay Resort,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,9.09,,9.09,Other Current Liability,
+"377,018",27/11/2023,RZ141104,Kingfisher Bay Resort,Kingfisher Bay Resort,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,"4,700.00","-4,700.00",Bank,
+"377,018",27/11/2023,RZ141104,Kingfisher Bay Resort,Kingfisher Bay Resort,Auction Win - Advertising Hervey Bay Advertiser,,,1445,Purchases,5-1445,,GST,1208 · NAB Qantas Business Card,,"4,272.73",,"4,272.73",Cost of Goods Sold,427.27
+"377,018",27/11/2023,RZ141104,Australian Tax Office,Kingfisher Bay Resort,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,427.27,,427.27,Other Current Liability,
+"377,751",27/11/2023,RZ141105,Airbnb,Airbnb,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,"2,079.53","-2,079.53",Bank,
+"377,751",27/11/2023,RZ141105,Airbnb,Airbnb,Accommodation Noosa Installers,,,1442,Purchases,5-1442,,GST,1208 · NAB Qantas Business Card,,"1,890.48",,"1,890.48",Cost of Goods Sold,189.05
+"377,751",27/11/2023,RZ141105,Australian Tax Office,Airbnb,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,189.05,,189.05,Other Current Liability,
+"377,891",27/11/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,393.3,-393.3,Bank,
+"377,891",27/11/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,357.55,,357.55,Cost of Goods Sold,35.75
+"377,891",27/11/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,35.75,,35.75,Other Current Liability,
+"377,016",28/11/2023,RZ141102,National Australia Bank *,National Australia Bank *,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,36,-36,Bank,
+"377,016",28/11/2023,RZ141102,National Australia Bank *,National Australia Bank *,3 x Card Fees,,,1469,Bank Charges,6-1469,,FRE,1208 · NAB Qantas Business Card,,36,,36,Expense,0
+"377,016",28/11/2023,RZ141102,Australian Tax Office,National Australia Bank *,Non-Cap. Acq. - GST Free,,NCF,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,0,,0,Other Current Liability,
+"377,892",28/11/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,"1,065.55","-1,065.55",Bank,
+"377,892",28/11/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,968.68,,968.68,Cost of Goods Sold,96.87
+"377,892",28/11/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,96.87,,96.87,Other Current Liability,
+"376,954",29/11/2023,,"Hill, Terry","Hill, Terry",,,,1222,Universal Home Improvements Acc,1-1222,,N-T,1224 · Accounts Receivable,,,384,-384,Bank,
+"376,954",29/11/2023,,"Hill, Terry","Hill, Terry",,,,1224,Accounts Receivable,Jan-00,Tiles Hervey Bay,N-T,1222 · Universal Home Improvements Acc,,384,,384,Accounts Receivable,
+"377,893",29/11/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,222,-222,Bank,
+"377,893",29/11/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,201.82,,201.82,Cost of Goods Sold,20.18
+"377,893",29/11/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,20.18,,20.18,Other Current Liability,
+"377,894",29/11/2023,OLB,BOQ Finance - Photocopier,BOQ Finance - Photocopier,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,346.5,-346.5,Bank,
+"377,894",29/11/2023,OLB,BOQ Finance - Photocopier,BOQ Finance - Photocopier,,,,1966,Printing and Stationery,Jun-66,,GST,1222 · Universal Home Improvements Acc,,315,,315,Expense,31.5
+"377,894",29/11/2023,OLB,Australian Tax Office,BOQ Finance - Photocopier,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,31.5,,31.5,Other Current Liability,
+"377,519",30/11/2023,Fee,National Australia Bank,National Australia Bank,,,,1204,Choices Flooring Noosaville,1-1204,,N-T,-SPLIT-,,,202.29,-202.29,Bank,
+"377,519",30/11/2023,Fee,National Australia Bank,National Australia Bank,,,,1910,Merchant Fee,Jun-10,,GST,1204 · Choices Flooring Noosaville,,183.9,,183.9,Expense,18.39
+"377,519",30/11/2023,Fee,Australian Tax Office,National Australia Bank,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1204 · Choices Flooring Noosaville,,18.39,,18.39,Other Current Liability,
+"377,520",30/11/2023,Fee,National Australia Bank,National Australia Bank,,,,1204,Choices Flooring Noosaville,1-1204,,N-T,-SPLIT-,,,10,-10,Bank,
+"377,520",30/11/2023,Fee,National Australia Bank,National Australia Bank,,,,1907,Bank Charges,Jun-07,,FRE,1204 · Choices Flooring Noosaville,,10,,10,Expense,0
+"377,520",30/11/2023,Fee,Australian Tax Office,National Australia Bank,Non-Cap. Acq. - GST Free,,NCF,2200,Tax Payable,Feb-00,,N-T,1204 · Choices Flooring Noosaville,,0,,0,Other Current Liability,
+"377,895",30/11/2023,OLB,NAB,NAB,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,10,-10,Bank,
+"377,895",30/11/2023,OLB,NAB,NAB,Merc fee,,,1629,Merchant Fees,6-1629,,GST,1222 · Universal Home Improvements Acc,,9.09,,9.09,Expense,0.91
+"377,895",30/11/2023,OLB,Australian Tax Office,NAB,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,0.91,,0.91,Other Current Liability,
+"377,896",30/11/2023,OLB,NAB,NAB,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,121,-121,Bank,
+"377,896",30/11/2023,OLB,NAB,NAB,Merc fee,,,1629,Merchant Fees,6-1629,,GST,1222 · Universal Home Improvements Acc,,110,,110,Expense,11
+"377,896",30/11/2023,OLB,Australian Tax Office,NAB,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,11,,11,Other Current Liability,
+"377,897",30/11/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,250.5,-250.5,Bank,
+"377,897",30/11/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,227.73,,227.73,Cost of Goods Sold,22.77
+"377,897",30/11/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,22.77,,22.77,Other Current Liability,
+"377,898",30/11/2023,OLB,NAB,NAB,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,457.27,-457.27,Bank,
+"377,898",30/11/2023,OLB,NAB,NAB,Merc fee,,,1629,Merchant Fees,6-1629,,GST,1222 · Universal Home Improvements Acc,,415.7,,415.7,Expense,41.57
+"377,898",30/11/2023,OLB,Australian Tax Office,NAB,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,41.57,,41.57,Other Current Liability,
+"377,899",30/11/2023,OLB,NAB,NAB,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,"1,133.11","-1,133.11",Bank,
+"377,899",30/11/2023,OLB,NAB,NAB,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,"1,030.10",,"1,030.10",Cost of Goods Sold,103.01
+"377,899",30/11/2023,OLB,Australian Tax Office,NAB,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,103.01,,103.01,Other Current Liability,
+"377,902",01/12/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,257.7,-257.7,Bank,
+"377,902",01/12/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,234.27,,234.27,Cost of Goods Sold,23.43
+"377,902",01/12/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,23.43,,23.43,Other Current Liability,
+"379,545",01/12/2023,RZ141109,Creditor Watch,Creditor Watch,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,52,-52,Bank,
+"379,545",01/12/2023,RZ141109,Creditor Watch,Creditor Watch,Credit Check Monthly Subscription,,,1447,Accountancy Fees,6-1447,,GST,1208 · NAB Qantas Business Card,,47.27,,47.27,Expense,4.73
+"379,545",01/12/2023,RZ141109,Australian Tax Office,Creditor Watch,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,4.73,,4.73,Other Current Liability,
+"379,548",01/12/2023,RZ141110,Local Search,Local Search,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,"3,569.46","-3,569.46",Bank,
+"379,548",01/12/2023,RZ141110,Local Search,Local Search,,,,1453,Local Directories,6-1453,,GST,1208 · NAB Qantas Business Card,,"3,244.96",,"3,244.96",Expense,324.5
+"379,548",01/12/2023,RZ141110,Australian Tax Office,Local Search,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,324.5,,324.5,Other Current Liability,
+"379,550",01/12/2023,RZ141111,EstimateOne,EstimateOne,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,"1,320.00","-1,320.00",Bank,
+"379,550",01/12/2023,RZ141111,EstimateOne,EstimateOne,,,,1908,Computer Expenses,Jun-08,,GST,1208 · NAB Qantas Business Card,,"1,200.00",,"1,200.00",Expense,120
+"379,550",01/12/2023,RZ141111,Australian Tax Office,EstimateOne,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,120,,120,Other Current Liability,
+"379,551",01/12/2023,RZ141112,FHA Wholesalers,FHA Wholesalers,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,"8,653.49","-8,653.49",Bank,
+"379,551",01/12/2023,RZ141112,FHA Wholesalers,FHA Wholesalers,,,,1445,Purchases,5-1445,,GST,1208 · NAB Qantas Business Card,,"7,866.81",,"7,866.81",Cost of Goods Sold,786.68
+"379,551",01/12/2023,RZ141112,Australian Tax Office,FHA Wholesalers,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,786.68,,786.68,Other Current Liability,
+"377,200",04/12/2023,,"Clark, Genevive","Clark, Genevive",,,,1222,Universal Home Improvements Acc,1-1222,,N-T,1224 · Accounts Receivable,,,200,-200,Bank,
+"377,200",04/12/2023,,"Clark, Genevive","Clark, Genevive",,,,1224,Accounts Receivable,Jan-00,,N-T,1222 · Universal Home Improvements Acc,,200,,200,Accounts Receivable,
+"378,057",04/12/2023,OLB,De Lage Landen Home Improvement,De Lage Landen Home Improvement,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,104.5,-104.5,Bank,
+"378,057",04/12/2023,OLB,De Lage Landen Home Improvement,De Lage Landen Home Improvement,,,,1445,Purchases,5-1445,,GST,1222 · Universal Home Improvements Acc,,95,,95,Cost of Goods Sold,9.5
+"378,057",04/12/2023,OLB,Australian Tax Office,De Lage Landen Home Improvement,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,9.5,,9.5,Other Current Liability,
+"378,058",04/12/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,650.1,-650.1,Bank,
+"378,058",04/12/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,591,,591,Cost of Goods Sold,59.1
+"378,058",04/12/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,59.1,,59.1,Other Current Liability,
+"379,553",04/12/2023,RZ141113,National Australia Bank *,National Australia Bank *,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,2.19,-2.19,Bank,
+"379,553",04/12/2023,RZ141113,National Australia Bank *,National Australia Bank *,International Transaction fee,,,1469,Bank Charges,6-1469,,FRE,1208 · NAB Qantas Business Card,,2.19,,2.19,Expense,0
+"379,553",04/12/2023,RZ141113,Australian Tax Office,National Australia Bank *,Non-Cap. Acq. - GST Free,,NCF,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,0,,0,Other Current Liability,
+"379,554",04/12/2023,RZ141114,Dominos Pizza,Dominos Pizza,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,88,-88,Bank,
+"379,554",04/12/2023,RZ141114,Dominos Pizza,Dominos Pizza,Monthly Lunch - Office and Installers,,,2007,Staff Party,Jun-07,,GST,1208 · NAB Qantas Business Card,,80,,80,Expense,8
+"379,554",04/12/2023,RZ141114,Australian Tax Office,Dominos Pizza,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,8,,8,Other Current Liability,
+"379,555",04/12/2023,RZ141115,Facebook,Facebook,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,73.04,-73.04,Bank,
+"379,555",04/12/2023,RZ141115,Facebook,Facebook,Facebook Advertising,,,1906,Advertising,Jun-06,,GST,1208 · NAB Qantas Business Card,,66.4,,66.4,Expense,6.64
+"379,555",04/12/2023,RZ141115,Australian Tax Office,Facebook,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,6.64,,6.64,Other Current Liability,
+"379,556",04/12/2023,RZ141116,CanIBuild,CanIBuild,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,324.5,-324.5,Bank,
+"379,556",04/12/2023,RZ141116,CanIBuild,CanIBuild,1 x Month Site Plan Software,,,1479,Annual Membership,6-1479,,GST,1208 · NAB Qantas Business Card,,295,,295,Expense,29.5
+"379,556",04/12/2023,RZ141116,Australian Tax Office,CanIBuild,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,29.5,,29.5,Other Current Liability,
+"379,557",04/12/2023,RZ141117,BlinQ,BlinQ,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,535,-535,Bank,
+"379,557",04/12/2023,RZ141117,BlinQ,BlinQ,Quoting Software - Monthly Fee,,,1479,Annual Membership,6-1479,,GST,1208 · NAB Qantas Business Card,,486.36,,486.36,Expense,48.64
+"379,557",04/12/2023,RZ141117,Australian Tax Office,BlinQ,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,48.64,,48.64,Other Current Liability,
+"379,558",04/12/2023,RZ141118,Google Ads,Google Ads,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,"1,000.47","-1,000.47",Bank,
+"379,558",04/12/2023,RZ141118,Google Ads,Google Ads,,,,1452,Google,6-1452,,GST,1208 · NAB Qantas Business Card,,909.52,,909.52,Expense,90.95
+"379,558",04/12/2023,RZ141118,Australian Tax Office,Google Ads,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,90.95,,90.95,Other Current Liability,
+"379,633",04/12/2023,RZ141149,Boodles Concreting,Boodles Concreting,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,"8,547.00","-8,547.00",Bank,
+"379,633",04/12/2023,RZ141149,Boodles Concreting,Boodles Concreting,Concrete purchased from Gayndah plant for AMAC Concreting,,,1445,Purchases,5-1445,,GST,1208 · NAB Qantas Business Card,,"7,770.00",,"7,770.00",Cost of Goods Sold,777
+"379,633",04/12/2023,RZ141149,Australian Tax Office,Boodles Concreting,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,777,,777,Other Current Liability,
+"378,060",05/12/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,"1,709.30","-1,709.30",Bank,
+"378,060",05/12/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,"1,553.91",,"1,553.91",Cost of Goods Sold,155.39
+"378,060",05/12/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,155.39,,155.39,Other Current Liability,
+"379,559",05/12/2023,RZ141119,Rally for a Cause,Rally for a Cause,Dunga Derby,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,100,-100,Bank,
+"379,559",05/12/2023,RZ141119,Rally for a Cause,Rally for a Cause,Raffle Ticket,,,1458,Sponsorship,6-1458,,N-T,1208 · NAB Qantas Business Card,,100,,100,Expense,0
+"379,559",05/12/2023,RZ141119,Australian Tax Office,Rally for a Cause,Not Registered for GST,,NRG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,0,,0,Other Current Liability,
+"378,061",06/12/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,329.05,-329.05,Bank,
+"378,061",06/12/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,299.14,,299.14,Cost of Goods Sold,29.91
+"378,061",06/12/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,29.91,,29.91,Other Current Liability,
+"379,560",07/12/2023,RZ141120,ASSA,ASSA,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,55.7,-55.7,Bank,
+"379,560",07/12/2023,RZ141120,ASSA,ASSA,,,,1627,Membership Fees,6-1627,,GST,1208 · NAB Qantas Business Card,,50.64,,50.64,Expense,5.06
+"379,560",07/12/2023,RZ141120,Australian Tax Office,ASSA,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,5.06,,5.06,Other Current Liability,
+"379,561",07/12/2023,RZ141121,Hampers With Bite,Hampers With Bite,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,494.67,-494.67,Bank,
+"379,561",07/12/2023,RZ141121,Hampers With Bite,Hampers With Bite,,,,2007,Staff Party,Jun-07,,GST,1208 · NAB Qantas Business Card,,449.7,,449.7,Expense,44.97
+"379,561",07/12/2023,RZ141121,Australian Tax Office,Hampers With Bite,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,44.97,,44.97,Other Current Liability,
+"378,062",08/12/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,472.6,-472.6,Bank,
+"378,062",08/12/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,429.64,,429.64,Cost of Goods Sold,42.96
+"378,062",08/12/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,42.96,,42.96,Other Current Liability,
+"379,562",08/12/2023,RZ141122,Blitz Car Spa,Blitz Car Spa,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,30,-30,Bank,
+"379,562",08/12/2023,RZ141122,Blitz Car Spa,Blitz Car Spa,,,,1727,Repairs & Maintenance,6-1727,,GST,1208 · NAB Qantas Business Card,,27.27,,27.27,Expense,2.73
+"379,562",08/12/2023,RZ141122,Australian Tax Office,Blitz Car Spa,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,2.73,,2.73,Other Current Liability,
+"379,563",08/12/2023,RZ141123,Microsoftstore,Microsoftstore,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,171.38,-171.38,Bank,
+"379,563",08/12/2023,RZ141123,Microsoftstore,Microsoftstore,Microsoft365 Subscriptions,,,1478,Computer/Internet/Came Expenses,6-1478,,GST,1208 · NAB Qantas Business Card,,155.8,,155.8,Expense,15.58
+"379,563",08/12/2023,RZ141123,Australian Tax Office,Microsoftstore,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,15.58,,15.58,Other Current Liability,
+"379,564",08/12/2023,RZ141124,FHA Wholesalers,FHA Wholesalers,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,"48,194.13",########,Bank,
+"379,564",08/12/2023,RZ141124,FHA Wholesalers,FHA Wholesalers,,,,1445,Purchases,5-1445,,GST,1208 · NAB Qantas Business Card,,"43,812.85",,"43,812.85",Cost of Goods Sold,"4,381.28"
+"379,564",08/12/2023,RZ141124,Australian Tax Office,FHA Wholesalers,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,"4,381.28",,"4,381.28",Other Current Liability,
+"378,694",11/12/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,629.45,-629.45,Bank,
+"378,694",11/12/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,572.23,,572.23,Cost of Goods Sold,57.22
+"378,694",11/12/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,57.22,,57.22,Other Current Liability,
+"379,566",11/12/2023,RZ141125,Microsoftstore,Microsoftstore,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,18.92,-18.92,Bank,
+"379,566",11/12/2023,RZ141125,Microsoftstore,Microsoftstore,Microsoft365 Subscriptions,,,1478,Computer/Internet/Came Expenses,6-1478,,GST,1208 · NAB Qantas Business Card,,17.2,,17.2,Expense,1.72
+"379,566",11/12/2023,RZ141125,Australian Tax Office,Microsoftstore,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,1.72,,1.72,Other Current Liability,
+"379,634",11/12/2023,RZ141150,Garry Crick Auto,Garry Crick Auto,,,,1208,NAB Qantas Business Card,1-1208,,N-T,1760 · Repairs & Maintenance,,,399,-399,Bank,
+"379,634",11/12/2023,RZ141150,Garry Crick Auto,Garry Crick Auto,,,,1760,Repairs & Maintenance,6-1760,,N-T,1208 · NAB Qantas Business Card,,399,,399,Expense,0
+"378,697",12/12/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,272,-272,Bank,
+"378,697",12/12/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,247.27,,247.27,Cost of Goods Sold,24.73
+"378,697",12/12/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,24.73,,24.73,Other Current Liability,
+"378,698",13/12/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,"1,144.80","-1,144.80",Bank,
+"378,698",13/12/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,"1,040.73",,"1,040.73",Cost of Goods Sold,104.07
+"378,698",13/12/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,104.07,,104.07,Other Current Liability,
+"379,567",14/12/2023,RZ141126,Dominos Pizza,Dominos Pizza,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,225,-225,Bank,
+"379,567",14/12/2023,RZ141126,Dominos Pizza,Dominos Pizza,Christmas Party,,,2007,Staff Party,Jun-07,,GST,1208 · NAB Qantas Business Card,,204.55,,204.55,Expense,20.45
+"379,567",14/12/2023,RZ141126,Australian Tax Office,Dominos Pizza,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,20.45,,20.45,Other Current Liability,
+"379,568",14/12/2023,RZ141127,RACQ,RACQ,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,235.7,-235.7,Bank,
+"379,568",14/12/2023,RZ141127,RACQ,RACQ,RACQ Membership Sam Hill,,,1727,Repairs & Maintenance,6-1727,,GST,1208 · NAB Qantas Business Card,,214.27,,214.27,Expense,21.43
+"379,568",14/12/2023,RZ141127,Australian Tax Office,RACQ,10% GST,,GST-P,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,21.43,,21.43,Other Current Liability,
+"379,570",14/12/2023,RZ141128,Amf Magnetics,Amf Magnetics,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,432,-432,Bank,
+"379,570",14/12/2023,RZ141128,Amf Magnetics,Amf Magnetics,Magnetic Paper,,,1966,Printing and Stationery,Jun-66,,GST,1208 · NAB Qantas Business Card,,392.73,,392.73,Expense,39.27
+"379,570",14/12/2023,RZ141128,Australian Tax Office,Amf Magnetics,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,39.27,,39.27,Other Current Liability,
+"378,552",15/12/2023,,"Blight, Michael","Blight, Michael",,,,1222,Universal Home Improvements Acc,1-1222,,N-T,1224 · Accounts Receivable,,,"1,215.00","-1,215.00",Bank,
+"378,552",15/12/2023,,"Blight, Michael","Blight, Michael",,,,1224,Accounts Receivable,Jan-00,Tiles Hervey Bay,N-T,1222 · Universal Home Improvements Acc,,"1,215.00",,"1,215.00",Accounts Receivable,
+"379,572",15/12/2023,RZ141129,Subway,Subway,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,233.50,-233.5,Bank,
+"379,572",15/12/2023,RZ141129,Subway,Subway,XMAS Party,,,2007,Staff Party,Jun-07,,GST,1208 · NAB Qantas Business Card,,212.27,,212.27,Expense,21.23
+"379,572",15/12/2023,RZ141129,Australian Tax Office,Subway,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,21.23,,21.23,Other Current Liability,
+"379,573",15/12/2023,RZ141130,FHA Wholesalers,FHA Wholesalers,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,"33,499.84",########,Bank,
+"379,573",15/12/2023,RZ141130,FHA Wholesalers,FHA Wholesalers,,,,1445,Purchases,5-1445,,GST,1208 · NAB Qantas Business Card,,"30,454.40",,"30,454.40",Cost of Goods Sold,"3,045.44"
+"379,573",15/12/2023,RZ141130,Australian Tax Office,FHA Wholesalers,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,"3,045.44",,"3,045.44",Other Current Liability,
+"379,194",18/12/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,"1,245.50","-1,245.50",Bank,
+"379,194",18/12/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,"1,132.27",,"1,132.27",Cost of Goods Sold,113.23
+"379,194",18/12/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,113.23,,113.23,Other Current Liability,
+"378,819",19/12/2023,,"Weatherley, Ian & Leigh","Weatherley, Ian & Leigh",,,,1222,Universal Home Improvements Acc,1-1222,,N-T,1224 · Accounts Receivable,,,"1,000.00","-1,000.00",Bank,
+"378,819",19/12/2023,,"Weatherley, Ian & Leigh","Weatherley, Ian & Leigh",,,,1224,Accounts Receivable,Jan-00,Patios,N-T,1222 · Universal Home Improvements Acc,,"1,000.00",,"1,000.00",Accounts Receivable,
+"378,825",19/12/2023,RZ141107,Sydney Tools,Sydney Tools,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,907.50,-907.5,Bank,
+"378,825",19/12/2023,RZ141107,Sydney Tools,Sydney Tools,Thermal Camera for Patio Leaks,,,2016,Tools & Machinery,Jun-16,,GST,1208 · NAB Qantas Business Card,,825,,825,Expense,82.5
+"378,825",19/12/2023,RZ141107,Australian Tax Office,Sydney Tools,10% GST,,GST-P,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,82.5,,82.5,Other Current Liability,
+"379,195",19/12/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,314.75,-314.75,Bank,
+"379,195",19/12/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,286.14,,286.14,Cost of Goods Sold,28.61
+"379,195",19/12/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,28.61,,28.61,Other Current Liability,
+"378,974",20/12/2023,,"Betrovic, Alexanda","Betrovic, Alexanda",,,,1222,Universal Home Improvements Acc,1-1222,,N-T,1224 · Accounts Receivable,,,"6,669.50","-6,669.50",Bank,
+"378,974",20/12/2023,,"Betrovic, Alexanda","Betrovic, Alexanda",,,,1224,Accounts Receivable,Jan-00,Tiles Hervey Bay,N-T,1222 · Universal Home Improvements Acc,,"6,669.50",,"6,669.50",Accounts Receivable,
+"379,196",20/12/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,"3,167.35","-3,167.35",Bank,
+"379,196",20/12/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,"2,879.41",,"2,879.41",Cost of Goods Sold,287.94
+"379,196",20/12/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,287.94,,287.94,Other Current Liability,
+"379,061",21/12/2023,,"Wilson, Leanne","Wilson, Leanne",,,,1222,Universal Home Improvements Acc,1-1222,,N-T,1224 · Accounts Receivable,,,"12,000.00",########,Bank,
+"379,061",21/12/2023,,"Wilson, Leanne","Wilson, Leanne",,,,1224,Accounts Receivable,Jan-00,Patios,N-T,1222 · Universal Home Improvements Acc,,"12,000.00",,"12,000.00",Accounts Receivable,
+"379,107",21/12/2023,RZ141108,Dan Murphys,Dan Murphys,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,907.60,-907.6,Bank,
+"379,107",21/12/2023,RZ141108,Dan Murphys,Dan Murphys,Christmas Party Drinks.,,,2007,Staff Party,Jun-07,,GST,1208 · NAB Qantas Business Card,,825.09,,825.09,Expense,82.51
+"379,107",21/12/2023,RZ141108,Australian Tax Office,Dan Murphys,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,82.51,,82.51,Other Current Liability,
+"379,155",21/12/2023,,"Johnson, Gene","Johnson, Gene",,,,1222,Universal Home Improvements Acc,1-1222,,N-T,1224 · Accounts Receivable,,,"1,950.00","-1,950.00",Bank,
+"379,155",21/12/2023,,"Johnson, Gene","Johnson, Gene",,,,1224,Accounts Receivable,Jan-00,"Blinds, Awnings & Shutters",N-T,1222 · Universal Home Improvements Acc,,"1,950.00",,"1,950.00",Accounts Receivable,
+"379,198",21/12/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,"1,201.05","-1,201.05",Bank,
+"379,198",21/12/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,"1,091.86",,"1,091.86",Cost of Goods Sold,109.19
+"379,198",21/12/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,109.19,,109.19,Other Current Liability,
+"379,574",21/12/2023,RZ141131,FHA Wholesalers,FHA Wholesalers,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,"26,000.00",########,Bank,
+"379,574",21/12/2023,RZ141131,FHA Wholesalers,FHA Wholesalers,,,,1445,Purchases,5-1445,,GST,1208 · NAB Qantas Business Card,,"23,636.36",,"23,636.36",Cost of Goods Sold,"2,363.64"
+"379,574",21/12/2023,RZ141131,Australian Tax Office,FHA Wholesalers,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,"2,363.64",,"2,363.64",Other Current Liability,
+"379,576",22/12/2023,RZ141132,Microsoftstore,Microsoftstore,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,139.00,-139,Bank,
+"379,576",22/12/2023,RZ141132,Microsoftstore,Microsoftstore,Microsoft365 Subscriptions,,,1478,Computer/Internet/Came Expenses,6-1478,,GST,1208 · NAB Qantas Business Card,,126.36,,126.36,Expense,12.64
+"379,576",22/12/2023,RZ141132,Australian Tax Office,Microsoftstore,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,12.64,,12.64,Other Current Liability,
+"379,580",22/12/2023,RZ141133,JB Hi Fi,JB Hi Fi,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,"1,399.00","-1,399.00",Bank,
+"379,580",22/12/2023,RZ141133,JB Hi Fi,JB Hi Fi,Laptop,,,1478,Computer/Internet/Came Expenses,6-1478,,GST,1208 · NAB Qantas Business Card,,"1,271.82",,"1,271.82",Expense,127.18
+"379,580",22/12/2023,RZ141133,Australian Tax Office,JB Hi Fi,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,127.18,,127.18,Other Current Liability,
+"379,581",22/12/2023,RZ141134,FHA Wholesalers,FHA Wholesalers,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,"27,718.03",########,Bank,
+"379,581",22/12/2023,RZ141134,FHA Wholesalers,FHA Wholesalers,,,,1445,Purchases,5-1445,,GST,1208 · NAB Qantas Business Card,,"25,198.21",,"25,198.21",Cost of Goods Sold,"2,519.82"
+"379,581",22/12/2023,RZ141134,Australian Tax Office,FHA Wholesalers,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,"2,519.82",,"2,519.82",Other Current Liability,
+"379,837",22/12/2023,OLB,qbcc,qbcc,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,286.25,-286.25,Bank,
+"379,837",22/12/2023,OLB,qbcc,qbcc,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,260.23,,260.23,Cost of Goods Sold,26.02
+"379,837",22/12/2023,OLB,Australian Tax Office,qbcc,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,26.02,,26.02,Other Current Liability,
+"379,587",27/12/2023,RZ141135,ALH Group,ALH Group,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,766.53,-766.53,Bank,
+"379,587",27/12/2023,RZ141135,ALH Group,ALH Group,Christmas Party,,,2007,Staff Party,Jun-07,,GST,1208 · NAB Qantas Business Card,,696.85,,696.85,Expense,69.68
+"379,587",27/12/2023,RZ141135,Australian Tax Office,ALH Group,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,69.68,,69.68,Other Current Liability,
+"379,588",27/12/2023,RZ141136,ALH Group,ALH Group,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,17.4,-17.4,Bank,
+"379,588",27/12/2023,RZ141136,ALH Group,ALH Group,Christmas Party,,,2007,Staff Party,Jun-07,,GST,1208 · NAB Qantas Business Card,,15.82,,15.82,Expense,1.58
+"379,588",27/12/2023,RZ141136,Australian Tax Office,ALH Group,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,1.58,,1.58,Other Current Liability,
+"379,590",27/12/2023,RZ141137,News Corp Australia,News Corp Australia,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,30,-30,Bank,
+"379,590",27/12/2023,RZ141137,News Corp Australia,News Corp Australia,Courier Mail Subscription,,,2007,Staff Party,Jun-07,,GST,1208 · NAB Qantas Business Card,,27.27,,27.27,Expense,2.73
+"379,590",27/12/2023,RZ141137,Australian Tax Office,News Corp Australia,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,2.73,,2.73,Other Current Liability,
+"379,592",27/12/2023,RZ141138,Creditor Watch,Creditor Watch,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,549.47,-549.47,Bank,
+"379,592",27/12/2023,RZ141138,Creditor Watch,Creditor Watch,Credit Check Annual Subscription,,,1447,Accountancy Fees,6-1447,,GST,1208 · NAB Qantas Business Card,,499.52,,499.52,Expense,49.95
+"379,592",27/12/2023,RZ141138,Australian Tax Office,Creditor Watch,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,49.95,,49.95,Other Current Liability,
+"379,593",28/12/2023,RZ141139,National Australia Bank *,National Australia Bank *,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,36,-36,Bank,
+"379,593",28/12/2023,RZ141139,National Australia Bank *,National Australia Bank *,3 x Card Fees,,,1469,Bank Charges,6-1469,,FRE,1208 · NAB Qantas Business Card,,36,,36,Expense,0
+"379,593",28/12/2023,RZ141139,Australian Tax Office,National Australia Bank *,Non-Cap. Acq. - GST Free,,NCF,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,0,,0,Other Current Liability,
+"379,595",29/12/2023,RZ141140,JB Hi Fi,JB Hi Fi,,,,1208,NAB Qantas Business Card,1-1208,,N-T,-SPLIT-,,,"2,237.00","-2,237.00",Bank,
+"379,595",29/12/2023,RZ141140,JB Hi Fi,JB Hi Fi,Security System,,,1478,Computer/Internet/Came Expenses,6-1478,,GST,1208 · NAB Qantas Business Card,,"2,033.64",,"2,033.64",Expense,203.36
+"379,595",29/12/2023,RZ141140,Australian Tax Office,JB Hi Fi,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1208 · NAB Qantas Business Card,,203.36,,203.36,Other Current Liability,
+"379,838",29/12/2023,OLB,NAB,NAB,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,997.61,-997.61,Bank,
+"379,838",29/12/2023,OLB,NAB,NAB,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,906.92,,906.92,Cost of Goods Sold,90.69
+"379,838",29/12/2023,OLB,Australian Tax Office,NAB,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,90.69,,90.69,Other Current Liability,
+"379,839",29/12/2023,OLB,NAB,NAB,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,400.5,-400.5,Bank,
+"379,839",29/12/2023,OLB,NAB,NAB,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,364.09,,364.09,Cost of Goods Sold,36.41
+"379,839",29/12/2023,OLB,Australian Tax Office,NAB,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,36.41,,36.41,Other Current Liability,
+"379,840",29/12/2023,OLB,BOQ Finance - Photocopier,BOQ Finance - Photocopier,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,346.5,-346.5,Bank,
+"379,840",29/12/2023,OLB,BOQ Finance - Photocopier,BOQ Finance - Photocopier,,,,1966,Printing and Stationery,Jun-66,,GST,1222 · Universal Home Improvements Acc,,315,,315,Expense,31.5
+"379,840",29/12/2023,OLB,Australian Tax Office,BOQ Finance - Photocopier,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,31.5,,31.5,Other Current Liability,
+"379,841",29/12/2023,OLB,NAB,NAB,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,112.75,-112.75,Bank,
+"379,841",29/12/2023,OLB,NAB,NAB,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,102.5,,102.5,Cost of Goods Sold,10.25
+"379,841",29/12/2023,OLB,Australian Tax Office,NAB,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,10.25,,10.25,Other Current Liability,
+"379,842",29/12/2023,OLB,NAB,NAB,,,,1222,Universal Home Improvements Acc,1-1222,,N-T,-SPLIT-,,,10,-10,Bank,
+"379,842",29/12/2023,OLB,NAB,NAB,,,,1439,"Licences, Fees and Permits",5-1439,,GST,1222 · Universal Home Improvements Acc,,9.09,,9.09,Cost of Goods Sold,0.91
+"379,842",29/12/2023,OLB,Australian Tax Office,NAB,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1222 · Universal Home Improvements Acc,,0.91,,0.91,Other Current Liability,
+"379,852",29/12/2023,Fee,National Australia Bank,National Australia Bank,,,,1204,Choices Flooring Noosaville,1-1204,,N-T,-SPLIT-,,,10,-10,Bank,
+"379,852",29/12/2023,Fee,National Australia Bank,National Australia Bank,,,,1907,Bank Charges,Jun-07,,FRE,1204 · Choices Flooring Noosaville,,10,,10,Expense,0
+"379,852",29/12/2023,Fee,Australian Tax Office,National Australia Bank,Non-Cap. Acq. - GST Free,,NCF,2200,Tax Payable,Feb-00,,N-T,1204 · Choices Flooring Noosaville,,0,,0,Other Current Liability,
+"379,853",29/12/2023,Fee,National Australia Bank,National Australia Bank,,,,1204,Choices Flooring Noosaville,1-1204,,N-T,-SPLIT-,,,59.18,-59.18,Bank,
+"379,853",29/12/2023,Fee,National Australia Bank,National Australia Bank,,,,1910,Merchant Fee,Jun-10,,GST,1204 · Choices Flooring Noosaville,,53.8,,53.8,Expense,5.38
+"379,853",29/12/2023,Fee,Australian Tax Office,National Australia Bank,Non-Cap. Acq. - Inc GST,,NCG,2200,Tax Payable,Feb-00,,N-T,1204 · Choices Flooring Noosaville,,5.38,,5.38,Other Current Liability,

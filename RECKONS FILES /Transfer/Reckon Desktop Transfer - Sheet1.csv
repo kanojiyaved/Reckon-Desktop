@@ -1,0 +1,105 @@
+Trans #,Date,Description,Account,Name,Code,Tax Code,Split,Debit,Credit,Amount,Account Type
+"363,866",07/07/2023,Funds Transfer,1204,Choices Flooring Noosaville,1-1204,N-T,1208 · NAB Qantas Business Card,,"70,000.00","-70,000.00",Bank
+"363,866",07/07/2023,Funds Transfer,1208,NAB Qantas Business Card,1-1208,N-T,1204 · Choices Flooring Noosaville,"70,000.00",,"70,000.00",Bank
+"364,293",12/07/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1208 · NAB Qantas Business Card,,865.79,-865.79,Bank
+"364,293",12/07/2023,Funds Transfer,1208,NAB Qantas Business Card,1-1208,N-T,1222 · Universal Home Improvements Acc,865.79,,865.79,Bank
+"365,076",21/07/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1208 · NAB Qantas Business Card,,"43,000.00","-43,000.00",Bank
+"365,076",21/07/2023,Funds Transfer,1208,NAB Qantas Business Card,1-1208,N-T,1222 · Universal Home Improvements Acc,"43,000.00",,"43,000.00",Bank
+"365,201",24/07/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1206 · Long Service Leave Account,,"25,000.00","-25,000.00",Bank
+"365,201",24/07/2023,Funds Transfer,1206,Long Service Leave Account,1-1206,N-T,1222 · Universal Home Improvements Acc,"25,000.00",,"25,000.00",Bank
+"365,202",24/07/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1221 · UHI 2nd Account,,"25,000.00","-25,000.00",Bank
+"365,202",24/07/2023,Funds Transfer,1221,UHI 2nd Account,1-1221,N-T,1222 · Universal Home Improvements Acc,"25,000.00",,"25,000.00",Bank
+"365,293",25/07/2023,Funds Transfer,1204,Choices Flooring Noosaville,1-1204,N-T,1222 · Universal Home Improvements Acc,,"65,000.00","-65,000.00",Bank
+"365,293",25/07/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1204 · Choices Flooring Noosaville,"65,000.00",,"65,000.00",Bank
+"365,637",31/07/2023,Funds Transfer,1221,UHI 2nd Account,1-1221,N-T,1222 · Universal Home Improvements Acc,,"13,706.96","-13,706.96",Bank
+"365,637",31/07/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1221 · UHI 2nd Account,"13,706.96",,"13,706.96",Bank
+"365,700",31/07/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1208 · NAB Qantas Business Card,,"52,000.00","-52,000.00",Bank
+"365,700",31/07/2023,Funds Transfer,1208,NAB Qantas Business Card,1-1208,N-T,1222 · Universal Home Improvements Acc,"52,000.00",,"52,000.00",Bank
+"366,067",03/08/2023,Funds Transfer,1232,Loan to UHI Investments,1-1232,N-T,1227 · Loan to Bemeko,,"400,000.00","-400,000.00",Other Current Asset
+"366,067",03/08/2023,Funds Transfer,1227,Loan to Bemeko,1-1227,N-T,1232 · Loan to UHI Investments,"400,000.00",,"400,000.00",Other Current Asset
+"366,123",03/08/2023,Funds Transfer,1204,Choices Flooring Noosaville,1-1204,N-T,1222 · Universal Home Improvements Acc,,"60,000.00","-60,000.00",Bank
+"366,123",03/08/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1204 · Choices Flooring Noosaville,"60,000.00",,"60,000.00",Bank
+"366,126",03/08/2023,Funds Transfer,1221,UHI 2nd Account,1-1221,N-T,1222 · Universal Home Improvements Acc,,"31,713.41","-31,713.41",Bank
+"366,126",03/08/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1221 · UHI 2nd Account,"31,713.41",,"31,713.41",Bank
+"366,127",03/08/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1208 · NAB Qantas Business Card,,"60,000.00","-60,000.00",Bank
+"366,127",03/08/2023,Funds Transfer,1208,NAB Qantas Business Card,1-1208,N-T,1222 · Universal Home Improvements Acc,"60,000.00",,"60,000.00",Bank
+"366,415",11/08/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1208 · NAB Qantas Business Card,,"52,739.38","-52,739.38",Bank
+"366,415",11/08/2023,Funds Transfer,1208,NAB Qantas Business Card,1-1208,N-T,1222 · Universal Home Improvements Acc,"52,739.38",,"52,739.38",Bank
+"367,039",15/08/2023,Funds Transfer,1204,Choices Flooring Noosaville,1-1204,N-T,1222 · Universal Home Improvements Acc,,"65,000.00","-65,000.00",Bank
+"367,039",15/08/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1204 · Choices Flooring Noosaville,"65,000.00",,"65,000.00",Bank
+"367,168",17/08/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1206 · Long Service Leave Account,,"50,000.00","-50,000.00",Bank
+"367,168",17/08/2023,Funds Transfer,1206,Long Service Leave Account,1-1206,N-T,1222 · Universal Home Improvements Acc,"50,000.00",,"50,000.00",Bank
+"367,235",17/08/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1208 · NAB Qantas Business Card,,"50,000.00","-50,000.00",Bank
+"367,235",17/08/2023,Funds Transfer,1208,NAB Qantas Business Card,1-1208,N-T,1222 · Universal Home Improvements Acc,"50,000.00",,"50,000.00",Bank
+"367,568",22/08/2023,Funds Transfer,1221,UHI 2nd Account,1-1221,N-T,1222 · Universal Home Improvements Acc,,"64,810.46","-64,810.46",Bank
+"367,568",22/08/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1221 · UHI 2nd Account,"64,810.46",,"64,810.46",Bank
+"367,910",25/08/2023,Funds Transfer,1204,Choices Flooring Noosaville,1-1204,N-T,1222 · Universal Home Improvements Acc,,"50,000.00","-50,000.00",Bank
+"367,910",25/08/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1204 · Choices Flooring Noosaville,"50,000.00",,"50,000.00",Bank
+"367,989",25/08/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1208 · NAB Qantas Business Card,,"60,000.00","-60,000.00",Bank
+"367,989",25/08/2023,Funds Transfer,1208,NAB Qantas Business Card,1-1208,N-T,1222 · Universal Home Improvements Acc,"60,000.00",,"60,000.00",Bank
+"368,017",28/08/2023,Funds Transfer,1221,UHI 2nd Account,1-1221,N-T,1222 · Universal Home Improvements Acc,,"24,640.00","-24,640.00",Bank
+"368,017",28/08/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1221 · UHI 2nd Account,"24,640.00",,"24,640.00",Bank
+"368,530",31/08/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1208 · NAB Qantas Business Card,,"50,000.00","-50,000.00",Bank
+"368,530",31/08/2023,Funds Transfer,1208,NAB Qantas Business Card,1-1208,N-T,1222 · Universal Home Improvements Acc,"50,000.00",,"50,000.00",Bank
+"369,089",06/09/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1208 · NAB Qantas Business Card,,"45,000.00","-45,000.00",Bank
+"369,089",06/09/2023,Funds Transfer,1208,NAB Qantas Business Card,1-1208,N-T,1222 · Universal Home Improvements Acc,"45,000.00",,"45,000.00",Bank
+"369,174",08/09/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1206 · Long Service Leave Account,,"50,000.00","-50,000.00",Bank
+"369,174",08/09/2023,Funds Transfer,1206,Long Service Leave Account,1-1206,N-T,1222 · Universal Home Improvements Acc,"50,000.00",,"50,000.00",Bank
+"369,175",08/09/2023,Funds Transfer,1204,Choices Flooring Noosaville,1-1204,N-T,1222 · Universal Home Improvements Acc,,"55,000.00","-55,000.00",Bank
+"369,175",08/09/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1204 · Choices Flooring Noosaville,"55,000.00",,"55,000.00",Bank
+"369,836",14/09/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1208 · NAB Qantas Business Card,,"60,000.00","-60,000.00",Bank
+"369,836",14/09/2023,Funds Transfer,1208,NAB Qantas Business Card,1-1208,N-T,1222 · Universal Home Improvements Acc,"60,000.00",,"60,000.00",Bank
+"370,698",25/09/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1208 · NAB Qantas Business Card,,"45,000.00","-45,000.00",Bank
+"370,698",25/09/2023,Funds Transfer,1208,NAB Qantas Business Card,1-1208,N-T,1222 · Universal Home Improvements Acc,"45,000.00",,"45,000.00",Bank
+"370,912",27/09/2023,Funds Transfer,1204,Choices Flooring Noosaville,1-1204,N-T,1222 · Universal Home Improvements Acc,,"90,000.00","-90,000.00",Bank
+"370,912",27/09/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1204 · Choices Flooring Noosaville,"90,000.00",,"90,000.00",Bank
+"371,299",03/10/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1206 · Long Service Leave Account,,"50,000.00","-50,000.00",Bank
+"371,299",03/10/2023,Funds Transfer,1206,Long Service Leave Account,1-1206,N-T,1222 · Universal Home Improvements Acc,"50,000.00",,"50,000.00",Bank
+"371,303",03/10/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1208 · NAB Qantas Business Card,,"50,000.00","-50,000.00",Bank
+"371,303",03/10/2023,Funds Transfer,1208,NAB Qantas Business Card,1-1208,N-T,1222 · Universal Home Improvements Acc,"50,000.00",,"50,000.00",Bank
+"372,242",11/10/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1208 · NAB Qantas Business Card,,"50,000.00","-50,000.00",Bank
+"372,242",11/10/2023,Funds Transfer,1208,NAB Qantas Business Card,1-1208,N-T,1222 · Universal Home Improvements Acc,"50,000.00",,"50,000.00",Bank
+"372,274",12/10/2023,Funds Transfer,1204,Choices Flooring Noosaville,1-1204,N-T,1222 · Universal Home Improvements Acc,,"70,000.00","-70,000.00",Bank
+"372,274",12/10/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1204 · Choices Flooring Noosaville,"70,000.00",,"70,000.00",Bank
+"372,713",17/10/2023,Funds Transfer,1221,UHI 2nd Account,1-1221,N-T,1222 · Universal Home Improvements Acc,,"29,424.09","-29,424.09",Bank
+"372,713",17/10/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1221 · UHI 2nd Account,"29,424.09",,"29,424.09",Bank
+"372,918",17/10/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1208 · NAB Qantas Business Card,,"30,000.00","-30,000.00",Bank
+"372,918",17/10/2023,Funds Transfer,1208,NAB Qantas Business Card,1-1208,N-T,1222 · Universal Home Improvements Acc,"30,000.00",,"30,000.00",Bank
+"373,338",23/10/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1208 · NAB Qantas Business Card,,"25,000.00","-25,000.00",Bank
+"373,338",23/10/2023,Funds Transfer,1208,NAB Qantas Business Card,1-1208,N-T,1222 · Universal Home Improvements Acc,"25,000.00",,"25,000.00",Bank
+"373,339",23/10/2023,Funds Transfer,1204,Choices Flooring Noosaville,1-1204,N-T,1222 · Universal Home Improvements Acc,,"60,000.00","-60,000.00",Bank
+"373,339",23/10/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1204 · Choices Flooring Noosaville,"60,000.00",,"60,000.00",Bank
+"373,856",27/10/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1208 · NAB Qantas Business Card,,"50,000.00","-50,000.00",Bank
+"373,856",27/10/2023,Funds Transfer,1208,NAB Qantas Business Card,1-1208,N-T,1222 · Universal Home Improvements Acc,"50,000.00",,"50,000.00",Bank
+"373,407",01/11/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1206 · Long Service Leave Account,,"50,000.00","-50,000.00",Bank
+"373,407",01/11/2023,Funds Transfer,1206,Long Service Leave Account,1-1206,N-T,1222 · Universal Home Improvements Acc,"50,000.00",,"50,000.00",Bank
+"374,312",01/11/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1208 · NAB Qantas Business Card,,"35,000.00","-35,000.00",Bank
+"374,312",01/11/2023,Funds Transfer,1208,NAB Qantas Business Card,1-1208,N-T,1222 · Universal Home Improvements Acc,"35,000.00",,"35,000.00",Bank
+"374,721",02/11/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1201 · Term Deposit 5,,"500,000.00","-500,000.00",Bank
+"374,721",02/11/2023,Funds Transfer,1201,Term Deposit 5,1-1201,N-T,1222 · Universal Home Improvements Acc,"500,000.00",,"500,000.00",Bank
+"374,720",07/11/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1208 · NAB Qantas Business Card,,"50,000.00","-50,000.00",Bank
+"374,720",07/11/2023,Funds Transfer,1208,NAB Qantas Business Card,1-1208,N-T,1222 · Universal Home Improvements Acc,"50,000.00",,"50,000.00",Bank
+"375,096",10/11/2023,Funds Transfer,1204,Choices Flooring Noosaville,1-1204,N-T,1222 · Universal Home Improvements Acc,,"130,000.00","-130,000.00",Bank
+"375,096",10/11/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1204 · Choices Flooring Noosaville,"130,000.00",,"130,000.00",Bank
+"375,161",10/11/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1208 · NAB Qantas Business Card,,"45,000.00","-45,000.00",Bank
+"375,161",10/11/2023,Funds Transfer,1208,NAB Qantas Business Card,1-1208,N-T,1222 · Universal Home Improvements Acc,"45,000.00",,"45,000.00",Bank
+"375,742",16/11/2023,Funds Transfer,1204,Choices Flooring Noosaville,1-1204,N-T,1222 · Universal Home Improvements Acc,,"50,000.00","-50,000.00",Bank
+"375,742",16/11/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1204 · Choices Flooring Noosaville,"50,000.00",,"50,000.00",Bank
+"376,387",23/11/2023,Funds Transfer,1204,Choices Flooring Noosaville,1-1204,N-T,1222 · Universal Home Improvements Acc,,"50,000.00","-50,000.00",Bank
+"376,387",23/11/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1204 · Choices Flooring Noosaville,"50,000.00",,"50,000.00",Bank
+"376,512",24/11/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1208 · NAB Qantas Business Card,,"50,000.00","-50,000.00",Bank
+"376,512",24/11/2023,Funds Transfer,1208,NAB Qantas Business Card,1-1208,N-T,1222 · Universal Home Improvements Acc,"50,000.00",,"50,000.00",Bank
+"377,147",29/11/2023,Funds Transfer,1220,Term Deposit Macquarie Bank,1-1220,N-T,1221 · UHI 2nd Account,,"259,750.00","-259,750.00",Bank
+"377,147",29/11/2023,Funds Transfer,1221,UHI 2nd Account,1-1221,N-T,1220 · Term Deposit Macquarie Bank,"259,750.00",,"259,750.00",Bank
+"377,602",06/12/2023,Funds Transfer,1204,Choices Flooring Noosaville,1-1204,N-T,1208 · NAB Qantas Business Card,,"35,000.00","-35,000.00",Bank
+"377,602",06/12/2023,Funds Transfer,1208,NAB Qantas Business Card,1-1208,N-T,1204 · Choices Flooring Noosaville,"35,000.00",,"35,000.00",Bank
+"378,035",11/12/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1208 · NAB Qantas Business Card,,"50,000.00","-50,000.00",Bank
+"378,035",11/12/2023,Funds Transfer,1208,NAB Qantas Business Card,1-1208,N-T,1222 · Universal Home Improvements Acc,"50,000.00",,"50,000.00",Bank
+"377,708",12/12/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1208 · NAB Qantas Business Card,,"11,519.32","-11,519.32",Bank
+"377,708",12/12/2023,Funds Transfer,1208,NAB Qantas Business Card,1-1208,N-T,1222 · Universal Home Improvements Acc,"11,519.32",,"11,519.32",Bank
+"378,702",18/12/2023,Funds Transfer,1204,Choices Flooring Noosaville,1-1204,N-T,1208 · NAB Qantas Business Card,,"55,000.00","-55,000.00",Bank
+"378,702",18/12/2023,Funds Transfer,1208,NAB Qantas Business Card,1-1208,N-T,1204 · Choices Flooring Noosaville,"55,000.00",,"55,000.00",Bank
+"378,979",20/12/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1208 · NAB Qantas Business Card,,"70,000.00","-70,000.00",Bank
+"378,979",20/12/2023,Funds Transfer,1208,NAB Qantas Business Card,1-1208,N-T,1222 · Universal Home Improvements Acc,"70,000.00",,"70,000.00",Bank
+"378,981",20/12/2023,Funds Transfer,1204,Choices Flooring Noosaville,1-1204,N-T,1222 · Universal Home Improvements Acc,,"30,000.00","-30,000.00",Bank
+"378,981",20/12/2023,Funds Transfer,1222,Universal Home Improvements Acc,1-1222,N-T,1204 · Choices Flooring Noosaville,"30,000.00",,"30,000.00",Bank
